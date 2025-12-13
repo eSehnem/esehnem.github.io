@@ -606,20 +606,20 @@ Low Turnover International,V,3.4,686.2,2.04,201.0,80.8
 Low Turnover International,JPM,2.71,1222.6,2.36,282.6,100.0
 Swing Trading All,BRAP4,19.39,28.4,2.36,33.2,22.4
 Swing Trading All,ABEV3,12.75,30.8,1.95,30.2,27.7
-Swing Trading All,RADL3,11.5,69.2,1.96,321.0,100.0
-Swing Trading All,PETR3,10.85,33.5,1.03,124.4,72.7
-Swing Trading All,KLBN11,10.0,12.1,1.46,50.8,49.3
+Swing Trading All,RADL3,11.49,69.2,1.96,321.0,100.0
+Swing Trading All,PETR3,10.87,33.5,1.03,124.4,72.7
+Swing Trading All,KLBN11,10.0,9.6,1.25,55.0,51.8
 Swing Trading All,BRKM5,9.14,31.5,1.55,135.1,89.6
-Swing Trading All,PSSA3,8.45,158.2,3.2,71.8,46.3
+Swing Trading All,PSSA3,8.44,158.2,3.2,71.8,46.3
 Swing Trading All,BRSR5,8.04,59.8,1.06,64.8,40.9
 Swing Trading All,META,6.31,870.6,2.32,411.4,100.0
 Swing Trading All,UNIP3,3.58,124.2,2.3,119.3,45.6
-Swing Trading Brazilian,BRAP4,18.32,28.4,2.36,33.2,22.4
-Swing Trading Brazilian,KLBN3,13.25,6.1,2.18,9.3,13.0
-Swing Trading Brazilian,KLBN11,12.77,12.1,1.46,50.8,49.3
+Swing Trading Brazilian,BRAP4,18.28,28.4,2.36,33.2,22.4
+Swing Trading Brazilian,KLBN3,13.24,6.1,2.18,9.3,13.0
+Swing Trading Brazilian,KLBN11,12.8,9.6,1.25,55.0,51.8
 Swing Trading Brazilian,ABEV3,12.65,30.8,1.95,30.2,27.7
 Swing Trading Brazilian,BRKM5,9.54,31.5,1.55,135.1,89.6
-Swing Trading Brazilian,PETR3,9.06,33.5,1.03,124.4,72.7
+Swing Trading Brazilian,PETR3,9.08,33.5,1.03,124.4,72.7
 Swing Trading Brazilian,PSSA3,7.94,158.2,3.2,71.8,46.3
 Swing Trading Brazilian,RADL3,7.0,69.2,1.96,321.0,100.0
 Swing Trading Brazilian,BRSR5,6.79,59.8,1.06,64.8,40.9
@@ -715,9 +715,9 @@ Min Variance All,BPAC3,11.34,151.6,2.57,49.4,25.1
 Min Variance All,BRSR5,8.52,59.8,1.06,64.8,40.9
 Min Variance All,HSBC,8.45,275.3,3.17,65.3,54.3
 Min Variance All,PSSA3,7.8,158.2,3.2,71.8,46.3
-Min Variance All,UNIP3,7.0,124.2,2.3,119.3,45.6
-Min Variance All,JPM,7.0,1222.6,2.36,282.6,100.0
 Min Variance All,GS,7.0,673.2,2.15,338.6,100.0
+Min Variance All,JPM,7.0,1222.6,2.36,282.6,100.0
+Min Variance All,UNIP3,7.0,124.2,2.3,119.3,45.6
 Min Variance All,UNIP6,7.0,337.2,2.25,116.5,59.0
 Min Variance All,ELET6,6.13,266.1,2.3,66.9,37.3
 Min Variance All,AEP,5.35,335.8,2.35,113.9,61.9
@@ -728,16 +728,16 @@ Min Variance All,ELET3,3.53,292.7,2.74,55.0,32.6
 Min Variance All,JNJ,3.5,336.4,1.71,204.4,80.1
 Min Variance All,PETR3,2.33,33.5,1.03,124.4,72.7
 Min Variance All,V,1.23,686.2,2.04,201.0,80.8
-Min Variance All,BRKM5,0.5,31.5,1.55,135.1,89.6
-Min Variance All,KLBN11,0.5,12.1,1.46,50.8,49.3
+Min Variance All,KLBN11,0.5,9.6,1.25,55.0,51.8
 Min Variance All,RADL3,0.5,69.2,1.96,321.0,100.0
-Min Variance Brazilian,ENEV3,12.5,110.9,3.05,30.8,22.4
+Min Variance All,BRKM5,0.5,31.5,1.55,135.1,89.6
 Min Variance Brazilian,CPLE5,12.5,24.7,2.06,32.1,13.7
+Min Variance Brazilian,ENEV3,12.5,110.9,3.05,30.8,22.4
 Min Variance Brazilian,BPAC3,11.34,151.6,2.57,49.4,25.1
 Min Variance Brazilian,CPFE3,10.97,201.2,2.92,44.7,18.7
 Min Variance Brazilian,PSSA3,7.8,158.2,3.2,71.8,46.3
-Min Variance Brazilian,UNIP6,7.0,337.2,2.25,116.5,59.0
 Min Variance Brazilian,UNIP3,7.0,124.2,2.3,119.3,45.6
+Min Variance Brazilian,UNIP6,7.0,337.2,2.25,116.5,59.0
 Min Variance Brazilian,ELET6,6.13,266.1,2.3,66.9,37.3
 Min Variance Brazilian,BRAP4,4.84,28.4,2.36,33.2,22.4
 Min Variance Brazilian,CSMG3,4.39,216.4,2.74,63.8,43.5
@@ -745,12 +745,12 @@ Min Variance Brazilian,BPAC11,4.18,267.1,2.16,67.0,38.7
 Min Variance Brazilian,ELET3,3.53,292.7,2.74,55.0,32.6
 Min Variance Brazilian,BBSE3,3.29,65.5,1.26,49.2,45.8
 Min Variance Brazilian,ITUB4,1.53,138.0,2.17,46.3,25.7
-Min Variance Brazilian,RADL3,0.5,69.2,1.96,321.0,100.0
-Min Variance Brazilian,BRKM5,0.5,31.5,1.55,135.1,89.6
 Min Variance Brazilian,PETR3,0.5,33.5,1.03,124.4,72.7
-Min Variance Brazilian,BRSR5,0.5,59.8,1.06,64.8,40.9
-Min Variance Brazilian,KLBN11,0.5,12.1,1.46,50.8,49.3
+Min Variance Brazilian,RADL3,0.5,69.2,1.96,321.0,100.0
+Min Variance Brazilian,KLBN11,0.5,9.6,1.25,55.0,51.8
 Min Variance Brazilian,BPAC5,0.5,64.8,1.91,30.6,13.0
+Min Variance Brazilian,BRKM5,0.5,31.5,1.55,135.1,89.6
+Min Variance Brazilian,BRSR5,0.5,59.8,1.06,64.8,40.9
 Min Variance International,ELP,16.15,49.9,2.18,18.6,6.8
 Min Variance International,PBR,12.5,63.7,3.08,36.9,30.4
 Min Variance International,GS,10.77,673.2,2.15,338.6,100.0
@@ -764,10 +764,10 @@ Min Variance International,BBD,4.91,20.3,2.37,8.4,3.4
 Min Variance International,META,3.8,870.6,2.32,411.4,100.0
 Min Variance International,CIG,0.77,6.9,1.59,5.3,3.0
 Min Variance International,V,0.77,686.2,2.04,201.0,80.8
-Max Diversification All,KLBN11,14.45,12.1,1.46,50.8,49.3
+Max Diversification All,KLBN11,14.45,9.6,1.25,55.0,51.8
 Max Diversification All,KLBN4,14.45,2.9,0.7,7.6,10.8
 Max Diversification All,KLBN3,14.45,6.1,2.18,9.3,13.0
-Max Diversification All,ABEV3,9.4,30.8,1.95,30.2,27.7
+Max Diversification All,ABEV3,9.39,30.8,1.95,30.2,27.7
 Max Diversification All,JNJ,9.07,336.4,1.71,204.4,80.1
 Max Diversification All,BRKM5,8.38,31.5,1.55,135.1,89.6
 Max Diversification All,PBR,5.6,63.7,3.08,36.9,30.4
@@ -779,21 +779,21 @@ Max Diversification All,UNIP6,2.36,337.2,2.25,116.5,59.0
 Max Diversification All,UNIP3,2.36,124.2,2.3,119.3,45.6
 Max Diversification All,CPLE5,2.18,24.7,2.06,32.1,13.7
 Max Diversification All,PETR3,0.29,33.5,1.03,124.4,72.7
-Max Diversification Brazilian,KLBN3,13.1,6.1,2.18,9.3,13.0
-Max Diversification Brazilian,KLBN4,13.1,2.9,0.7,7.6,10.8
-Max Diversification Brazilian,USIM3,10.46,23.2,1.37,22.1,20.7
-Max Diversification Brazilian,ALUP3,9.99,44.3,2.17,22.5,8.9
-Max Diversification Brazilian,KLBN11,9.7,12.1,1.46,50.8,49.3
-Max Diversification Brazilian,ABEV3,7.0,30.8,1.95,30.2,27.7
-Max Diversification Brazilian,PETR3,6.02,33.5,1.03,124.4,72.7
-Max Diversification Brazilian,PSSA3,6.01,158.2,3.2,71.8,46.3
-Max Diversification Brazilian,BRKM5,5.83,31.5,1.55,135.1,89.6
+Max Diversification Brazilian,KLBN3,13.21,6.1,2.18,9.3,13.0
+Max Diversification Brazilian,KLBN4,13.21,2.9,0.7,7.6,10.8
+Max Diversification Brazilian,USIM3,10.6,23.2,1.37,22.1,20.7
+Max Diversification Brazilian,ALUP3,10.01,44.3,2.17,22.5,8.9
+Max Diversification Brazilian,KLBN11,7.86,9.6,1.25,55.0,51.8
+Max Diversification Brazilian,PETR3,7.28,33.5,1.03,124.4,72.7
+Max Diversification Brazilian,ABEV3,7.03,30.8,1.95,30.2,27.7
+Max Diversification Brazilian,PSSA3,6.06,158.2,3.2,71.8,46.3
+Max Diversification Brazilian,BRKM5,5.87,31.5,1.55,135.1,89.6
 Max Diversification Brazilian,BPAN4,4.91,59.4,1.81,28.0,16.3
-Max Diversification Brazilian,BRSR5,4.65,59.8,1.06,64.8,40.9
-Max Diversification Brazilian,CSMG3,3.68,216.4,2.74,63.8,43.5
+Max Diversification Brazilian,BRSR5,4.67,59.8,1.06,64.8,40.9
+Max Diversification Brazilian,CSMG3,3.71,216.4,2.74,63.8,43.5
 Max Diversification Brazilian,UNIP6,2.12,337.2,2.25,116.5,59.0
-Max Diversification Brazilian,UNIP3,1.76,124.2,2.3,119.3,45.6
-Max Diversification Brazilian,CPLE5,1.68,24.7,2.06,32.1,13.7
+Max Diversification Brazilian,UNIP3,1.77,124.2,2.3,119.3,45.6
+Max Diversification Brazilian,CPLE5,1.69,24.7,2.06,32.1,13.7
 Max Diversification International,META,13.6,870.6,2.32,411.4,100.0
 Max Diversification International,CIG,13.6,6.9,1.59,5.3,3.0
 Max Diversification International,BBD,13.6,20.3,2.37,8.4,3.4
@@ -828,10 +828,10 @@ Mega Diversified All,BPAC3,9.07,151.6,2.57,49.4,25.1
 Mega Diversified All,HSBC,6.86,275.3,3.17,65.3,54.3
 Mega Diversified All,PSSA3,6.24,158.2,3.2,71.8,46.3
 Mega Diversified All,ELET6,6.13,266.1,2.3,66.9,37.3
-Mega Diversified All,JPM,5.6,1222.6,2.36,282.6,100.0
+Mega Diversified All,GS,5.6,673.2,2.15,338.6,100.0
 Mega Diversified All,UNIP6,5.6,337.2,2.25,116.5,59.0
 Mega Diversified All,UNIP3,5.6,124.2,2.3,119.3,45.6
-Mega Diversified All,GS,5.6,673.2,2.15,338.6,100.0
+Mega Diversified All,JPM,5.6,1222.6,2.36,282.6,100.0
 Mega Diversified All,AEP,5.35,335.8,2.35,113.9,61.9
 Mega Diversified All,ELET3,3.53,292.7,2.74,55.0,32.6
 Mega Diversified All,CSMG3,3.51,216.4,2.74,63.8,43.5
@@ -840,12 +840,12 @@ Mega Diversified All,BBSE3,3.29,65.5,1.26,49.2,45.8
 Mega Diversified All,JNJ,2.8,336.4,1.71,204.4,80.1
 Mega Diversified All,ITUB4,0.95,138.0,2.17,46.3,25.7
 Mega Diversified All,V,0.5,686.2,2.04,201.0,80.8
-Mega Diversified All,RADL3,0.5,69.2,1.96,321.0,100.0
 Mega Diversified All,META,0.5,870.6,2.32,411.4,100.0
+Mega Diversified All,RADL3,0.5,69.2,1.96,321.0,100.0
 Mega Diversified All,BRKM5,0.5,31.5,1.55,135.1,89.6
 Mega Diversified All,PETR3,0.5,33.5,1.03,124.4,72.7
 Mega Diversified All,BRSR5,0.5,59.8,1.06,64.8,40.9
-Mega Diversified All,KLBN11,0.5,12.1,1.46,50.8,49.3
+Mega Diversified All,KLBN11,0.5,9.6,1.25,55.0,51.8
 Mega Diversified All,PBR,0.5,63.7,3.08,36.9,30.4
 Mega Diversified Brazilian,ENEV3,12.5,110.9,3.05,30.8,22.4
 Mega Diversified Brazilian,CPFE3,10.02,201.2,2.92,44.7,18.7
@@ -863,11 +863,11 @@ Mega Diversified Brazilian,BPAC11,3.34,267.1,2.16,67.0,38.7
 Mega Diversified Brazilian,BBSE3,3.29,65.5,1.26,49.2,45.8
 Mega Diversified Brazilian,BRAP3,3.28,21.1,0.81,28.9,21.4
 Mega Diversified Brazilian,CPLE3,1.2,54.6,2.41,17.8,7.7
-Mega Diversified Brazilian,RADL3,0.5,69.2,1.96,321.0,100.0
 Mega Diversified Brazilian,BRKM5,0.5,31.5,1.55,135.1,89.6
 Mega Diversified Brazilian,PETR3,0.5,33.5,1.03,124.4,72.7
+Mega Diversified Brazilian,RADL3,0.5,69.2,1.96,321.0,100.0
 Mega Diversified Brazilian,BRSR5,0.5,59.8,1.06,64.8,40.9
-Mega Diversified Brazilian,KLBN11,0.5,12.1,1.46,50.8,49.3
+Mega Diversified Brazilian,KLBN11,0.5,9.6,1.25,55.0,51.8
 Mega Diversified Brazilian,BPAC5,0.5,64.8,1.91,30.6,13.0
 Mega Diversified Brazilian,USIM3,0.5,23.2,1.37,22.1,20.7
 Mega Diversified Brazilian,ABEV3,0.5,30.8,1.95,30.2,27.7
@@ -1136,8 +1136,8 @@ Mega Diversified All 3,JNJ,4.67,336.4,1.71,204.4,80.1
 Mega Diversified All 3,V,2.05,686.2,2.04,201.0,80.8
 Mega Diversified All 3,RADL3,0.67,69.2,1.96,321.0,100.0
 Mega Diversified Brazilian 3,BPAC3,12.5,151.6,2.57,49.4,25.1
-Mega Diversified Brazilian 3,CPFE3,10.97,201.2,2.92,44.7,18.7
 Mega Diversified Brazilian 3,PSSA3,10.41,158.2,3.2,71.8,46.3
+Mega Diversified Brazilian 3,BRKM5,9.33,31.5,1.55,135.1,89.6
 Mega Diversified Brazilian 3,UNIP6,9.33,337.2,2.25,116.5,59.0
 Mega Diversified Brazilian 3,UNIP3,9.33,124.2,2.3,119.3,45.6
 Mega Diversified Brazilian 3,ITUB4,9.08,138.0,2.17,46.3,25.7
@@ -1145,11 +1145,11 @@ Mega Diversified Brazilian 3,BRSR5,8.52,59.8,1.06,64.8,40.9
 Mega Diversified Brazilian 3,ELET6,6.13,266.1,2.3,66.9,37.3
 Mega Diversified Brazilian 3,CSMG3,5.86,216.4,2.74,63.8,43.5
 Mega Diversified Brazilian 3,BPAC11,5.57,267.1,2.16,67.0,38.7
-Mega Diversified Brazilian 3,BRKM5,4.16,31.5,1.55,135.1,89.6
+Mega Diversified Brazilian 3,KLBN11,3.84,9.6,1.25,55.0,51.8
 Mega Diversified Brazilian 3,ELET3,3.53,292.7,2.74,55.0,32.6
 Mega Diversified Brazilian 3,BBSE3,3.29,65.5,1.26,49.2,45.8
+Mega Diversified Brazilian 3,PETR3,2.61,33.5,1.03,124.4,72.7
 Mega Diversified Brazilian 3,RADL3,0.67,69.2,1.96,321.0,100.0
-Mega Diversified Brazilian 3,PETR3,0.67,33.5,1.03,124.4,72.7
 Mega Diversified International 3,ELP,16.15,49.9,2.18,18.6,6.8
 Mega Diversified International 3,PBR,12.5,63.7,3.08,36.9,30.4
 Mega Diversified International 3,JPM,10.77,1222.6,2.36,282.6,100.0
@@ -1417,8 +1417,8 @@ Mega Diversified All 5,JNJ,4.67,336.4,1.71,204.4,80.1
 Mega Diversified All 5,V,2.05,686.2,2.04,201.0,80.8
 Mega Diversified All 5,RADL3,0.67,69.2,1.96,321.0,100.0
 Mega Diversified Brazilian 5,BPAC3,12.5,151.6,2.57,49.4,25.1
-Mega Diversified Brazilian 5,CPFE3,10.97,201.2,2.92,44.7,18.7
 Mega Diversified Brazilian 5,PSSA3,10.41,158.2,3.2,71.8,46.3
+Mega Diversified Brazilian 5,BRKM5,9.33,31.5,1.55,135.1,89.6
 Mega Diversified Brazilian 5,UNIP6,9.33,337.2,2.25,116.5,59.0
 Mega Diversified Brazilian 5,UNIP3,9.33,124.2,2.3,119.3,45.6
 Mega Diversified Brazilian 5,ITUB4,9.08,138.0,2.17,46.3,25.7
@@ -1426,11 +1426,11 @@ Mega Diversified Brazilian 5,BRSR5,8.52,59.8,1.06,64.8,40.9
 Mega Diversified Brazilian 5,ELET6,6.13,266.1,2.3,66.9,37.3
 Mega Diversified Brazilian 5,CSMG3,5.86,216.4,2.74,63.8,43.5
 Mega Diversified Brazilian 5,BPAC11,5.57,267.1,2.16,67.0,38.7
-Mega Diversified Brazilian 5,BRKM5,4.16,31.5,1.55,135.1,89.6
+Mega Diversified Brazilian 5,KLBN11,3.84,9.6,1.25,55.0,51.8
 Mega Diversified Brazilian 5,ELET3,3.53,292.7,2.74,55.0,32.6
 Mega Diversified Brazilian 5,BBSE3,3.29,65.5,1.26,49.2,45.8
+Mega Diversified Brazilian 5,PETR3,2.61,33.5,1.03,124.4,72.7
 Mega Diversified Brazilian 5,RADL3,0.67,69.2,1.96,321.0,100.0
-Mega Diversified Brazilian 5,PETR3,0.67,33.5,1.03,124.4,72.7
 Mega Diversified International 5,ELP,16.15,49.9,2.18,18.6,6.8
 Mega Diversified International 5,PBR,12.5,63.7,3.08,36.9,30.4
 Mega Diversified International 5,JPM,10.77,1222.6,2.36,282.6,100.0
@@ -1722,20 +1722,20 @@ Low Turnover International 10,V,3.4,686.2,2.04,201.0,80.8
 Low Turnover International 10,JPM,2.71,1222.6,2.36,282.6,100.0
 Swing Trading All 10,BRAP4,19.39,28.4,2.36,33.2,22.4
 Swing Trading All 10,ABEV3,12.75,30.8,1.95,30.2,27.7
-Swing Trading All 10,RADL3,11.5,69.2,1.96,321.0,100.0
-Swing Trading All 10,PETR3,10.85,33.5,1.03,124.4,72.7
-Swing Trading All 10,KLBN11,10.0,12.1,1.46,50.8,49.3
+Swing Trading All 10,RADL3,11.49,69.2,1.96,321.0,100.0
+Swing Trading All 10,PETR3,10.87,33.5,1.03,124.4,72.7
+Swing Trading All 10,KLBN11,10.0,9.6,1.25,55.0,51.8
 Swing Trading All 10,BRKM5,9.14,31.5,1.55,135.1,89.6
-Swing Trading All 10,PSSA3,8.45,158.2,3.2,71.8,46.3
+Swing Trading All 10,PSSA3,8.44,158.2,3.2,71.8,46.3
 Swing Trading All 10,BRSR5,8.04,59.8,1.06,64.8,40.9
 Swing Trading All 10,META,6.31,870.6,2.32,411.4,100.0
 Swing Trading All 10,UNIP3,3.58,124.2,2.3,119.3,45.6
-Swing Trading Brazilian 10,BRAP4,18.32,28.4,2.36,33.2,22.4
-Swing Trading Brazilian 10,KLBN3,13.25,6.1,2.18,9.3,13.0
-Swing Trading Brazilian 10,KLBN11,12.77,12.1,1.46,50.8,49.3
+Swing Trading Brazilian 10,BRAP4,18.28,28.4,2.36,33.2,22.4
+Swing Trading Brazilian 10,KLBN3,13.24,6.1,2.18,9.3,13.0
+Swing Trading Brazilian 10,KLBN11,12.8,9.6,1.25,55.0,51.8
 Swing Trading Brazilian 10,ABEV3,12.65,30.8,1.95,30.2,27.7
 Swing Trading Brazilian 10,BRKM5,9.54,31.5,1.55,135.1,89.6
-Swing Trading Brazilian 10,PETR3,9.06,33.5,1.03,124.4,72.7
+Swing Trading Brazilian 10,PETR3,9.08,33.5,1.03,124.4,72.7
 Swing Trading Brazilian 10,PSSA3,7.94,158.2,3.2,71.8,46.3
 Swing Trading Brazilian 10,RADL3,7.0,69.2,1.96,321.0,100.0
 Swing Trading Brazilian 10,BRSR5,6.79,59.8,1.06,64.8,40.9
@@ -1831,22 +1831,22 @@ Min Variance International 10,HSBC,8.45,275.3,3.17,65.3,54.3
 Min Variance International 10,JNJ,7.0,336.4,1.71,204.4,80.1
 Min Variance International 10,AEP,5.35,335.8,2.35,113.9,61.9
 Min Variance International 10,V,1.59,686.2,2.04,201.0,80.8
-Max Diversification All 10,ABEV3,17.25,30.8,1.95,30.2,27.7
-Max Diversification All 10,KLBN4,17.25,2.9,0.7,7.6,10.8
-Max Diversification All 10,KLBN3,13.81,6.1,2.18,9.3,13.0
-Max Diversification All 10,KLBN11,13.81,12.1,1.46,50.8,49.3
-Max Diversification All 10,BRKM5,10.85,31.5,1.55,135.1,89.6
-Max Diversification All 10,BRSR5,8.23,59.8,1.06,64.8,40.9
-Max Diversification All 10,AEP,6.21,335.8,2.35,113.9,61.9
+Max Diversification All 10,ABEV3,17.26,30.8,1.95,30.2,27.7
+Max Diversification All 10,KLBN4,17.26,2.9,0.7,7.6,10.8
+Max Diversification All 10,KLBN3,13.83,6.1,2.18,9.3,13.0
+Max Diversification All 10,KLBN11,13.74,9.6,1.25,55.0,51.8
+Max Diversification All 10,BRKM5,10.86,31.5,1.55,135.1,89.6
+Max Diversification All 10,BRSR5,8.24,59.8,1.06,64.8,40.9
+Max Diversification All 10,AEP,6.22,335.8,2.35,113.9,61.9
 Max Diversification All 10,META,4.94,870.6,2.32,411.4,100.0
 Max Diversification All 10,UNIP6,4.27,337.2,2.25,116.5,59.0
 Max Diversification All 10,GS,3.38,673.2,2.15,338.6,100.0
 Max Diversification Brazilian 10,ABEV3,13.46,30.8,1.95,30.2,27.7
 Max Diversification Brazilian 10,KLBN3,13.46,6.1,2.18,9.3,13.0
-Max Diversification Brazilian 10,KLBN11,13.46,12.1,1.46,50.8,49.3
+Max Diversification Brazilian 10,KLBN11,13.46,9.6,1.25,55.0,51.8
 Max Diversification Brazilian 10,KLBN4,13.46,2.9,0.7,7.6,10.8
 Max Diversification Brazilian 10,BRKM5,12.38,31.5,1.55,135.1,89.6
-Max Diversification Brazilian 10,PETR3,11.66,33.5,1.03,124.4,72.7
+Max Diversification Brazilian 10,PETR3,11.69,33.5,1.03,124.4,72.7
 Max Diversification Brazilian 10,PSSA3,11.12,158.2,3.2,71.8,46.3
 Max Diversification Brazilian 10,BRSR5,7.15,59.8,1.06,64.8,40.9
 Max Diversification Brazilian 10,UNIP6,2.12,337.2,2.25,116.5,59.0
@@ -1901,8 +1901,8 @@ Mega Diversified All 10,JNJ,4.67,336.4,1.71,204.4,80.1
 Mega Diversified All 10,V,2.05,686.2,2.04,201.0,80.8
 Mega Diversified All 10,RADL3,0.67,69.2,1.96,321.0,100.0
 Mega Diversified Brazilian 10,BPAC3,12.5,151.6,2.57,49.4,25.1
-Mega Diversified Brazilian 10,CPFE3,10.97,201.2,2.92,44.7,18.7
 Mega Diversified Brazilian 10,PSSA3,10.41,158.2,3.2,71.8,46.3
+Mega Diversified Brazilian 10,BRKM5,9.33,31.5,1.55,135.1,89.6
 Mega Diversified Brazilian 10,UNIP6,9.33,337.2,2.25,116.5,59.0
 Mega Diversified Brazilian 10,UNIP3,9.33,124.2,2.3,119.3,45.6
 Mega Diversified Brazilian 10,ITUB4,9.08,138.0,2.17,46.3,25.7
@@ -1910,11 +1910,11 @@ Mega Diversified Brazilian 10,BRSR5,8.52,59.8,1.06,64.8,40.9
 Mega Diversified Brazilian 10,ELET6,6.13,266.1,2.3,66.9,37.3
 Mega Diversified Brazilian 10,CSMG3,5.86,216.4,2.74,63.8,43.5
 Mega Diversified Brazilian 10,BPAC11,5.57,267.1,2.16,67.0,38.7
-Mega Diversified Brazilian 10,BRKM5,4.16,31.5,1.55,135.1,89.6
+Mega Diversified Brazilian 10,KLBN11,3.84,9.6,1.25,55.0,51.8
 Mega Diversified Brazilian 10,ELET3,3.53,292.7,2.74,55.0,32.6
 Mega Diversified Brazilian 10,BBSE3,3.29,65.5,1.26,49.2,45.8
+Mega Diversified Brazilian 10,PETR3,2.61,33.5,1.03,124.4,72.7
 Mega Diversified Brazilian 10,RADL3,0.67,69.2,1.96,321.0,100.0
-Mega Diversified Brazilian 10,PETR3,0.67,33.5,1.03,124.4,72.7
 Mega Diversified International 10,ELP,16.15,49.9,2.18,18.6,6.8
 Mega Diversified International 10,PBR,12.5,63.7,3.08,36.9,30.4
 Mega Diversified International 10,JPM,10.77,1222.6,2.36,282.6,100.0
@@ -2398,19 +2398,19 @@ Swing Trading All 20,BRAP4,15.97,28.4,2.36,33.2,22.4
 Swing Trading All 20,KLBN3,15.97,6.1,2.18,9.3,13.0
 Swing Trading All 20,RADL3,15.13,69.2,1.96,321.0,100.0
 Swing Trading All 20,ABEV3,9.84,30.8,1.95,30.2,27.7
-Swing Trading All 20,PETR3,8.66,33.5,1.03,124.4,72.7
-Swing Trading All 20,KLBN11,8.18,12.1,1.46,50.8,49.3
+Swing Trading All 20,PETR3,8.67,33.5,1.03,124.4,72.7
+Swing Trading All 20,KLBN11,8.18,9.6,1.25,55.0,51.8
 Swing Trading All 20,BRKM5,7.2,31.5,1.55,135.1,89.6
 Swing Trading All 20,PSSA3,6.64,158.2,3.2,71.8,46.3
 Swing Trading All 20,BRSR5,5.67,59.8,1.06,64.8,40.9
-Swing Trading All 20,META,4.35,870.6,2.32,411.4,100.0
+Swing Trading All 20,META,4.34,870.6,2.32,411.4,100.0
 Swing Trading All 20,UNIP3,2.38,124.2,2.3,119.3,45.6
-Swing Trading Brazilian 20,BRAP4,18.32,28.4,2.36,33.2,22.4
-Swing Trading Brazilian 20,KLBN3,13.25,6.1,2.18,9.3,13.0
-Swing Trading Brazilian 20,KLBN11,12.77,12.1,1.46,50.8,49.3
+Swing Trading Brazilian 20,BRAP4,18.28,28.4,2.36,33.2,22.4
+Swing Trading Brazilian 20,KLBN3,13.24,6.1,2.18,9.3,13.0
+Swing Trading Brazilian 20,KLBN11,12.8,9.6,1.25,55.0,51.8
 Swing Trading Brazilian 20,ABEV3,12.65,30.8,1.95,30.2,27.7
 Swing Trading Brazilian 20,BRKM5,9.54,31.5,1.55,135.1,89.6
-Swing Trading Brazilian 20,PETR3,9.06,33.5,1.03,124.4,72.7
+Swing Trading Brazilian 20,PETR3,9.08,33.5,1.03,124.4,72.7
 Swing Trading Brazilian 20,PSSA3,7.94,158.2,3.2,71.8,46.3
 Swing Trading Brazilian 20,RADL3,7.0,69.2,1.96,321.0,100.0
 Swing Trading Brazilian 20,BRSR5,6.79,59.8,1.06,64.8,40.9
@@ -2518,9 +2518,9 @@ Min Variance All 20,BPAC3,11.34,151.6,2.57,49.4,25.1
 Min Variance All 20,BRSR5,8.52,59.8,1.06,64.8,40.9
 Min Variance All 20,HSBC,8.45,275.3,3.17,65.3,54.3
 Min Variance All 20,PSSA3,7.8,158.2,3.2,71.8,46.3
-Min Variance All 20,UNIP3,7.0,124.2,2.3,119.3,45.6
-Min Variance All 20,JPM,7.0,1222.6,2.36,282.6,100.0
 Min Variance All 20,GS,7.0,673.2,2.15,338.6,100.0
+Min Variance All 20,JPM,7.0,1222.6,2.36,282.6,100.0
+Min Variance All 20,UNIP3,7.0,124.2,2.3,119.3,45.6
 Min Variance All 20,UNIP6,7.0,337.2,2.25,116.5,59.0
 Min Variance All 20,ELET6,6.13,266.1,2.3,66.9,37.3
 Min Variance All 20,AEP,5.35,335.8,2.35,113.9,61.9
@@ -2531,16 +2531,16 @@ Min Variance All 20,ELET3,3.53,292.7,2.74,55.0,32.6
 Min Variance All 20,JNJ,3.5,336.4,1.71,204.4,80.1
 Min Variance All 20,PETR3,2.33,33.5,1.03,124.4,72.7
 Min Variance All 20,V,1.23,686.2,2.04,201.0,80.8
-Min Variance All 20,BRKM5,0.5,31.5,1.55,135.1,89.6
-Min Variance All 20,KLBN11,0.5,12.1,1.46,50.8,49.3
+Min Variance All 20,KLBN11,0.5,9.6,1.25,55.0,51.8
 Min Variance All 20,RADL3,0.5,69.2,1.96,321.0,100.0
-Min Variance Brazilian 20,ENEV3,12.5,110.9,3.05,30.8,22.4
+Min Variance All 20,BRKM5,0.5,31.5,1.55,135.1,89.6
 Min Variance Brazilian 20,CPLE5,12.5,24.7,2.06,32.1,13.7
+Min Variance Brazilian 20,ENEV3,12.5,110.9,3.05,30.8,22.4
 Min Variance Brazilian 20,BPAC3,11.34,151.6,2.57,49.4,25.1
 Min Variance Brazilian 20,CPFE3,10.97,201.2,2.92,44.7,18.7
 Min Variance Brazilian 20,PSSA3,7.8,158.2,3.2,71.8,46.3
-Min Variance Brazilian 20,UNIP6,7.0,337.2,2.25,116.5,59.0
 Min Variance Brazilian 20,UNIP3,7.0,124.2,2.3,119.3,45.6
+Min Variance Brazilian 20,UNIP6,7.0,337.2,2.25,116.5,59.0
 Min Variance Brazilian 20,ELET6,6.13,266.1,2.3,66.9,37.3
 Min Variance Brazilian 20,BRAP4,4.84,28.4,2.36,33.2,22.4
 Min Variance Brazilian 20,CSMG3,4.39,216.4,2.74,63.8,43.5
@@ -2548,12 +2548,12 @@ Min Variance Brazilian 20,BPAC11,4.18,267.1,2.16,67.0,38.7
 Min Variance Brazilian 20,ELET3,3.53,292.7,2.74,55.0,32.6
 Min Variance Brazilian 20,BBSE3,3.29,65.5,1.26,49.2,45.8
 Min Variance Brazilian 20,ITUB4,1.53,138.0,2.17,46.3,25.7
-Min Variance Brazilian 20,RADL3,0.5,69.2,1.96,321.0,100.0
-Min Variance Brazilian 20,BRKM5,0.5,31.5,1.55,135.1,89.6
 Min Variance Brazilian 20,PETR3,0.5,33.5,1.03,124.4,72.7
-Min Variance Brazilian 20,BRSR5,0.5,59.8,1.06,64.8,40.9
-Min Variance Brazilian 20,KLBN11,0.5,12.1,1.46,50.8,49.3
+Min Variance Brazilian 20,RADL3,0.5,69.2,1.96,321.0,100.0
+Min Variance Brazilian 20,KLBN11,0.5,9.6,1.25,55.0,51.8
 Min Variance Brazilian 20,BPAC5,0.5,64.8,1.91,30.6,13.0
+Min Variance Brazilian 20,BRKM5,0.5,31.5,1.55,135.1,89.6
+Min Variance Brazilian 20,BRSR5,0.5,59.8,1.06,64.8,40.9
 Min Variance International 20,ELP,16.15,49.9,2.18,18.6,6.8
 Min Variance International 20,PBR,12.5,63.7,3.08,36.9,30.4
 Min Variance International 20,GS,10.77,673.2,2.15,338.6,100.0
@@ -2568,7 +2568,7 @@ Min Variance International 20,META,3.8,870.6,2.32,411.4,100.0
 Min Variance International 20,CIG,0.77,6.9,1.59,5.3,3.0
 Min Variance International 20,V,0.77,686.2,2.04,201.0,80.8
 Max Diversification All 20,BRKM5,10.74,31.5,1.55,135.1,89.6
-Max Diversification All 20,KLBN11,10.74,12.1,1.46,50.8,49.3
+Max Diversification All 20,KLBN11,10.74,9.6,1.25,55.0,51.8
 Max Diversification All 20,KLBN4,10.74,2.9,0.7,7.6,10.8
 Max Diversification All 20,KLBN3,10.74,6.1,2.18,9.3,13.0
 Max Diversification All 20,CIG,10.74,6.9,1.59,5.3,3.0
@@ -2590,9 +2590,9 @@ Max Diversification All 20,PETR3,0.21,33.5,1.03,124.4,72.7
 Max Diversification Brazilian 20,BRKM5,10.56,31.5,1.55,135.1,89.6
 Max Diversification Brazilian 20,PETR3,10.56,33.5,1.03,124.4,72.7
 Max Diversification Brazilian 20,KLBN3,10.56,6.1,2.18,9.3,13.0
-Max Diversification Brazilian 20,KLBN11,10.56,12.1,1.46,50.8,49.3
+Max Diversification Brazilian 20,KLBN11,10.56,9.6,1.25,55.0,51.8
 Max Diversification Brazilian 20,KLBN4,10.56,2.9,0.7,7.6,10.8
-Max Diversification Brazilian 20,USIM3,6.01,23.2,1.37,22.1,20.7
+Max Diversification Brazilian 20,USIM3,6.02,23.2,1.37,22.1,20.7
 Max Diversification Brazilian 20,BBSE3,4.74,65.5,1.26,49.2,45.8
 Max Diversification Brazilian 20,ALUP3,4.62,44.3,2.17,22.5,8.9
 Max Diversification Brazilian 20,BRAP4,4.56,28.4,2.36,33.2,22.4
@@ -2669,8 +2669,8 @@ Mega Diversified Brazilian 20,BPAC3,11.34,151.6,2.57,49.4,25.1
 Mega Diversified Brazilian 20,CPFE3,10.97,201.2,2.92,44.7,18.7
 Mega Diversified Brazilian 20,ITUB4,9.08,138.0,2.17,46.3,25.7
 Mega Diversified Brazilian 20,PSSA3,7.8,158.2,3.2,71.8,46.3
-Mega Diversified Brazilian 20,UNIP6,7.0,337.2,2.25,116.5,59.0
 Mega Diversified Brazilian 20,UNIP3,7.0,124.2,2.3,119.3,45.6
+Mega Diversified Brazilian 20,UNIP6,7.0,337.2,2.25,116.5,59.0
 Mega Diversified Brazilian 20,ELET6,6.13,266.1,2.3,66.9,37.3
 Mega Diversified Brazilian 20,BPAN4,4.69,59.4,1.81,28.0,16.3
 Mega Diversified Brazilian 20,CSMG3,4.39,216.4,2.74,63.8,43.5
@@ -2680,10 +2680,10 @@ Mega Diversified Brazilian 20,BBSE3,3.29,65.5,1.26,49.2,45.8
 Mega Diversified Brazilian 20,BRAP3,3.28,21.1,0.81,28.9,21.4
 Mega Diversified Brazilian 20,BRSR5,2.32,59.8,1.06,64.8,40.9
 Mega Diversified Brazilian 20,PETR3,0.5,33.5,1.03,124.4,72.7
-Mega Diversified Brazilian 20,KLBN11,0.5,12.1,1.46,50.8,49.3
+Mega Diversified Brazilian 20,KLBN11,0.5,9.6,1.25,55.0,51.8
 Mega Diversified Brazilian 20,BRKM5,0.5,31.5,1.55,135.1,89.6
-Mega Diversified Brazilian 20,RADL3,0.5,69.2,1.96,321.0,100.0
 Mega Diversified Brazilian 20,BPAC5,0.5,64.8,1.91,30.6,13.0
+Mega Diversified Brazilian 20,RADL3,0.5,69.2,1.96,321.0,100.0
 Mega Diversified International 20,ELP,16.15,49.9,2.18,18.6,6.8
 Mega Diversified International 20,PBR,12.5,63.7,3.08,36.9,30.4
 Mega Diversified International 20,JPM,10.77,1222.6,2.36,282.6,100.0
@@ -2820,7 +2820,7 @@ Kelly Brazilian 20,BPAC3,7.7,151.6,2.57,49.4,25.1
 Kelly Brazilian 20,BRKM5,7.7,31.5,1.55,135.1,89.6
 Kelly Brazilian 20,CPLE5,7.7,24.7,2.06,32.1,13.7
 Kelly Brazilian 20,ENEV3,7.7,110.9,3.05,30.8,22.4
-Kelly Brazilian 20,KLBN11,7.7,12.1,1.46,50.8,49.3
+Kelly Brazilian 20,KLBN11,7.7,9.6,1.25,55.0,51.8
 Kelly Brazilian 20,KLBN3,7.7,6.1,2.18,9.3,13.0
 Kelly Brazilian 20,CPLE6,7.18,50.1,2.39,20.8,11.2
 Kelly Brazilian 20,CPFE3,6.75,201.2,2.92,44.7,18.7
