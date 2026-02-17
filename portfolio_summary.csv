@@ -1,14 +1,14 @@
 Portfolio,Stock,Weight_Pct,Return_Pct,Sharpe_Ratio,Risk_Volatility_Pct,Risk_MaxDrawdown_Pct
-High Risk All,BPAC11,24.65,354.4,3.31,55.5,20.4
-High Risk All,GOOG,16.85,869.3,2.11,286.2,99.3
-High Risk All,ELET3,13.61,292.7,2.54,51.3,32.6
-High Risk All,JNJ,13.0,1123.8,2.5,149.5,82.3
-High Risk All,CSMG3,6.83,329.4,2.75,48.4,38.9
-High Risk All,AEP,6.64,502.7,2.57,92.4,48.3
-High Risk All,DUK,5.74,250.7,1.96,107.5,55.4
-High Risk All,PRIO3,4.91,193.8,2.55,153.8,70.5
-High Risk All,UNIP6,4.09,333.3,2.25,77.9,42.7
-High Risk All,UNIP3,3.67,337.1,1.99,91.3,36.6
+High Risk All,BPAC11,25.39,354.4,3.31,55.5,20.4
+High Risk All,GOOG,16.26,869.3,2.11,286.2,99.3
+High Risk All,JNJ,12.97,1123.8,2.5,149.5,82.3
+High Risk All,ELET3,8.95,292.7,2.54,51.3,32.6
+High Risk All,CSMG3,8.95,329.4,2.75,48.4,38.9
+High Risk All,ELET6,7.74,266.1,2.13,62.4,37.3
+High Risk All,UNIP6,5.33,333.3,2.25,77.9,42.7
+High Risk All,UNIP3,5.17,337.1,1.99,91.3,36.6
+High Risk All,AEP,4.95,502.7,2.57,92.4,48.3
+High Risk All,DUK,4.3,250.7,1.96,107.5,55.4
 Medium Risk All,BPAC11,28.7,354.4,3.31,55.5,20.4
 Medium Risk All,BPAC3,15.05,268.6,3.04,46.1,14.2
 Medium Risk All,JNJ,12.5,1123.8,2.5,149.5,82.3
@@ -59,11 +59,12 @@ Low Risk Brazilian,CPLE3,6.89,64.6,2.73,17.1,7.5
 Low Risk Brazilian,BPAC11,6.84,354.4,3.31,55.5,20.4
 Low Risk Brazilian,BPAC3,5.75,268.6,3.04,46.1,14.2
 Low Risk Brazilian,ENEV3,5.51,124.2,2.95,28.1,13.0
-High Risk International,BAC,37.63,209.0,1.87,193.1,99.1
-High Risk International,GOOG,26.37,869.3,2.11,286.2,99.3
-High Risk International,AEP,12.86,502.7,2.57,92.4,48.3
+High Risk International,BAC,30.47,209.0,1.87,193.1,99.1
+High Risk International,VALE,18.0,79.7,2.65,24.0,16.8
+High Risk International,GOOG,15.53,869.3,2.11,286.2,99.3
+High Risk International,AEP,13.1,502.7,2.57,92.4,48.3
 High Risk International,JNJ,12.0,1123.8,2.5,149.5,82.3
-High Risk International,DUK,11.14,250.7,1.96,107.5,55.4
+High Risk International,DUK,10.9,250.7,1.96,107.5,55.4
 Medium Risk International,JNJ,22.22,1123.8,2.5,149.5,82.3
 Medium Risk International,EBR,17.46,50.8,3.06,16.8,10.1
 Medium Risk International,ELP,17.46,45.3,2.01,16.5,9.8
@@ -150,16 +151,16 @@ Low Risk International 5,EBR,16.37,50.8,3.06,16.8,10.1
 Low Risk International 5,ABEV,15.44,15.8,2.82,5.0,3.7
 Low Risk International 5,ELP,12.2,45.3,2.01,16.5,9.8
 Low Risk International 5,VALE,5.99,79.7,2.65,24.0,16.8
-High Risk All 10,BPAC11,24.65,354.4,3.31,55.5,20.4
-High Risk All 10,GOOG,16.85,869.3,2.11,286.2,99.3
-High Risk All 10,ELET3,13.61,292.7,2.54,51.3,32.6
-High Risk All 10,JNJ,13.0,1123.8,2.5,149.5,82.3
-High Risk All 10,CSMG3,6.83,329.4,2.75,48.4,38.9
-High Risk All 10,AEP,6.64,502.7,2.57,92.4,48.3
-High Risk All 10,DUK,5.74,250.7,1.96,107.5,55.4
-High Risk All 10,PRIO3,4.91,193.8,2.55,153.8,70.5
-High Risk All 10,UNIP6,4.09,333.3,2.25,77.9,42.7
-High Risk All 10,UNIP3,3.67,337.1,1.99,91.3,36.6
+High Risk All 10,BPAC11,25.39,354.4,3.31,55.5,20.4
+High Risk All 10,GOOG,16.26,869.3,2.11,286.2,99.3
+High Risk All 10,JNJ,12.97,1123.8,2.5,149.5,82.3
+High Risk All 10,ELET3,8.95,292.7,2.54,51.3,32.6
+High Risk All 10,CSMG3,8.95,329.4,2.75,48.4,38.9
+High Risk All 10,ELET6,7.74,266.1,2.13,62.4,37.3
+High Risk All 10,UNIP6,5.33,333.3,2.25,77.9,42.7
+High Risk All 10,UNIP3,5.17,337.1,1.99,91.3,36.6
+High Risk All 10,AEP,4.95,502.7,2.57,92.4,48.3
+High Risk All 10,DUK,4.3,250.7,1.96,107.5,55.4
 High Risk Brazilian 10,PSSA3,19.45,127.8,2.53,63.5,40.5
 High Risk Brazilian 10,BPAC11,18.79,354.4,3.31,55.5,20.4
 High Risk Brazilian 10,BPAC3,16.37,268.6,3.04,46.1,14.2
@@ -170,11 +171,12 @@ High Risk Brazilian 10,UNIP6,4.71,333.3,2.25,77.9,42.7
 High Risk Brazilian 10,PRIO3,4.28,193.8,2.55,153.8,70.5
 High Risk Brazilian 10,UNIP3,3.07,337.1,1.99,91.3,36.6
 High Risk Brazilian 10,IRBR3,2.05,195.5,1.67,278.3,97.2
-High Risk International 10,BAC,37.63,209.0,1.87,193.1,99.1
-High Risk International 10,GOOG,26.37,869.3,2.11,286.2,99.3
-High Risk International 10,AEP,12.86,502.7,2.57,92.4,48.3
+High Risk International 10,BAC,30.47,209.0,1.87,193.1,99.1
+High Risk International 10,VALE,18.0,79.7,2.65,24.0,16.8
+High Risk International 10,GOOG,15.53,869.3,2.11,286.2,99.3
+High Risk International 10,AEP,13.1,502.7,2.57,92.4,48.3
 High Risk International 10,JNJ,12.0,1123.8,2.5,149.5,82.3
-High Risk International 10,DUK,11.14,250.7,1.96,107.5,55.4
+High Risk International 10,DUK,10.9,250.7,1.96,107.5,55.4
 Medium Risk All 10,BPAC11,28.7,354.4,3.31,55.5,20.4
 Medium Risk All 10,BPAC3,15.05,268.6,3.04,46.1,14.2
 Medium Risk All 10,JNJ,12.5,1123.8,2.5,149.5,82.3
@@ -269,13 +271,14 @@ High Risk Brazilian 20,EQTL3,2.06,148.9,2.56,43.5,21.2
 High Risk Brazilian 20,PRIO3,2.06,193.8,2.55,153.8,70.5
 High Risk Brazilian 20,TAEE11,1.76,147.0,2.34,37.8,22.3
 High Risk Brazilian 20,IRBR3,1.39,195.5,1.67,278.3,97.2
-High Risk International 20,BAC,21.63,209.0,1.87,193.1,99.1
+High Risk International 20,BAC,22.06,209.0,1.87,193.1,99.1
 High Risk International 20,UBER,18.0,82.1,1.35,136.4,77.1
-High Risk International 20,MMM,17.25,147.6,1.3,326.8,99.7
-High Risk International 20,AEP,11.91,502.7,2.57,92.4,48.3
-High Risk International 20,JNJ,11.72,1123.8,2.5,149.5,82.3
-High Risk International 20,DUK,9.94,250.7,1.96,107.5,55.4
-High Risk International 20,GOOG,9.55,869.3,2.11,286.2,99.3
+High Risk International 20,AEP,11.74,502.7,2.57,92.4,48.3
+High Risk International 20,JNJ,11.4,1123.8,2.5,149.5,82.3
+High Risk International 20,VALE,11.22,79.7,2.65,24.0,16.8
+High Risk International 20,DUK,9.66,250.7,1.96,107.5,55.4
+High Risk International 20,GOOG,9.14,869.3,2.11,286.2,99.3
+High Risk International 20,MMM,6.78,147.6,1.3,326.8,99.7
 Medium Risk All 20,BRSR3,14.97,95.9,2.85,24.6,15.2
 Medium Risk All 20,PSSA3,9.93,127.8,2.53,63.5,40.5
 Medium Risk All 20,JNJ,9.82,1123.8,2.5,149.5,82.3
