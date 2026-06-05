@@ -441,7 +441,7 @@ Sector Finances Brazilian,BPAN4,16.52,51.6,1.7,24.1,16.8
 Sector Finances Brazilian,ITSA3,12.62,29.3,1.56,19.8,13.8
 Sector Finances Brazilian,BRSR5,11.7,94.2,1.95,41.8,20.9
 Sector Finances Brazilian,BPAC5,11.23,118.5,2.0,38.0,35.3
-Sector Finances Brazilian,BBDC3,6.8,22.6,0.84,22.5,22.2
+Sector Finances Brazilian,BBDC3,6.81,22.6,0.84,22.5,22.2
 Sector Finances Brazilian,BPAC11,5.42,197.3,1.78,70.1,38.4
 Sector Finances International,BBD,19.2,21.8,2.29,8.3,7.1
 Sector Finances International,NU,19.2,39.5,2.04,39.4,53.8
@@ -616,18 +616,18 @@ High Frequency All,PETR3,17.26,142.1,1.64,53.3,31.7
 High Frequency All,ENEV3,13.07,161.1,2.87,33.2,14.5
 High Frequency All,BBDC3,10.26,22.6,0.84,22.5,22.2
 High Frequency All,TAEE11,7.63,97.9,1.52,44.9,29.3
-High Frequency All,NVDA,4.82,1109.9,2.86,103.8,50.9
+High Frequency All,NVDA,4.81,1109.9,2.86,103.8,50.9
 High Frequency All,HSBC,4.53,338.4,2.23,58.6,32.6
 High Frequency All,AAPL,4.49,969.3,2.28,123.3,61.4
 High Frequency All,INTC,3.43,887.5,2.61,80.2,33.5
 High Frequency Brazilian,SAPR4,16.66,17.7,0.95,15.3,14.7
 High Frequency Brazilian,CMIG4,14.23,25.1,1.17,17.6,20.0
-High Frequency Brazilian,USIM5,13.5,73.9,2.57,20.5,16.5
+High Frequency Brazilian,USIM5,13.51,73.9,2.57,20.5,16.5
 High Frequency Brazilian,PETR4,11.74,133.4,1.82,44.8,23.8
 High Frequency Brazilian,BPAC5,11.49,118.5,2.0,38.0,35.3
-High Frequency Brazilian,PETR3,9.0,142.1,1.64,53.3,31.7
+High Frequency Brazilian,PETR3,8.99,142.1,1.64,53.3,31.7
 High Frequency Brazilian,ENEV3,7.35,161.1,2.87,33.2,14.5
-High Frequency Brazilian,BBDC3,6.7,22.6,0.84,22.5,22.2
+High Frequency Brazilian,BBDC3,6.71,22.6,0.84,22.5,22.2
 High Frequency Brazilian,BPAC11,4.88,197.3,1.78,70.1,38.4
 High Frequency Brazilian,TAEE11,4.45,97.9,1.52,44.9,29.3
 High Frequency International,JNJ,17.56,664.5,2.6,75.7,49.1
@@ -656,7 +656,7 @@ Low Turnover Brazilian,USIM5,13.43,73.9,2.57,20.5,16.5
 Low Turnover Brazilian,PETR4,12.08,133.4,1.82,44.8,23.8
 Low Turnover Brazilian,BPAC5,11.76,118.5,2.0,38.0,35.3
 Low Turnover Brazilian,PETR3,9.35,142.1,1.64,53.3,31.7
-Low Turnover Brazilian,BBDC3,7.82,22.6,0.84,22.5,22.2
+Low Turnover Brazilian,BBDC3,7.83,22.6,0.84,22.5,22.2
 Low Turnover Brazilian,ENEV3,7.31,161.1,2.87,33.2,14.5
 Low Turnover Brazilian,BPAC11,5.25,197.3,1.78,70.1,38.4
 Low Turnover Brazilian,TAEE11,4.61,97.9,1.52,44.9,29.3
@@ -810,9 +810,9 @@ Min Variance Brazilian,BPAC11,3.59,197.3,1.78,70.1,38.4
 Min Variance Brazilian,ELET3,3.53,292.7,2.28,46.4,32.6
 Min Variance Brazilian,PRIO3,3.5,258.2,2.01,80.2,67.3
 Min Variance Brazilian,BPAC5,1.0,118.5,2.0,38.0,35.3
-Min Variance Brazilian,CSAN3,0.5,16.2,1.01,30.4,47.7
 Min Variance Brazilian,BBDC3,0.5,22.6,0.84,22.5,22.2
 Min Variance Brazilian,EALT3,0.5,32.2,1.32,42.0,31.5
+Min Variance Brazilian,CSAN3,0.5,16.2,1.01,30.4,47.7
 Min Variance Brazilian,BPAN4,0.5,51.6,1.7,24.1,16.8
 Min Variance International,LLY,7.0,3153.9,2.86,229.0,99.9
 Min Variance International,GS,7.0,2453.4,2.79,140.9,75.1
@@ -937,11 +937,11 @@ Mega Diversified Brazilian,ELET3,3.53,292.7,2.28,46.4,32.6
 Mega Diversified Brazilian,PRIO3,2.8,258.2,2.01,80.2,67.3
 Mega Diversified Brazilian,TAEE4,2.17,40.6,2.1,17.9,14.3
 Mega Diversified Brazilian,BPAC5,1.0,118.5,2.0,38.0,35.3
-Mega Diversified Brazilian,EALT3,0.5,32.2,1.32,42.0,31.5
-Mega Diversified Brazilian,SAPR4,0.5,17.7,0.95,15.3,14.7
-Mega Diversified Brazilian,BBDC3,0.5,22.6,0.84,22.5,22.2
 Mega Diversified Brazilian,CSAN3,0.5,16.2,1.01,30.4,47.7
+Mega Diversified Brazilian,BBDC3,0.5,22.6,0.84,22.5,22.2
+Mega Diversified Brazilian,EALT3,0.5,32.2,1.32,42.0,31.5
 Mega Diversified Brazilian,CMIG4,0.5,25.1,1.17,17.6,20.0
+Mega Diversified Brazilian,SAPR4,0.5,17.7,0.95,15.3,14.7
 Mega Diversified Brazilian,BPAN4,0.5,51.6,1.7,24.1,16.8
 Mega Diversified Brazilian,SAPR3,0.5,30.3,1.95,20.1,23.0
 Mega Diversified International,HSBC,6.89,338.4,2.23,58.6,32.6
@@ -991,7 +991,7 @@ Inverse Vol All,ABEV,17.36,8.5,1.32,6.4,4.8
 Inverse Vol All,BBD,13.39,21.8,2.29,8.3,7.1
 Inverse Vol All,CPLE6,6.34,51.8,2.06,17.6,11.2
 Inverse Vol All,CMIG4,6.33,25.1,1.17,17.6,20.0
-Inverse Vol All,CSAN,5.92,9.0,1.94,18.8,26.9
+Inverse Vol All,CSAN,5.91,9.0,1.94,18.8,26.9
 Inverse Vol All,BBDC3,4.95,22.6,0.84,22.5,22.2
 Inverse Vol All,BRSR3,4.93,78.1,3.15,22.6,16.5
 Inverse Vol All,BPAN4,4.63,51.6,1.7,24.1,16.8
@@ -1003,7 +1003,7 @@ Inverse Vol All,BPAC11,1.59,197.3,1.78,70.1,38.4
 Inverse Vol All,AAPL,0.9,969.3,2.28,123.3,61.4
 Inverse Vol Brazilian,CPLE6,12.18,51.8,2.06,17.6,11.2
 Inverse Vol Brazilian,CMIG4,12.17,25.1,1.17,17.6,20.0
-Inverse Vol Brazilian,BBDC3,9.52,22.6,0.84,22.5,22.2
+Inverse Vol Brazilian,BBDC3,9.53,22.6,0.84,22.5,22.2
 Inverse Vol Brazilian,BRSR3,9.48,78.1,3.15,22.6,16.5
 Inverse Vol Brazilian,BPAN4,8.9,51.6,1.7,24.1,16.8
 Inverse Vol Brazilian,CSAN3,7.03,16.2,1.01,30.4,47.7
@@ -1155,8 +1155,8 @@ Growth International 3,GOOGL,33.33,2185.0,3.98,135.2,77.1
 High Frequency All 3,AAPL,33.33,969.3,2.28,123.3,61.4
 High Frequency All 3,HSBC,33.33,338.4,2.23,58.6,32.6
 High Frequency All 3,INTC,33.33,887.5,2.61,80.2,33.5
-High Frequency Brazilian 3,BBDC3,35.98,22.6,0.84,22.5,22.2
-High Frequency Brazilian 3,SAPR4,35.98,17.7,0.95,15.3,14.7
+High Frequency Brazilian 3,BBDC3,35.99,22.6,0.84,22.5,22.2
+High Frequency Brazilian 3,SAPR4,35.99,17.7,0.95,15.3,14.7
 High Frequency Brazilian 3,TAEE11,28.03,97.9,1.52,44.9,29.3
 High Frequency International 3,AAPL,33.33,969.3,2.28,123.3,61.4
 High Frequency International 3,HSBC,33.33,338.4,2.23,58.6,32.6
@@ -1164,9 +1164,9 @@ High Frequency International 3,INTC,33.33,887.5,2.61,80.2,33.5
 Low Turnover All 3,AAPL,33.33,969.3,2.28,123.3,61.4
 Low Turnover All 3,HSBC,33.33,338.4,2.23,58.6,32.6
 Low Turnover All 3,INTC,33.33,887.5,2.61,80.2,33.5
-Low Turnover Brazilian 3,BBDC3,36.01,22.6,0.84,22.5,22.2
-Low Turnover Brazilian 3,SAPR4,36.01,17.7,0.95,15.3,14.7
-Low Turnover Brazilian 3,TAEE11,27.98,97.9,1.52,44.9,29.3
+Low Turnover Brazilian 3,BBDC3,36.02,22.6,0.84,22.5,22.2
+Low Turnover Brazilian 3,SAPR4,36.02,17.7,0.95,15.3,14.7
+Low Turnover Brazilian 3,TAEE11,27.97,97.9,1.52,44.9,29.3
 Low Turnover International 3,AAPL,33.33,969.3,2.28,123.3,61.4
 Low Turnover International 3,HSBC,33.33,338.4,2.23,58.6,32.6
 Low Turnover International 3,INTC,33.33,887.5,2.61,80.2,33.5
@@ -1278,7 +1278,7 @@ Barbell International 3,EBR,50.0,50.8,2.75,15.2,10.1
 Inverse Vol All 3,ABEV,84.83,8.5,1.32,6.4,4.8
 Inverse Vol All 3,BAC,10.76,172.5,2.2,50.6,42.8
 Inverse Vol All 3,AAPL,4.41,969.3,2.28,123.3,61.4
-Inverse Vol Brazilian 3,BBDC3,52.26,22.6,0.84,22.5,22.2
+Inverse Vol Brazilian 3,BBDC3,52.27,22.6,0.84,22.5,22.2
 Inverse Vol Brazilian 3,BPAC5,30.96,118.5,2.0,38.0,35.3
 Inverse Vol Brazilian 3,BPAC11,16.77,197.3,1.78,70.1,38.4
 Inverse Vol International 3,ABEV,84.83,8.5,1.32,6.4,4.8
@@ -1408,15 +1408,15 @@ Growth International 5,LLY,21.04,3153.9,2.86,229.0,99.9
 Growth International 5,GS,18.48,2453.4,2.79,140.9,75.1
 Growth International 5,NVDA,18.22,1109.9,2.86,103.8,50.9
 Growth International 5,MSFT,17.14,1060.3,2.51,220.5,99.3
-High Frequency All 5,SAPR4,29.73,17.7,0.95,15.3,14.7
-High Frequency All 5,BBDC3,28.02,22.6,0.84,22.5,22.2
+High Frequency All 5,SAPR4,29.72,17.7,0.95,15.3,14.7
+High Frequency All 5,BBDC3,28.03,22.6,0.84,22.5,22.2
 High Frequency All 5,HSBC,15.53,338.4,2.23,58.6,32.6
 High Frequency All 5,AAPL,15.3,969.3,2.28,123.3,61.4
-High Frequency All 5,INTC,11.42,887.5,2.61,80.2,33.5
+High Frequency All 5,INTC,11.41,887.5,2.61,80.2,33.5
 High Frequency Brazilian 5,SAPR4,23.04,17.7,0.95,15.3,14.7
 High Frequency Brazilian 5,PETR3,23.04,142.1,1.64,53.3,31.7
 High Frequency Brazilian 5,BBDC3,20.88,22.6,0.84,22.5,22.2
-High Frequency Brazilian 5,ENEV3,20.07,161.1,2.87,33.2,14.5
+High Frequency Brazilian 5,ENEV3,20.06,161.1,2.87,33.2,14.5
 High Frequency Brazilian 5,TAEE11,12.97,97.9,1.52,44.9,29.3
 High Frequency International 5,JNJ,26.81,664.5,2.6,75.7,49.1
 High Frequency International 5,NVDA,20.21,1109.9,2.86,103.8,50.9
@@ -1584,13 +1584,13 @@ Barbell International 5,GS,18.78,2453.4,2.79,140.9,75.1
 Barbell International 5,LLY,18.04,3153.9,2.86,229.0,99.9
 Inverse Vol All 5,ABEV,44.74,8.5,1.32,6.4,4.8
 Inverse Vol All 5,BBD,34.49,21.8,2.29,8.3,7.1
-Inverse Vol All 5,BBDC3,12.76,22.6,0.84,22.5,22.2
+Inverse Vol All 5,BBDC3,12.77,22.6,0.84,22.5,22.2
 Inverse Vol All 5,BAC,5.67,172.5,2.2,50.6,42.8
 Inverse Vol All 5,AAPL,2.33,969.3,2.28,123.3,61.4
-Inverse Vol Brazilian 5,BBDC3,26.02,22.6,0.84,22.5,22.2
+Inverse Vol Brazilian 5,BBDC3,26.03,22.6,0.84,22.5,22.2
 Inverse Vol Brazilian 5,BRSR3,25.9,78.1,3.15,22.6,16.5
 Inverse Vol Brazilian 5,BPAN4,24.31,51.6,1.7,24.1,16.8
-Inverse Vol Brazilian 5,BPAC5,15.42,118.5,2.0,38.0,35.3
+Inverse Vol Brazilian 5,BPAC5,15.41,118.5,2.0,38.0,35.3
 Inverse Vol Brazilian 5,BPAC11,8.35,197.3,1.78,70.1,38.4
 Inverse Vol International 5,CIG,41.56,6.9,2.18,4.6,5.2
 Inverse Vol International 5,ABEV,29.97,8.5,1.32,6.4,4.8
@@ -1640,7 +1640,7 @@ Sector Finances Brazilian 10,BPAN4,16.52,51.6,1.7,24.1,16.8
 Sector Finances Brazilian 10,ITSA3,12.62,29.3,1.56,19.8,13.8
 Sector Finances Brazilian 10,BRSR5,11.7,94.2,1.95,41.8,20.9
 Sector Finances Brazilian 10,BPAC5,11.23,118.5,2.0,38.0,35.3
-Sector Finances Brazilian 10,BBDC3,6.8,22.6,0.84,22.5,22.2
+Sector Finances Brazilian 10,BBDC3,6.81,22.6,0.84,22.5,22.2
 Sector Finances Brazilian 10,BPAC11,5.42,197.3,1.78,70.1,38.4
 Sector Finances International 10,BBD,19.2,21.8,2.29,8.3,7.1
 Sector Finances International 10,NU,19.2,39.5,2.04,39.4,53.8
@@ -1815,18 +1815,18 @@ High Frequency All 10,PETR3,17.26,142.1,1.64,53.3,31.7
 High Frequency All 10,ENEV3,13.07,161.1,2.87,33.2,14.5
 High Frequency All 10,BBDC3,10.26,22.6,0.84,22.5,22.2
 High Frequency All 10,TAEE11,7.63,97.9,1.52,44.9,29.3
-High Frequency All 10,NVDA,4.82,1109.9,2.86,103.8,50.9
+High Frequency All 10,NVDA,4.81,1109.9,2.86,103.8,50.9
 High Frequency All 10,HSBC,4.53,338.4,2.23,58.6,32.6
 High Frequency All 10,AAPL,4.49,969.3,2.28,123.3,61.4
 High Frequency All 10,INTC,3.43,887.5,2.61,80.2,33.5
 High Frequency Brazilian 10,SAPR4,16.66,17.7,0.95,15.3,14.7
 High Frequency Brazilian 10,CMIG4,14.23,25.1,1.17,17.6,20.0
-High Frequency Brazilian 10,USIM5,13.5,73.9,2.57,20.5,16.5
+High Frequency Brazilian 10,USIM5,13.51,73.9,2.57,20.5,16.5
 High Frequency Brazilian 10,PETR4,11.74,133.4,1.82,44.8,23.8
 High Frequency Brazilian 10,BPAC5,11.49,118.5,2.0,38.0,35.3
-High Frequency Brazilian 10,PETR3,9.0,142.1,1.64,53.3,31.7
+High Frequency Brazilian 10,PETR3,8.99,142.1,1.64,53.3,31.7
 High Frequency Brazilian 10,ENEV3,7.35,161.1,2.87,33.2,14.5
-High Frequency Brazilian 10,BBDC3,6.7,22.6,0.84,22.5,22.2
+High Frequency Brazilian 10,BBDC3,6.71,22.6,0.84,22.5,22.2
 High Frequency Brazilian 10,BPAC11,4.88,197.3,1.78,70.1,38.4
 High Frequency Brazilian 10,TAEE11,4.45,97.9,1.52,44.9,29.3
 High Frequency International 10,JNJ,17.56,664.5,2.6,75.7,49.1
@@ -1855,7 +1855,7 @@ Low Turnover Brazilian 10,USIM5,13.43,73.9,2.57,20.5,16.5
 Low Turnover Brazilian 10,PETR4,12.08,133.4,1.82,44.8,23.8
 Low Turnover Brazilian 10,BPAC5,11.76,118.5,2.0,38.0,35.3
 Low Turnover Brazilian 10,PETR3,9.35,142.1,1.64,53.3,31.7
-Low Turnover Brazilian 10,BBDC3,7.82,22.6,0.84,22.5,22.2
+Low Turnover Brazilian 10,BBDC3,7.83,22.6,0.84,22.5,22.2
 Low Turnover Brazilian 10,ENEV3,7.31,161.1,2.87,33.2,14.5
 Low Turnover Brazilian 10,BPAC11,5.25,197.3,1.78,70.1,38.4
 Low Turnover Brazilian 10,TAEE11,4.61,97.9,1.52,44.9,29.3
@@ -2099,7 +2099,7 @@ Barbell International 10,LLY,4.27,3153.9,2.86,229.0,99.9
 Barbell International 10,MSFT,4.06,1060.3,2.51,220.5,99.3
 Barbell International 10,NVDA,3.89,1109.9,2.86,103.8,50.9
 Barbell International 10,GS,3.43,2453.4,2.79,140.9,75.1
-Inverse Vol All 10,ABEV,31.26,8.5,1.32,6.4,4.8
+Inverse Vol All 10,ABEV,31.25,8.5,1.32,6.4,4.8
 Inverse Vol All 10,BBD,24.1,21.8,2.29,8.3,7.1
 Inverse Vol All 10,BBDC3,8.92,22.6,0.84,22.5,22.2
 Inverse Vol All 10,BRSR3,8.87,78.1,3.15,22.6,16.5
@@ -2193,7 +2193,7 @@ Sector Finances Brazilian 20,BPAN4,16.52,51.6,1.7,24.1,16.8
 Sector Finances Brazilian 20,ITSA3,12.62,29.3,1.56,19.8,13.8
 Sector Finances Brazilian 20,BRSR5,11.7,94.2,1.95,41.8,20.9
 Sector Finances Brazilian 20,BPAC5,11.23,118.5,2.0,38.0,35.3
-Sector Finances Brazilian 20,BBDC3,6.8,22.6,0.84,22.5,22.2
+Sector Finances Brazilian 20,BBDC3,6.81,22.6,0.84,22.5,22.2
 Sector Finances Brazilian 20,BPAC11,5.42,197.3,1.78,70.1,38.4
 Sector Finances International 20,BBD,19.2,21.8,2.29,8.3,7.1
 Sector Finances International 20,NU,19.2,39.5,2.04,39.4,53.8
@@ -2486,16 +2486,16 @@ Growth International 20,INTC,1.49,887.5,2.61,80.2,33.5
 Growth International 20,JPM,1.39,950.9,2.91,117.9,61.1
 Growth International 20,SO,0.24,132.9,1.67,79.0,66.7
 High Frequency All 20,BBD,11.85,21.8,2.29,8.3,7.1
-High Frequency All 20,PETR4,10.77,133.4,1.82,44.8,23.8
+High Frequency All 20,PETR4,10.76,133.4,1.82,44.8,23.8
 High Frequency All 20,JNJ,9.61,664.5,2.6,75.7,49.1
 High Frequency All 20,CMIG4,9.21,25.1,1.17,17.6,20.0
 High Frequency All 20,SAPR4,9.09,17.7,0.95,15.3,14.7
 High Frequency All 20,PETR3,8.34,142.1,1.64,53.3,31.7
 High Frequency All 20,USIM5,6.51,73.9,2.57,20.5,16.5
 High Frequency All 20,ENEV3,5.19,161.1,2.87,33.2,14.5
-High Frequency All 20,VALE,4.58,48.4,1.71,23.1,18.7
+High Frequency All 20,VALE,4.57,48.4,1.71,23.1,18.7
 High Frequency All 20,BPAC5,4.16,118.5,2.0,38.0,35.3
-High Frequency All 20,BBDC3,3.91,22.6,0.84,22.5,22.2
+High Frequency All 20,BBDC3,3.92,22.6,0.84,22.5,22.2
 High Frequency All 20,CPFE3,3.11,146.0,1.87,61.9,39.5
 High Frequency All 20,TAEE11,2.63,97.9,1.52,44.9,29.3
 High Frequency All 20,BAC,2.58,172.5,2.2,50.6,42.8
@@ -2545,26 +2545,24 @@ High Frequency International 20,JPM,1.94,950.9,2.91,117.9,61.1
 High Frequency International 20,V,0.92,-6.6,1.09,391.1,100.0
 High Frequency International 20,MMM,0.88,-31.8,0.98,219.7,91.6
 High Frequency International 20,SO,0.25,132.9,1.67,79.0,66.7
-Low Turnover All 20,BBD,11.85,21.8,2.29,8.3,7.1
-Low Turnover All 20,PETR4,10.77,133.4,1.82,44.8,23.8
-Low Turnover All 20,JNJ,9.61,664.5,2.6,75.7,49.1
-Low Turnover All 20,CMIG4,9.21,25.1,1.17,17.6,20.0
-Low Turnover All 20,SAPR4,9.09,17.7,0.95,15.3,14.7
-Low Turnover All 20,PETR3,8.34,142.1,1.64,53.3,31.7
-Low Turnover All 20,USIM5,6.51,73.9,2.57,20.5,16.5
-Low Turnover All 20,ENEV3,5.19,161.1,2.87,33.2,14.5
-Low Turnover All 20,VALE,4.58,48.4,1.71,23.1,18.7
-Low Turnover All 20,BPAC5,4.16,118.5,2.0,38.0,35.3
-Low Turnover All 20,BBDC3,3.91,22.6,0.84,22.5,22.2
-Low Turnover All 20,CPFE3,3.11,146.0,1.87,61.9,39.5
-Low Turnover All 20,TAEE11,2.63,97.9,1.52,44.9,29.3
-Low Turnover All 20,BAC,2.58,172.5,2.2,50.6,42.8
-Low Turnover All 20,BPAC11,1.93,197.3,1.78,70.1,38.4
-Low Turnover All 20,NVDA,1.55,1109.9,2.86,103.8,50.9
-Low Turnover All 20,AAPL,1.37,969.3,2.28,123.3,61.4
-Low Turnover All 20,JPM,1.28,950.9,2.91,117.9,61.1
-Low Turnover All 20,HSBC,1.19,338.4,2.23,58.6,32.6
-Low Turnover All 20,INTC,1.14,887.5,2.61,80.2,33.5
+Low Turnover All 20,PETR4,13.43,133.4,1.82,44.8,23.8
+Low Turnover All 20,JNJ,12.14,664.5,2.6,75.7,49.1
+Low Turnover All 20,CMIG4,11.74,25.1,1.17,17.6,20.0
+Low Turnover All 20,PETR3,10.55,142.1,1.64,53.3,31.7
+Low Turnover All 20,USIM5,8.15,73.9,2.57,20.5,16.5
+Low Turnover All 20,ENEV3,6.55,161.1,2.87,33.2,14.5
+Low Turnover All 20,VALE,5.76,48.4,1.71,23.1,18.7
+Low Turnover All 20,BPAC5,5.31,118.5,2.0,38.0,35.3
+Low Turnover All 20,BBDC3,5.01,22.6,0.84,22.5,22.2
+Low Turnover All 20,CPFE3,3.96,146.0,1.87,61.9,39.5
+Low Turnover All 20,TAEE11,3.34,97.9,1.52,44.9,29.3
+Low Turnover All 20,BAC,3.28,172.5,2.2,50.6,42.8
+Low Turnover All 20,BPAC11,2.46,197.3,1.78,70.1,38.4
+Low Turnover All 20,NVDA,1.97,1109.9,2.86,103.8,50.9
+Low Turnover All 20,AAPL,1.75,969.3,2.28,123.3,61.4
+Low Turnover All 20,JPM,1.63,950.9,2.91,117.9,61.1
+Low Turnover All 20,HSBC,1.52,338.4,2.23,58.6,32.6
+Low Turnover All 20,INTC,1.45,887.5,2.61,80.2,33.5
 Low Turnover Brazilian 20,ELET3,10.11,292.7,2.28,46.4,32.6
 Low Turnover Brazilian 20,ELET6,9.02,269.6,1.94,55.4,36.8
 Low Turnover Brazilian 20,SAPR4,8.3,17.7,0.95,15.3,14.7
@@ -2775,9 +2773,9 @@ Min Variance Brazilian 20,BPAC11,3.59,197.3,1.78,70.1,38.4
 Min Variance Brazilian 20,ELET3,3.53,292.7,2.28,46.4,32.6
 Min Variance Brazilian 20,PRIO3,3.5,258.2,2.01,80.2,67.3
 Min Variance Brazilian 20,BPAC5,1.0,118.5,2.0,38.0,35.3
-Min Variance Brazilian 20,CSAN3,0.5,16.2,1.01,30.4,47.7
 Min Variance Brazilian 20,BBDC3,0.5,22.6,0.84,22.5,22.2
 Min Variance Brazilian 20,EALT3,0.5,32.2,1.32,42.0,31.5
+Min Variance Brazilian 20,CSAN3,0.5,16.2,1.01,30.4,47.7
 Min Variance Brazilian 20,BPAN4,0.5,51.6,1.7,24.1,16.8
 Min Variance International 20,LLY,7.0,3153.9,2.86,229.0,99.9
 Min Variance International 20,GS,7.0,2453.4,2.79,140.9,75.1
@@ -3000,7 +2998,7 @@ Inverse Vol All 20,EBR,6.23,50.8,2.75,15.2,10.1
 Inverse Vol All 20,CPLE6,5.39,51.8,2.06,17.6,11.2
 Inverse Vol All 20,CMIG4,5.39,25.1,1.17,17.6,20.0
 Inverse Vol All 20,CSAN,5.03,9.0,1.94,18.8,26.9
-Inverse Vol All 20,BBDC3,4.21,22.6,0.84,22.5,22.2
+Inverse Vol All 20,BBDC3,4.22,22.6,0.84,22.5,22.2
 Inverse Vol All 20,BRSR3,4.19,78.1,3.15,22.6,16.5
 Inverse Vol All 20,BPAN4,3.94,51.6,1.7,24.1,16.8
 Inverse Vol All 20,CSAN3,3.11,16.2,1.01,30.4,47.7
