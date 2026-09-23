@@ -1,64 +1,64 @@
 Portfolio,Stock,Weight_Pct,Return_Pct,Sharpe_Ratio,Risk_Volatility_Pct,Risk_MaxDrawdown_Pct
-High Risk All,AEP,22.69,550.8,2.73,73.3,42.2
-High Risk All,AMZN,18.25,469.1,1.93,323.2,100.0
-High Risk All,INTC,12.69,872.7,2.63,84.0,46.8
-High Risk All,HSBC,10.13,418.4,2.31,75.4,49.5
-High Risk All,JPM,7.79,765.6,2.39,327.8,100.0
-High Risk All,JNJ,6.2,968.8,3.03,75.4,32.7
-High Risk All,UNH,5.97,605.5,2.13,292.3,100.0
-High Risk All,GOOGL,5.92,563.1,1.87,172.6,96.1
-High Risk All,AAPL,5.43,819.3,2.11,121.1,66.2
-High Risk All,GOOG,4.94,307.0,1.63,168.7,98.2
-Medium Risk All,KO,17.31,286.4,2.27,52.7,29.7
-Medium Risk All,INTC,13.9,872.7,2.63,84.0,46.8
-Medium Risk All,JNJ,11.54,968.8,3.03,75.4,32.7
-Medium Risk All,HSBC,10.89,418.4,2.31,75.4,49.5
-Medium Risk All,GGBR3,10.8,151.1,3.14,29.9,29.4
-Medium Risk All,ELET3,9.9,292.7,2.08,42.7,32.6
-Medium Risk All,AEP,7.53,550.8,2.73,73.3,42.2
-Medium Risk All,WEGE3,6.51,251.2,2.36,51.9,43.4
-Medium Risk All,AAPL,5.97,819.3,2.11,121.1,66.2
-Medium Risk All,CPFE3,5.65,193.5,2.6,43.0,42.5
-Low Risk All,INTC,19.39,872.7,2.63,84.0,46.8
-Low Risk All,BRSR3,17.63,86.2,3.39,20.7,16.9
-Low Risk All,BRSR6,17.63,64.1,3.03,22.4,30.3
-Low Risk All,JNJ,10.08,968.8,3.03,75.4,32.7
-Low Risk All,TAEE4,8.95,63.4,2.92,16.5,15.9
-Low Risk All,ELET3,8.95,292.7,2.08,42.7,32.6
-Low Risk All,VALE,7.23,57.9,2.67,24.2,21.7
-Low Risk All,GOAU4,4.83,59.3,2.63,16.2,19.5
-Low Risk All,GGBR3,3.06,151.1,3.14,29.9,29.4
-Low Risk All,AEP,2.25,550.8,2.73,73.3,42.2
+High Risk All,AEP,21.42,550.8,2.73,73.3,42.2
+High Risk All,VALE3,18.28,465.4,3.35,48.9,39.3
+High Risk All,AMZN,14.61,469.1,1.93,323.2,100.0
+High Risk All,INTC,10.23,872.7,2.63,84.0,46.8
+High Risk All,HSBC,7.76,418.4,2.31,75.4,49.5
+High Risk All,JNJ,6.62,968.8,3.03,75.4,32.7
+High Risk All,JPM,5.67,765.6,2.39,327.8,100.0
+High Risk All,UNH,5.56,605.5,2.13,292.3,100.0
+High Risk All,GOOGL,5.55,563.1,1.87,172.6,96.1
+High Risk All,AAPL,4.29,819.3,2.11,121.1,66.2
+Medium Risk All,KO,17.48,286.4,2.27,52.7,29.7
+Medium Risk All,INTC,13.57,872.7,2.63,84.0,46.8
+Medium Risk All,ELET3,13.18,292.7,2.08,42.7,32.6
+Medium Risk All,JNJ,11.66,968.8,3.03,75.4,32.7
+Medium Risk All,HSBC,10.49,418.4,2.31,75.4,49.5
+Medium Risk All,AEP,10.13,550.8,2.73,73.3,42.2
+Medium Risk All,GGBR3,7.86,151.1,3.14,29.9,29.4
+Medium Risk All,AAPL,6.01,819.3,2.11,121.1,66.2
+Medium Risk All,WEGE3,4.81,251.2,2.36,51.9,43.4
+Medium Risk All,VALE3,4.81,465.4,3.35,48.9,39.3
+Low Risk All,INTC,19.43,872.7,2.63,84.0,46.8
+Low Risk All,BRSR3,17.62,86.2,3.39,20.7,16.9
+Low Risk All,BRSR6,17.62,64.1,3.03,22.4,30.3
+Low Risk All,TAEE4,15.37,63.4,2.92,16.5,15.9
+Low Risk All,JNJ,10.07,968.8,3.03,75.4,32.7
+Low Risk All,VALE,6.15,57.9,2.67,24.2,21.7
+Low Risk All,AEP,4.77,550.8,2.73,73.3,42.2
+Low Risk All,GOAU4,4.48,59.3,2.63,16.2,19.5
+Low Risk All,GGBR3,3.0,151.1,3.14,29.9,29.4
+Low Risk All,VALE3,1.48,465.4,3.35,48.9,39.3
 High Risk Brazilian,BPAC3,50.0,159.5,2.08,66.8,80.5
-High Risk Brazilian,ELET6,11.33,303.6,1.83,52.3,37.4
-High Risk Brazilian,ELET3,11.33,292.7,2.08,42.7,32.6
-High Risk Brazilian,SIMH3,7.02,62.3,1.65,52.8,69.8
-High Risk Brazilian,GGBR3,5.54,151.1,3.14,29.9,29.4
-High Risk Brazilian,ALUP11,3.78,109.6,2.24,39.5,34.2
-High Risk Brazilian,CPFE3,3.39,193.5,2.6,43.0,42.5
-High Risk Brazilian,WEGE3,2.71,251.2,2.36,51.9,43.4
-High Risk Brazilian,TAEE11,2.52,141.2,2.06,38.1,31.6
-High Risk Brazilian,PRIO3,2.38,284.2,1.93,62.3,45.2
-Medium Risk Brazilian,BRSR3,30.13,86.2,3.39,20.7,16.9
-Medium Risk Brazilian,BRSR6,19.87,64.1,3.03,22.4,30.3
-Medium Risk Brazilian,ELET3,11.74,292.7,2.08,42.7,32.6
-Medium Risk Brazilian,ELET6,11.74,303.6,1.83,52.3,37.4
-Medium Risk Brazilian,EALT3,11.56,59.5,2.97,32.3,33.0
-Medium Risk Brazilian,GGBR3,5.36,151.1,3.14,29.9,29.4
-Medium Risk Brazilian,CPFE3,2.91,193.5,2.6,43.0,42.5
-Medium Risk Brazilian,WEGE3,2.54,251.2,2.36,51.9,43.4
-Medium Risk Brazilian,TAEE11,2.18,141.2,2.06,38.1,31.6
-Medium Risk Brazilian,PRIO3,1.97,284.2,1.93,62.3,45.2
-Low Risk Brazilian,BRSR3,25.53,86.2,3.39,20.7,16.9
-Low Risk Brazilian,BRSR6,20.42,64.1,3.03,22.4,30.3
-Low Risk Brazilian,ELET3,15.83,292.7,2.08,42.7,32.6
-Low Risk Brazilian,EALT3,8.72,59.5,2.97,32.3,33.0
-Low Risk Brazilian,TAEE4,8.2,63.4,2.92,16.5,15.9
-Low Risk Brazilian,TASA4,6.93,50.6,2.41,16.0,17.4
-Low Risk Brazilian,CPLE3,4.54,72.7,2.21,21.0,18.7
-Low Risk Brazilian,BBSE3,4.05,133.4,1.99,35.4,23.7
-Low Risk Brazilian,GOAU4,3.5,59.3,2.63,16.2,19.5
-Low Risk Brazilian,GGBR3,2.28,151.1,3.14,29.9,29.4
+High Risk Brazilian,ELET6,11.18,303.6,1.83,52.3,37.4
+High Risk Brazilian,ELET3,11.18,292.7,2.08,42.7,32.6
+High Risk Brazilian,SIMH3,7.26,62.3,1.65,52.8,69.8
+High Risk Brazilian,GGBR3,5.82,151.1,3.14,29.9,29.4
+High Risk Brazilian,CPFE3,3.53,193.5,2.6,43.0,42.5
+High Risk Brazilian,WEGE3,2.97,251.2,2.36,51.9,43.4
+High Risk Brazilian,VALE3,2.7,465.4,3.35,48.9,39.3
+High Risk Brazilian,TAEE11,2.68,141.2,2.06,38.1,31.6
+High Risk Brazilian,PRIO3,2.68,284.2,1.93,62.3,45.2
+Medium Risk Brazilian,BRSR3,32.32,86.2,3.39,20.7,16.9
+Medium Risk Brazilian,BRSR6,17.68,64.1,3.03,22.4,30.3
+Medium Risk Brazilian,ELET3,12.68,292.7,2.08,42.7,32.6
+Medium Risk Brazilian,ELET6,12.68,303.6,1.83,52.3,37.4
+Medium Risk Brazilian,EALT3,10.57,59.5,2.97,32.3,33.0
+Medium Risk Brazilian,GGBR3,4.6,151.1,3.14,29.9,29.4
+Medium Risk Brazilian,CPFE3,3.21,193.5,2.6,43.0,42.5
+Medium Risk Brazilian,WEGE3,2.44,251.2,2.36,51.9,43.4
+Medium Risk Brazilian,VALE3,2.11,465.4,3.35,48.9,39.3
+Medium Risk Brazilian,PRIO3,1.71,284.2,1.93,62.3,45.2
+Low Risk Brazilian,BRSR3,24.95,86.2,3.39,20.7,16.9
+Low Risk Brazilian,BRSR6,20.21,64.1,3.03,22.4,30.3
+Low Risk Brazilian,ELET3,17.79,292.7,2.08,42.7,32.6
+Low Risk Brazilian,TAEE4,10.78,63.4,2.92,16.5,15.9
+Low Risk Brazilian,EALT3,7.79,59.5,2.97,32.3,33.0
+Low Risk Brazilian,TASA4,6.85,50.6,2.41,16.0,17.4
+Low Risk Brazilian,BBSE3,4.84,133.4,1.99,35.4,23.7
+Low Risk Brazilian,GOAU4,3.35,59.3,2.63,16.2,19.5
+Low Risk Brazilian,GGBR3,2.27,151.1,3.14,29.9,29.4
+Low Risk Brazilian,VALE3,1.17,465.4,3.35,48.9,39.3
 High Risk International,AEP,22.69,550.8,2.73,73.3,42.2
 High Risk International,AMZN,18.25,469.1,1.93,323.2,100.0
 High Risk International,INTC,12.69,872.7,2.63,84.0,46.8
@@ -93,26 +93,26 @@ High Risk All 3,INTC,41.0,872.7,2.63,84.0,46.8
 High Risk All 3,AAPL,30.43,819.3,2.11,121.1,66.2
 High Risk All 3,JNJ,28.57,968.8,3.03,75.4,32.7
 High Risk Brazilian 3,ELET6,57.14,303.6,1.83,52.3,37.4
-High Risk Brazilian 3,WEGE3,26.05,251.2,2.36,51.9,43.4
-High Risk Brazilian 3,PRIO3,16.8,284.2,1.93,62.3,45.2
+High Risk Brazilian 3,VALE3,25.59,465.4,3.35,48.9,39.3
+High Risk Brazilian 3,PRIO3,17.27,284.2,1.93,62.3,45.2
 High Risk International 3,INTC,41.0,872.7,2.63,84.0,46.8
 High Risk International 3,AAPL,30.43,819.3,2.11,121.1,66.2
 High Risk International 3,JNJ,28.57,968.8,3.03,75.4,32.7
-Medium Risk All 3,INTC,45.45,872.7,2.63,84.0,46.8
-Medium Risk All 3,AEP,36.36,550.8,2.73,73.3,42.2
-Medium Risk All 3,JNJ,18.18,968.8,3.03,75.4,32.7
+Medium Risk All 3,INTC,50.0,872.7,2.63,84.0,46.8
+Medium Risk All 3,VALE3,30.0,465.4,3.35,48.9,39.3
+Medium Risk All 3,JNJ,20.0,968.8,3.03,75.4,32.7
 Medium Risk Brazilian 3,ELET3,57.14,292.7,2.08,42.7,32.6
-Medium Risk Brazilian 3,GGBR3,26.27,151.1,3.14,29.9,29.4
-Medium Risk Brazilian 3,WEGE3,16.59,251.2,2.36,51.9,43.4
+Medium Risk Brazilian 3,GGBR3,26.26,151.1,3.14,29.9,29.4
+Medium Risk Brazilian 3,VALE3,16.59,465.4,3.35,48.9,39.3
 Medium Risk International 3,INTC,45.45,872.7,2.63,84.0,46.8
 Medium Risk International 3,AEP,36.36,550.8,2.73,73.3,42.2
 Medium Risk International 3,JNJ,18.18,968.8,3.03,75.4,32.7
-Low Risk All 3,BRSR3,50.0,86.2,3.39,20.7,16.9
-Low Risk All 3,INTC,35.71,872.7,2.63,84.0,46.8
-Low Risk All 3,JNJ,14.29,968.8,3.03,75.4,32.7
-Low Risk Brazilian 3,BRSR3,35.0,86.2,3.39,20.7,16.9
-Low Risk Brazilian 3,BRSR6,35.0,64.1,3.03,22.4,30.3
-Low Risk Brazilian 3,GGBR3,30.0,151.1,3.14,29.9,29.4
+Low Risk All 3,INTC,50.0,872.7,2.63,84.0,46.8
+Low Risk All 3,VALE3,30.0,465.4,3.35,48.9,39.3
+Low Risk All 3,JNJ,20.0,968.8,3.03,75.4,32.7
+Low Risk Brazilian 3,BRSR3,70.0,86.2,3.39,20.7,16.9
+Low Risk Brazilian 3,GGBR3,17.57,151.1,3.14,29.9,29.4
+Low Risk Brazilian 3,VALE3,12.43,465.4,3.35,48.9,39.3
 Low Risk International 3,INTC,45.45,872.7,2.63,84.0,46.8
 Low Risk International 3,AEP,36.36,550.8,2.73,73.3,42.2
 Low Risk International 3,JNJ,18.18,968.8,3.03,75.4,32.7
@@ -121,66 +121,66 @@ High Risk All 5,INTC,24.71,872.7,2.63,84.0,46.8
 High Risk All 5,AAPL,11.0,819.3,2.11,121.1,66.2
 High Risk All 5,JNJ,7.14,968.8,3.03,75.4,32.7
 High Risk All 5,UNH,7.14,605.5,2.13,292.3,100.0
-High Risk Brazilian 5,BPAC3,50.0,159.5,2.08,66.8,80.5
-High Risk Brazilian 5,WEGE3,15.33,251.2,2.36,51.9,43.4
-High Risk Brazilian 5,ELET6,14.29,303.6,1.83,52.3,37.4
-High Risk Brazilian 5,ELET3,14.29,292.7,2.08,42.7,32.6
-High Risk Brazilian 5,PRIO3,6.1,284.2,1.93,62.3,45.2
+High Risk Brazilian 5,ELET6,28.57,303.6,1.83,52.3,37.4
+High Risk Brazilian 5,ELET3,28.57,292.7,2.08,42.7,32.6
+High Risk Brazilian 5,WEGE3,17.77,251.2,2.36,51.9,43.4
+High Risk Brazilian 5,VALE3,15.69,465.4,3.35,48.9,39.3
+High Risk Brazilian 5,PRIO3,9.4,284.2,1.93,62.3,45.2
 High Risk International 5,JPM,50.0,765.6,2.39,327.8,100.0
 High Risk International 5,INTC,24.71,872.7,2.63,84.0,46.8
 High Risk International 5,AAPL,11.0,819.3,2.11,121.1,66.2
 High Risk International 5,JNJ,7.14,968.8,3.03,75.4,32.7
 High Risk International 5,UNH,7.14,605.5,2.13,292.3,100.0
-Medium Risk All 5,HSBC,38.89,418.4,2.31,75.4,49.5
-Medium Risk All 5,AEP,22.22,550.8,2.73,73.3,42.2
-Medium Risk All 5,INTC,19.26,872.7,2.63,84.0,46.8
-Medium Risk All 5,JNJ,11.11,968.8,3.03,75.4,32.7
-Medium Risk All 5,AAPL,8.52,819.3,2.11,121.1,66.2
-Medium Risk Brazilian 5,GGBR3,30.05,151.1,3.14,29.9,29.4
-Medium Risk Brazilian 5,ELET3,23.45,292.7,2.08,42.7,32.6
-Medium Risk Brazilian 5,ELET6,23.45,303.6,1.83,52.3,37.4
-Medium Risk Brazilian 5,WEGE3,12.81,251.2,2.36,51.9,43.4
-Medium Risk Brazilian 5,CPFE3,10.24,193.5,2.6,43.0,42.5
+Medium Risk All 5,AEP,28.57,550.8,2.73,73.3,42.2
+Medium Risk All 5,INTC,24.68,872.7,2.63,84.0,46.8
+Medium Risk All 5,VALE3,21.43,465.4,3.35,48.9,39.3
+Medium Risk All 5,JNJ,14.29,968.8,3.03,75.4,32.7
+Medium Risk All 5,AAPL,11.03,819.3,2.11,121.1,66.2
+Medium Risk Brazilian 5,ELET3,35.17,292.7,2.08,42.7,32.6
+Medium Risk Brazilian 5,CPFE3,21.98,193.5,2.6,43.0,42.5
+Medium Risk Brazilian 5,GGBR3,20.49,151.1,3.14,29.9,29.4
+Medium Risk Brazilian 5,WEGE3,11.72,251.2,2.36,51.9,43.4
+Medium Risk Brazilian 5,VALE3,10.65,465.4,3.35,48.9,39.3
 Medium Risk International 5,HSBC,38.89,418.4,2.31,75.4,49.5
 Medium Risk International 5,AEP,22.22,550.8,2.73,73.3,42.2
 Medium Risk International 5,INTC,19.26,872.7,2.63,84.0,46.8
 Medium Risk International 5,JNJ,11.11,968.8,3.03,75.4,32.7
 Medium Risk International 5,AAPL,8.52,819.3,2.11,121.1,66.2
+Low Risk All 5,BRSR3,41.18,86.2,3.39,20.7,16.9
 Low Risk All 5,INTC,29.41,872.7,2.63,84.0,46.8
-Low Risk All 5,BRSR3,20.59,86.2,3.39,20.7,16.9
-Low Risk All 5,BRSR6,20.59,64.1,3.03,22.4,30.3
-Low Risk All 5,GGBR3,17.65,151.1,3.14,29.9,29.4
 Low Risk All 5,JNJ,11.76,968.8,3.03,75.4,32.7
+Low Risk All 5,GGBR3,10.02,151.1,3.14,29.9,29.4
+Low Risk All 5,VALE3,7.62,465.4,3.35,48.9,39.3
 Low Risk Brazilian 5,TAEE4,28.57,63.4,2.92,16.5,15.9
 Low Risk Brazilian 5,BRSR3,25.0,86.2,3.39,20.7,16.9
 Low Risk Brazilian 5,BRSR6,25.0,64.1,3.03,22.4,30.3
-Low Risk Brazilian 5,GOAU4,13.16,59.3,2.63,16.2,19.5
-Low Risk Brazilian 5,GGBR3,8.27,151.1,3.14,29.9,29.4
+Low Risk Brazilian 5,GGBR3,15.35,151.1,3.14,29.9,29.4
+Low Risk Brazilian 5,VALE3,6.08,465.4,3.35,48.9,39.3
 Low Risk International 5,INTC,35.71,872.7,2.63,84.0,46.8
 Low Risk International 5,VALE,21.43,57.9,2.67,24.2,21.7
 Low Risk International 5,EBR,16.39,50.8,2.52,14.0,10.1
 Low Risk International 5,JNJ,14.29,968.8,3.03,75.4,32.7
 Low Risk International 5,AEP,12.18,550.8,2.73,73.3,42.2
-High Risk All 10,AEP,22.69,550.8,2.73,73.3,42.2
-High Risk All 10,AMZN,18.25,469.1,1.93,323.2,100.0
-High Risk All 10,INTC,12.69,872.7,2.63,84.0,46.8
-High Risk All 10,HSBC,10.13,418.4,2.31,75.4,49.5
-High Risk All 10,JPM,7.79,765.6,2.39,327.8,100.0
-High Risk All 10,JNJ,6.2,968.8,3.03,75.4,32.7
-High Risk All 10,UNH,5.97,605.5,2.13,292.3,100.0
-High Risk All 10,GOOGL,5.92,563.1,1.87,172.6,96.1
-High Risk All 10,AAPL,5.43,819.3,2.11,121.1,66.2
-High Risk All 10,GOOG,4.94,307.0,1.63,168.7,98.2
+High Risk All 10,AEP,21.42,550.8,2.73,73.3,42.2
+High Risk All 10,VALE3,18.28,465.4,3.35,48.9,39.3
+High Risk All 10,AMZN,14.61,469.1,1.93,323.2,100.0
+High Risk All 10,INTC,10.23,872.7,2.63,84.0,46.8
+High Risk All 10,HSBC,7.76,418.4,2.31,75.4,49.5
+High Risk All 10,JNJ,6.62,968.8,3.03,75.4,32.7
+High Risk All 10,JPM,5.67,765.6,2.39,327.8,100.0
+High Risk All 10,UNH,5.56,605.5,2.13,292.3,100.0
+High Risk All 10,GOOGL,5.55,563.1,1.87,172.6,96.1
+High Risk All 10,AAPL,4.29,819.3,2.11,121.1,66.2
 High Risk Brazilian 10,BPAC3,50.0,159.5,2.08,66.8,80.5
-High Risk Brazilian 10,ELET6,11.33,303.6,1.83,52.3,37.4
-High Risk Brazilian 10,ELET3,11.33,292.7,2.08,42.7,32.6
-High Risk Brazilian 10,SIMH3,7.02,62.3,1.65,52.8,69.8
-High Risk Brazilian 10,GGBR3,5.54,151.1,3.14,29.9,29.4
-High Risk Brazilian 10,ALUP11,3.78,109.6,2.24,39.5,34.2
-High Risk Brazilian 10,CPFE3,3.39,193.5,2.6,43.0,42.5
-High Risk Brazilian 10,WEGE3,2.71,251.2,2.36,51.9,43.4
-High Risk Brazilian 10,TAEE11,2.52,141.2,2.06,38.1,31.6
-High Risk Brazilian 10,PRIO3,2.38,284.2,1.93,62.3,45.2
+High Risk Brazilian 10,ELET6,11.18,303.6,1.83,52.3,37.4
+High Risk Brazilian 10,ELET3,11.18,292.7,2.08,42.7,32.6
+High Risk Brazilian 10,SIMH3,7.26,62.3,1.65,52.8,69.8
+High Risk Brazilian 10,GGBR3,5.82,151.1,3.14,29.9,29.4
+High Risk Brazilian 10,CPFE3,3.53,193.5,2.6,43.0,42.5
+High Risk Brazilian 10,WEGE3,2.97,251.2,2.36,51.9,43.4
+High Risk Brazilian 10,VALE3,2.7,465.4,3.35,48.9,39.3
+High Risk Brazilian 10,TAEE11,2.68,141.2,2.06,38.1,31.6
+High Risk Brazilian 10,PRIO3,2.68,284.2,1.93,62.3,45.2
 High Risk International 10,AEP,22.69,550.8,2.73,73.3,42.2
 High Risk International 10,AMZN,18.25,469.1,1.93,323.2,100.0
 High Risk International 10,INTC,12.69,872.7,2.63,84.0,46.8
@@ -191,26 +191,26 @@ High Risk International 10,UNH,5.97,605.5,2.13,292.3,100.0
 High Risk International 10,GOOGL,5.92,563.1,1.87,172.6,96.1
 High Risk International 10,AAPL,5.43,819.3,2.11,121.1,66.2
 High Risk International 10,GOOG,4.94,307.0,1.63,168.7,98.2
-Medium Risk All 10,KO,17.31,286.4,2.27,52.7,29.7
-Medium Risk All 10,INTC,13.9,872.7,2.63,84.0,46.8
-Medium Risk All 10,JNJ,11.54,968.8,3.03,75.4,32.7
-Medium Risk All 10,HSBC,10.89,418.4,2.31,75.4,49.5
-Medium Risk All 10,GGBR3,10.8,151.1,3.14,29.9,29.4
-Medium Risk All 10,ELET3,9.9,292.7,2.08,42.7,32.6
-Medium Risk All 10,AEP,7.53,550.8,2.73,73.3,42.2
-Medium Risk All 10,WEGE3,6.51,251.2,2.36,51.9,43.4
-Medium Risk All 10,AAPL,5.97,819.3,2.11,121.1,66.2
-Medium Risk All 10,CPFE3,5.65,193.5,2.6,43.0,42.5
-Medium Risk Brazilian 10,BRSR3,30.13,86.2,3.39,20.7,16.9
-Medium Risk Brazilian 10,BRSR6,19.87,64.1,3.03,22.4,30.3
-Medium Risk Brazilian 10,ELET3,11.74,292.7,2.08,42.7,32.6
-Medium Risk Brazilian 10,ELET6,11.74,303.6,1.83,52.3,37.4
-Medium Risk Brazilian 10,EALT3,11.56,59.5,2.97,32.3,33.0
-Medium Risk Brazilian 10,GGBR3,5.36,151.1,3.14,29.9,29.4
-Medium Risk Brazilian 10,CPFE3,2.91,193.5,2.6,43.0,42.5
-Medium Risk Brazilian 10,WEGE3,2.54,251.2,2.36,51.9,43.4
-Medium Risk Brazilian 10,TAEE11,2.18,141.2,2.06,38.1,31.6
-Medium Risk Brazilian 10,PRIO3,1.97,284.2,1.93,62.3,45.2
+Medium Risk All 10,KO,17.48,286.4,2.27,52.7,29.7
+Medium Risk All 10,INTC,13.57,872.7,2.63,84.0,46.8
+Medium Risk All 10,ELET3,13.18,292.7,2.08,42.7,32.6
+Medium Risk All 10,JNJ,11.66,968.8,3.03,75.4,32.7
+Medium Risk All 10,HSBC,10.49,418.4,2.31,75.4,49.5
+Medium Risk All 10,AEP,10.13,550.8,2.73,73.3,42.2
+Medium Risk All 10,GGBR3,7.86,151.1,3.14,29.9,29.4
+Medium Risk All 10,AAPL,6.01,819.3,2.11,121.1,66.2
+Medium Risk All 10,WEGE3,4.81,251.2,2.36,51.9,43.4
+Medium Risk All 10,VALE3,4.81,465.4,3.35,48.9,39.3
+Medium Risk Brazilian 10,BRSR3,32.32,86.2,3.39,20.7,16.9
+Medium Risk Brazilian 10,BRSR6,17.68,64.1,3.03,22.4,30.3
+Medium Risk Brazilian 10,ELET3,12.68,292.7,2.08,42.7,32.6
+Medium Risk Brazilian 10,ELET6,12.68,303.6,1.83,52.3,37.4
+Medium Risk Brazilian 10,EALT3,10.57,59.5,2.97,32.3,33.0
+Medium Risk Brazilian 10,GGBR3,4.6,151.1,3.14,29.9,29.4
+Medium Risk Brazilian 10,CPFE3,3.21,193.5,2.6,43.0,42.5
+Medium Risk Brazilian 10,WEGE3,2.44,251.2,2.36,51.9,43.4
+Medium Risk Brazilian 10,VALE3,2.11,465.4,3.35,48.9,39.3
+Medium Risk Brazilian 10,PRIO3,1.71,284.2,1.93,62.3,45.2
 Medium Risk International 10,BBD,24.31,21.6,2.29,8.1,10.1
 Medium Risk International 10,VALE,15.12,57.9,2.67,24.2,21.7
 Medium Risk International 10,EBR,11.53,50.8,2.52,14.0,10.1
@@ -221,26 +221,26 @@ Medium Risk International 10,KO,7.1,286.4,2.27,52.7,29.7
 Medium Risk International 10,INTC,6.71,872.7,2.63,84.0,46.8
 Medium Risk International 10,HSBC,5.61,418.4,2.31,75.4,49.5
 Medium Risk International 10,AAPL,2.9,819.3,2.11,121.1,66.2
-Low Risk All 10,INTC,19.39,872.7,2.63,84.0,46.8
-Low Risk All 10,BRSR3,17.63,86.2,3.39,20.7,16.9
-Low Risk All 10,BRSR6,17.63,64.1,3.03,22.4,30.3
-Low Risk All 10,JNJ,10.08,968.8,3.03,75.4,32.7
-Low Risk All 10,TAEE4,8.95,63.4,2.92,16.5,15.9
-Low Risk All 10,ELET3,8.95,292.7,2.08,42.7,32.6
-Low Risk All 10,VALE,7.23,57.9,2.67,24.2,21.7
-Low Risk All 10,GOAU4,4.83,59.3,2.63,16.2,19.5
-Low Risk All 10,GGBR3,3.06,151.1,3.14,29.9,29.4
-Low Risk All 10,AEP,2.25,550.8,2.73,73.3,42.2
-Low Risk Brazilian 10,BRSR3,25.53,86.2,3.39,20.7,16.9
-Low Risk Brazilian 10,BRSR6,20.42,64.1,3.03,22.4,30.3
-Low Risk Brazilian 10,ELET3,15.83,292.7,2.08,42.7,32.6
-Low Risk Brazilian 10,EALT3,8.72,59.5,2.97,32.3,33.0
-Low Risk Brazilian 10,TAEE4,8.2,63.4,2.92,16.5,15.9
-Low Risk Brazilian 10,TASA4,6.93,50.6,2.41,16.0,17.4
-Low Risk Brazilian 10,CPLE3,4.54,72.7,2.21,21.0,18.7
-Low Risk Brazilian 10,BBSE3,4.05,133.4,1.99,35.4,23.7
-Low Risk Brazilian 10,GOAU4,3.5,59.3,2.63,16.2,19.5
-Low Risk Brazilian 10,GGBR3,2.28,151.1,3.14,29.9,29.4
+Low Risk All 10,INTC,19.43,872.7,2.63,84.0,46.8
+Low Risk All 10,BRSR3,17.62,86.2,3.39,20.7,16.9
+Low Risk All 10,BRSR6,17.62,64.1,3.03,22.4,30.3
+Low Risk All 10,TAEE4,15.37,63.4,2.92,16.5,15.9
+Low Risk All 10,JNJ,10.07,968.8,3.03,75.4,32.7
+Low Risk All 10,VALE,6.15,57.9,2.67,24.2,21.7
+Low Risk All 10,AEP,4.77,550.8,2.73,73.3,42.2
+Low Risk All 10,GOAU4,4.48,59.3,2.63,16.2,19.5
+Low Risk All 10,GGBR3,3.0,151.1,3.14,29.9,29.4
+Low Risk All 10,VALE3,1.48,465.4,3.35,48.9,39.3
+Low Risk Brazilian 10,BRSR3,24.95,86.2,3.39,20.7,16.9
+Low Risk Brazilian 10,BRSR6,20.21,64.1,3.03,22.4,30.3
+Low Risk Brazilian 10,ELET3,17.79,292.7,2.08,42.7,32.6
+Low Risk Brazilian 10,TAEE4,10.78,63.4,2.92,16.5,15.9
+Low Risk Brazilian 10,EALT3,7.79,59.5,2.97,32.3,33.0
+Low Risk Brazilian 10,TASA4,6.85,50.6,2.41,16.0,17.4
+Low Risk Brazilian 10,BBSE3,4.84,133.4,1.99,35.4,23.7
+Low Risk Brazilian 10,GOAU4,3.35,59.3,2.63,16.2,19.5
+Low Risk Brazilian 10,GGBR3,2.27,151.1,3.14,29.9,29.4
+Low Risk Brazilian 10,VALE3,1.17,465.4,3.35,48.9,39.3
 Low Risk International 10,BBD,31.46,21.6,2.29,8.1,10.1
 Low Risk International 10,KO,13.05,286.4,2.27,52.7,29.7
 Low Risk International 10,JNJ,9.94,968.8,3.03,75.4,32.7
@@ -251,44 +251,45 @@ Low Risk International 10,VALE,7.45,57.9,2.67,24.2,21.7
 Low Risk International 10,CIG,7.45,8.6,2.45,4.5,6.9
 Low Risk International 10,HSBC,3.32,418.4,2.31,75.4,49.5
 Low Risk International 10,AEP,2.79,550.8,2.73,73.3,42.2
-High Risk All 20,BPAC3,13.83,159.5,2.08,66.8,80.5
-High Risk All 20,WEGE3,10.92,251.2,2.36,51.9,43.4
-High Risk All 20,SBUX,8.41,249.4,2.18,108.4,57.9
-High Risk All 20,GGBR3,7.55,151.1,3.14,29.9,29.4
-High Risk All 20,UNH,6.55,605.5,2.13,292.3,100.0
-High Risk All 20,ELET6,6.25,303.6,1.83,52.3,37.4
-High Risk All 20,ELET3,6.25,292.7,2.08,42.7,32.6
-High Risk All 20,SO,6.23,147.8,1.94,116.5,84.3
-High Risk All 20,KO,5.44,286.4,2.27,52.7,29.7
-High Risk All 20,AMZN,4.95,469.1,1.93,323.2,100.0
-High Risk All 20,JNJ,4.94,968.8,3.03,75.4,32.7
-High Risk All 20,AEP,3.2,550.8,2.73,73.3,42.2
-High Risk All 20,CPFE3,3.15,193.5,2.6,43.0,42.5
-High Risk All 20,INTC,3.1,872.7,2.63,84.0,46.8
-High Risk All 20,HSBC,2.47,418.4,2.31,75.4,49.5
-High Risk All 20,JPM,2.14,765.6,2.39,327.8,100.0
-High Risk All 20,GOOGL,1.55,563.1,1.87,172.6,96.1
-High Risk All 20,AAPL,1.46,819.3,2.11,121.1,66.2
-High Risk All 20,GOOG,1.27,307.0,1.63,168.7,98.2
-High Risk All 20,PRIO3,0.33,284.2,1.93,62.3,45.2
-High Risk Brazilian 20,BRSR3,16.51,86.2,3.39,20.7,16.9
-High Risk Brazilian 20,BRSR6,13.02,64.1,3.03,22.4,30.3
-High Risk Brazilian 20,RADL3,12.2,67.3,1.6,39.5,53.2
-High Risk Brazilian 20,EALT3,9.33,59.5,2.97,32.3,33.0
-High Risk Brazilian 20,ELET6,6.87,303.6,1.83,52.3,37.4
-High Risk Brazilian 20,ELET3,6.87,292.7,2.08,42.7,32.6
-High Risk Brazilian 20,NEOE3,6.87,89.0,1.67,27.4,23.5
-High Risk Brazilian 20,BBSE3,5.34,133.4,1.99,35.4,23.7
-High Risk Brazilian 20,BBDC4,4.88,61.6,2.03,27.8,33.7
-High Risk Brazilian 20,BPAC3,4.15,159.5,2.08,66.8,80.5
-High Risk Brazilian 20,TAEE4,2.81,63.4,2.92,16.5,15.9
-High Risk Brazilian 20,SIMH3,2.56,62.3,1.65,52.8,69.8
-High Risk Brazilian 20,GGBR3,2.07,151.1,3.14,29.9,29.4
-High Risk Brazilian 20,ALUP11,2.02,109.6,2.24,39.5,34.2
-High Risk Brazilian 20,WEGE3,1.58,251.2,2.36,51.9,43.4
-High Risk Brazilian 20,PRIO3,1.25,284.2,1.93,62.3,45.2
-High Risk Brazilian 20,CPFE3,0.9,193.5,2.6,43.0,42.5
-High Risk Brazilian 20,TAEE11,0.76,141.2,2.06,38.1,31.6
+High Risk All 20,BPAC3,13.63,159.5,2.08,66.8,80.5
+High Risk All 20,WEGE3,11.76,251.2,2.36,51.9,43.4
+High Risk All 20,SBUX,8.56,249.4,2.18,108.4,57.9
+High Risk All 20,UNH,6.76,605.5,2.13,292.3,100.0
+High Risk All 20,VALE3,6.39,465.4,3.35,48.9,39.3
+High Risk All 20,ELET6,6.13,303.6,1.83,52.3,37.4
+High Risk All 20,ELET3,6.13,292.7,2.08,42.7,32.6
+High Risk All 20,SO,5.88,147.8,1.94,116.5,84.3
+High Risk All 20,JNJ,5.35,968.8,3.03,75.4,32.7
+High Risk All 20,AMZN,5.24,469.1,1.93,323.2,100.0
+High Risk All 20,KO,4.69,286.4,2.27,52.7,29.7
+High Risk All 20,AEP,3.48,550.8,2.73,73.3,42.2
+High Risk All 20,INTC,3.3,872.7,2.63,84.0,46.8
+High Risk All 20,CPFE3,3.04,193.5,2.6,43.0,42.5
+High Risk All 20,HSBC,2.53,418.4,2.31,75.4,49.5
+High Risk All 20,JPM,2.18,765.6,2.39,327.8,100.0
+High Risk All 20,GOOGL,1.66,563.1,1.87,172.6,96.1
+High Risk All 20,AAPL,1.57,819.3,2.11,121.1,66.2
+High Risk All 20,GOOG,1.37,307.0,1.63,168.7,98.2
+High Risk All 20,PRIO3,0.35,284.2,1.93,62.3,45.2
+High Risk Brazilian 20,BRSR3,15.82,86.2,3.39,20.7,16.9
+High Risk Brazilian 20,BRSR6,12.49,64.1,3.03,22.4,30.3
+High Risk Brazilian 20,RADL3,12.0,67.3,1.6,39.5,53.2
+High Risk Brazilian 20,EALT3,8.77,59.5,2.97,32.3,33.0
+High Risk Brazilian 20,ELET6,6.85,303.6,1.83,52.3,37.4
+High Risk Brazilian 20,ELET3,6.85,292.7,2.08,42.7,32.6
+High Risk Brazilian 20,NEOE3,6.85,89.0,1.67,27.4,23.5
+High Risk Brazilian 20,BBDC4,6.2,61.6,2.03,27.8,33.7
+High Risk Brazilian 20,BBSE3,5.39,133.4,1.99,35.4,23.7
+High Risk Brazilian 20,BPAC3,4.1,159.5,2.08,66.8,80.5
+High Risk Brazilian 20,TAEE4,2.93,63.4,2.92,16.5,15.9
+High Risk Brazilian 20,SIMH3,2.46,62.3,1.65,52.8,69.8
+High Risk Brazilian 20,ALUP11,1.91,109.6,2.24,39.5,34.2
+High Risk Brazilian 20,GGBR3,1.86,151.1,3.14,29.9,29.4
+High Risk Brazilian 20,WEGE3,1.48,251.2,2.36,51.9,43.4
+High Risk Brazilian 20,PRIO3,1.4,284.2,1.93,62.3,45.2
+High Risk Brazilian 20,VALE3,0.98,465.4,3.35,48.9,39.3
+High Risk Brazilian 20,CPFE3,0.88,193.5,2.6,43.0,42.5
+High Risk Brazilian 20,TAEE11,0.78,141.2,2.06,38.1,31.6
 High Risk International 20,AEP,21.61,550.8,2.73,73.3,42.2
 High Risk International 20,VALE,18.55,57.9,2.67,24.2,21.7
 High Risk International 20,INTC,7.41,872.7,2.63,84.0,46.8
@@ -303,46 +304,46 @@ High Risk International 20,GOOGL,3.61,563.1,1.87,172.6,96.1
 High Risk International 20,AAPL,3.37,819.3,2.11,121.1,66.2
 High Risk International 20,GOOG,2.96,307.0,1.63,168.7,98.2
 High Risk International 20,SO,0.43,147.8,1.94,116.5,84.3
-Medium Risk All 20,BRSR3,25.01,86.2,3.39,20.7,16.9
-Medium Risk All 20,BRSR6,11.69,64.1,3.03,22.4,30.3
-Medium Risk All 20,ELET3,6.82,292.7,2.08,42.7,32.6
-Medium Risk All 20,ELET6,6.82,303.6,1.83,52.3,37.4
-Medium Risk All 20,TAEE4,6.18,63.4,2.92,16.5,15.9
-Medium Risk All 20,JNJ,4.68,968.8,3.03,75.4,32.7
-Medium Risk All 20,PRIO3,4.62,284.2,1.93,62.3,45.2
-Medium Risk All 20,EALT3,4.62,59.5,2.97,32.3,33.0
-Medium Risk All 20,VALE,4.62,57.9,2.67,24.2,21.7
-Medium Risk All 20,KO,4.11,286.4,2.27,52.7,29.7
-Medium Risk All 20,INTC,3.62,872.7,2.63,84.0,46.8
-Medium Risk All 20,BBSE3,3.57,133.4,1.99,35.4,23.7
-Medium Risk All 20,HSBC,2.76,418.4,2.31,75.4,49.5
-Medium Risk All 20,AEP,1.84,550.8,2.73,73.3,42.2
+Medium Risk All 20,BRSR3,23.89,86.2,3.39,20.7,16.9
+Medium Risk All 20,BRSR6,12.25,64.1,3.03,22.4,30.3
+Medium Risk All 20,ELET3,8.96,292.7,2.08,42.7,32.6
+Medium Risk All 20,ELET6,8.96,303.6,1.83,52.3,37.4
+Medium Risk All 20,JNJ,4.79,968.8,3.03,75.4,32.7
+Medium Risk All 20,KO,4.53,286.4,2.27,52.7,29.7
+Medium Risk All 20,PRIO3,4.28,284.2,1.93,62.3,45.2
+Medium Risk All 20,EALT3,4.28,59.5,2.97,32.3,33.0
+Medium Risk All 20,VALE,4.28,57.9,2.67,24.2,21.7
+Medium Risk All 20,BBSE3,3.91,133.4,1.99,35.4,23.7
+Medium Risk All 20,INTC,3.67,872.7,2.63,84.0,46.8
+Medium Risk All 20,HSBC,2.64,418.4,2.31,75.4,49.5
+Medium Risk All 20,AEP,2.5,550.8,2.73,73.3,42.2
+Medium Risk All 20,TAEE11,2.09,141.2,2.06,38.1,31.6
+Medium Risk All 20,CPFE3,1.88,193.5,2.6,43.0,42.5
 Medium Risk All 20,ALUP11,1.72,109.6,2.24,39.5,34.2
-Medium Risk All 20,GGBR3,1.54,151.1,3.14,29.9,29.4
-Medium Risk All 20,AAPL,1.54,819.3,2.11,121.1,66.2
-Medium Risk All 20,TAEE11,1.54,141.2,2.06,38.1,31.6
-Medium Risk All 20,CPFE3,1.39,193.5,2.6,43.0,42.5
-Medium Risk All 20,WEGE3,1.32,251.2,2.36,51.9,43.4
-Medium Risk Brazilian 20,SANB4,16.86,47.0,2.23,30.3,38.0
-Medium Risk Brazilian 20,BRSR3,13.06,86.2,3.39,20.7,16.9
-Medium Risk Brazilian 20,ELET3,10.23,292.7,2.08,42.7,32.6
-Medium Risk Brazilian 20,ELET6,10.23,303.6,1.83,52.3,37.4
-Medium Risk Brazilian 20,EALT3,7.35,59.5,2.97,32.3,33.0
-Medium Risk Brazilian 20,TASA4,7.35,50.6,2.41,16.0,17.4
-Medium Risk Brazilian 20,BRSR6,6.2,64.1,3.03,22.4,30.3
-Medium Risk Brazilian 20,BBDC4,5.25,61.6,2.03,27.8,33.7
-Medium Risk Brazilian 20,ITSA4,4.53,46.7,1.88,19.0,18.4
-Medium Risk Brazilian 20,TAEE4,4.12,63.4,2.92,16.5,15.9
-Medium Risk Brazilian 20,BBSE3,2.19,133.4,1.99,35.4,23.7
-Medium Risk Brazilian 20,GOAU4,1.96,59.3,2.63,16.2,19.5
-Medium Risk Brazilian 20,BPAC3,1.91,159.5,2.08,66.8,80.5
-Medium Risk Brazilian 20,CPLE3,1.77,72.7,2.21,21.0,18.7
-Medium Risk Brazilian 20,ALUP11,1.38,109.6,2.24,39.5,34.2
-Medium Risk Brazilian 20,GGBR3,1.33,151.1,3.14,29.9,29.4
-Medium Risk Brazilian 20,CPFE3,1.2,193.5,2.6,43.0,42.5
-Medium Risk Brazilian 20,WEGE3,1.1,251.2,2.36,51.9,43.4
-Medium Risk Brazilian 20,TAEE11,1.03,141.2,2.06,38.1,31.6
-Medium Risk Brazilian 20,PRIO3,0.96,284.2,1.93,62.3,45.2
+Medium Risk All 20,AAPL,1.61,819.3,2.11,121.1,66.2
+Medium Risk All 20,GGBR3,1.47,151.1,3.14,29.9,29.4
+Medium Risk All 20,WEGE3,1.26,251.2,2.36,51.9,43.4
+Medium Risk All 20,VALE3,1.0,465.4,3.35,48.9,39.3
+Medium Risk Brazilian 20,SANB4,16.99,47.0,2.23,30.3,38.0
+Medium Risk Brazilian 20,BRSR3,16.92,86.2,3.39,20.7,16.9
+Medium Risk Brazilian 20,ELET3,10.02,292.7,2.08,42.7,32.6
+Medium Risk Brazilian 20,ELET6,10.02,303.6,1.83,52.3,37.4
+Medium Risk Brazilian 20,EALT3,6.77,59.5,2.97,32.3,33.0
+Medium Risk Brazilian 20,TASA4,6.77,50.6,2.41,16.0,17.4
+Medium Risk Brazilian 20,BRSR6,6.19,64.1,3.03,22.4,30.3
+Medium Risk Brazilian 20,BBDC4,5.53,61.6,2.03,27.8,33.7
+Medium Risk Brazilian 20,TAEE4,4.3,63.4,2.92,16.5,15.9
+Medium Risk Brazilian 20,BBSE3,2.4,133.4,1.99,35.4,23.7
+Medium Risk Brazilian 20,GOAU4,2.19,59.3,2.63,16.2,19.5
+Medium Risk Brazilian 20,BPAC3,1.97,159.5,2.08,66.8,80.5
+Medium Risk Brazilian 20,CPLE3,1.91,72.7,2.21,21.0,18.7
+Medium Risk Brazilian 20,GGBR3,1.4,151.1,3.14,29.9,29.4
+Medium Risk Brazilian 20,ALUP11,1.39,109.6,2.24,39.5,34.2
+Medium Risk Brazilian 20,CPFE3,1.24,193.5,2.6,43.0,42.5
+Medium Risk Brazilian 20,TAEE11,1.09,141.2,2.06,38.1,31.6
+Medium Risk Brazilian 20,WEGE3,1.09,251.2,2.36,51.9,43.4
+Medium Risk Brazilian 20,PRIO3,1.07,284.2,1.93,62.3,45.2
+Medium Risk Brazilian 20,VALE3,0.74,465.4,3.35,48.9,39.3
 Medium Risk International 20,BBD,20.82,21.6,2.29,8.1,10.1
 Medium Risk International 20,VALE,15.76,57.9,2.67,24.2,21.7
 Medium Risk International 20,SBUX,9.58,249.4,2.18,108.4,57.9
@@ -355,34 +356,45 @@ Medium Risk International 20,HSBC,5.88,418.4,2.31,75.4,49.5
 Medium Risk International 20,AEP,5.78,550.8,2.73,73.3,42.2
 Medium Risk International 20,GOOGL,3.38,563.1,1.87,172.6,96.1
 Medium Risk International 20,AAPL,2.51,819.3,2.11,121.1,66.2
-Low Risk All 20,BRSR6,15.83,64.1,3.03,22.4,30.3
-Low Risk All 20,BRSR3,15.05,86.2,3.39,20.7,16.9
-Low Risk All 20,JNJ,10.31,968.8,3.03,75.4,32.7
-Low Risk All 20,KO,8.67,286.4,2.27,52.7,29.7
-Low Risk All 20,AEP,8.56,550.8,2.73,73.3,42.2
-Low Risk All 20,INTC,8.31,872.7,2.63,84.0,46.8
-Low Risk All 20,CPLE3,8.02,72.7,2.21,21.0,18.7
-Low Risk All 20,BBSE3,5.47,133.4,1.99,35.4,23.7
-Low Risk All 20,VALE,4.58,57.9,2.67,24.2,21.7
-Low Risk All 20,EALT3,4.58,59.5,2.97,32.3,33.0
-Low Risk All 20,TASA4,4.58,50.6,2.41,16.0,17.4
-Low Risk All 20,CPFE3,4.19,193.5,2.6,43.0,42.5
-Low Risk All 20,GGBR3,1.84,151.1,3.14,29.9,29.4
-Low Risk Brazilian 20,ELET6,19.66,303.6,1.83,52.3,37.4
-Low Risk Brazilian 20,BPAN4,15.36,52.3,1.56,22.1,16.8
-Low Risk Brazilian 20,BRSR3,10.28,86.2,3.39,20.7,16.9
-Low Risk Brazilian 20,BRSR6,9.52,64.1,3.03,22.4,30.3
-Low Risk Brazilian 20,EALT3,7.99,59.5,2.97,32.3,33.0
-Low Risk Brazilian 20,TASA4,7.99,50.6,2.41,16.0,17.4
-Low Risk Brazilian 20,BBDC4,6.0,61.6,2.03,27.8,33.7
-Low Risk Brazilian 20,ITSA4,5.96,46.7,1.88,19.0,18.4
-Low Risk Brazilian 20,CPLE3,4.16,72.7,2.21,21.0,18.7
-Low Risk Brazilian 20,BBSE3,2.88,133.4,1.99,35.4,23.7
-Low Risk Brazilian 20,CPFE3,2.46,193.5,2.6,43.0,42.5
-Low Risk Brazilian 20,GOAU4,2.31,59.3,2.63,16.2,19.5
-Low Risk Brazilian 20,TAEE11,2.3,141.2,2.06,38.1,31.6
-Low Risk Brazilian 20,GGBR3,1.57,151.1,3.14,29.9,29.4
-Low Risk Brazilian 20,ALUP11,1.57,109.6,2.24,39.5,34.2
+Low Risk All 20,BBD,14.65,21.6,2.29,8.1,10.1
+Low Risk All 20,BRSR3,14.49,86.2,3.39,20.7,16.9
+Low Risk All 20,BRSR6,11.49,64.1,3.03,22.4,30.3
+Low Risk All 20,ELET3,5.97,292.7,2.08,42.7,32.6
+Low Risk All 20,EBR,5.97,50.8,2.52,14.0,10.1
+Low Risk All 20,CPLE6,5.97,51.8,1.89,16.2,11.2
+Low Risk All 20,TASA4,5.28,50.6,2.41,16.0,17.4
+Low Risk All 20,CIG,5.28,8.6,2.45,4.5,6.9
+Low Risk All 20,TAEE4,4.51,63.4,2.92,16.5,15.9
+Low Risk All 20,JNJ,4.34,968.8,3.03,75.4,32.7
+Low Risk All 20,KO,4.2,286.4,2.27,52.7,29.7
+Low Risk All 20,VALE,3.86,57.9,2.67,24.2,21.7
+Low Risk All 20,INTC,3.53,872.7,2.63,84.0,46.8
+Low Risk All 20,BBSE3,3.35,133.4,1.99,35.4,23.7
+Low Risk All 20,GOAU4,2.26,59.3,2.63,16.2,19.5
+Low Risk All 20,CPLE3,1.83,72.7,2.21,21.0,18.7
+Low Risk All 20,GGBR3,1.33,151.1,3.14,29.9,29.4
+Low Risk All 20,AEP,0.89,550.8,2.73,73.3,42.2
+Low Risk All 20,VALE3,0.83,465.4,3.35,48.9,39.3
+Low Risk Brazilian 20,BRSR3,30.19,86.2,3.39,20.7,16.9
+Low Risk Brazilian 20,EALT3,7.22,59.5,2.97,32.3,33.0
+Low Risk Brazilian 20,BRSR6,7.18,64.1,3.03,22.4,30.3
+Low Risk Brazilian 20,TASA4,7.04,50.6,2.41,16.0,17.4
+Low Risk Brazilian 20,ELET3,6.04,292.7,2.08,42.7,32.6
+Low Risk Brazilian 20,CPLE6,6.04,51.8,1.89,16.2,11.2
+Low Risk Brazilian 20,NEOE3,6.04,89.0,1.67,27.4,23.5
+Low Risk Brazilian 20,ELET6,6.04,303.6,1.83,52.3,37.4
+Low Risk Brazilian 20,BBDC4,5.48,61.6,2.03,27.8,33.7
+Low Risk Brazilian 20,ITSA4,4.86,46.7,1.88,19.0,18.4
+Low Risk Brazilian 20,GOAU3,2.54,38.3,1.87,16.2,17.9
+Low Risk Brazilian 20,BBSE3,2.29,133.4,1.99,35.4,23.7
+Low Risk Brazilian 20,TAEE4,2.15,63.4,2.92,16.5,15.9
+Low Risk Brazilian 20,GOAU4,1.64,59.3,2.63,16.2,19.5
+Low Risk Brazilian 20,ALUP11,1.18,109.6,2.24,39.5,34.2
+Low Risk Brazilian 20,GGBR3,1.14,151.1,3.14,29.9,29.4
+Low Risk Brazilian 20,CPLE3,1.08,72.7,2.21,21.0,18.7
+Low Risk Brazilian 20,VALE3,0.67,465.4,3.35,48.9,39.3
+Low Risk Brazilian 20,CPFE3,0.6,193.5,2.6,43.0,42.5
+Low Risk Brazilian 20,TAEE11,0.58,141.2,2.06,38.1,31.6
 Low Risk International 20,BBD,28.05,21.6,2.29,8.1,10.1
 Low Risk International 20,KO,13.44,286.4,2.27,52.7,29.7
 Low Risk International 20,INTC,9.74,872.7,2.63,84.0,46.8
@@ -463,26 +475,26 @@ Sector Health All,RADL3,33.33,67.3,1.6,39.5,53.2
 Sector Health Brazilian,RADL3,100.0,67.3,1.6,39.5,53.2
 Sector Health International,JNJ,50.0,968.8,3.03,75.4,32.7
 Sector Health International,UNH,50.0,605.5,2.13,292.3,100.0
-Momentum All,JNJ,16.97,968.8,3.03,75.4,32.7
-Momentum All,AEP,16.97,550.8,2.73,73.3,42.2
-Momentum All,UNH,16.33,605.5,2.13,292.3,100.0
-Momentum All,AMZN,14.67,469.1,1.93,323.2,100.0
-Momentum All,INTC,9.49,872.7,2.63,84.0,46.8
-Momentum All,HSBC,7.57,418.4,2.31,75.4,49.5
-Momentum All,JPM,5.82,765.6,2.39,327.8,100.0
-Momentum All,GOOGL,4.43,563.1,1.87,172.6,96.1
-Momentum All,AAPL,4.06,819.3,2.11,121.1,66.2
-Momentum All,GOOG,3.69,307.0,1.63,168.7,98.2
-Momentum Brazilian,ELET6,20.81,303.6,1.83,52.3,37.4
-Momentum Brazilian,ELET3,20.81,292.7,2.08,42.7,32.6
-Momentum Brazilian,GGBR3,13.07,151.1,3.14,29.9,29.4
-Momentum Brazilian,ALUP11,8.86,109.6,2.24,39.5,34.2
-Momentum Brazilian,CPFE3,6.93,193.5,2.6,43.0,42.5
-Momentum Brazilian,BPAC3,6.66,159.5,2.08,66.8,80.5
-Momentum Brazilian,WEGE3,6.16,251.2,2.36,51.9,43.4
-Momentum Brazilian,PRIO3,5.94,284.2,1.93,62.3,45.2
-Momentum Brazilian,BBSE3,5.83,133.4,1.99,35.4,23.7
-Momentum Brazilian,TAEE11,4.94,141.2,2.06,38.1,31.6
+Momentum All,AEP,17.18,550.8,2.73,73.3,42.2
+Momentum All,VALE3,15.9,465.4,3.35,48.9,39.3
+Momentum All,JNJ,15.41,968.8,3.03,75.4,32.7
+Momentum All,UNH,12.94,605.5,2.13,292.3,100.0
+Momentum All,AMZN,11.71,469.1,1.93,323.2,100.0
+Momentum All,INTC,8.2,872.7,2.63,84.0,46.8
+Momentum All,HSBC,6.22,418.4,2.31,75.4,49.5
+Momentum All,JPM,4.54,765.6,2.39,327.8,100.0
+Momentum All,GOOGL,4.45,563.1,1.87,172.6,96.1
+Momentum All,AAPL,3.44,819.3,2.11,121.1,66.2
+Momentum Brazilian,ELET6,20.94,303.6,1.83,52.3,37.4
+Momentum Brazilian,ELET3,20.94,292.7,2.08,42.7,32.6
+Momentum Brazilian,GGBR3,13.33,151.1,3.14,29.9,29.4
+Momentum Brazilian,CPFE3,7.24,193.5,2.6,43.0,42.5
+Momentum Brazilian,WEGE3,6.54,251.2,2.36,51.9,43.4
+Momentum Brazilian,BPAC3,6.54,159.5,2.08,66.8,80.5
+Momentum Brazilian,VALE3,6.48,465.4,3.35,48.9,39.3
+Momentum Brazilian,PRIO3,6.47,284.2,1.93,62.3,45.2
+Momentum Brazilian,BBSE3,6.23,133.4,1.99,35.4,23.7
+Momentum Brazilian,TAEE11,5.28,141.2,2.06,38.1,31.6
 Momentum International,JNJ,16.97,968.8,3.03,75.4,32.7
 Momentum International,AEP,16.97,550.8,2.73,73.3,42.2
 Momentum International,UNH,16.33,605.5,2.13,292.3,100.0
@@ -495,26 +507,26 @@ Momentum International,AAPL,4.06,819.3,2.11,121.1,66.2
 Momentum International,GOOG,3.69,307.0,1.63,168.7,98.2
 Mean Reversion All,PM,100.0,-30.7,0.96,239.5,99.9
 Mean Reversion International,PM,100.0,-30.7,0.96,239.5,99.9
-Quality All,BRSR3,14.91,86.2,3.39,20.7,16.9
-Quality All,BRSR6,14.91,64.1,3.03,22.4,30.3
-Quality All,EALT3,14.91,59.5,2.97,32.3,33.0
-Quality All,TAEE4,14.91,63.4,2.92,16.5,15.9
-Quality All,VALE,14.91,57.9,2.67,24.2,21.7
-Quality All,GOAU4,10.03,59.3,2.63,16.2,19.5
-Quality All,GGBR3,6.53,151.1,3.14,29.9,29.4
-Quality All,AEP,4.2,550.8,2.73,73.3,42.2
-Quality All,JNJ,2.8,968.8,3.03,75.4,32.7
-Quality All,INTC,1.86,872.7,2.63,84.0,46.8
-Quality Brazilian,BRSR3,16.76,86.2,3.39,20.7,16.9
-Quality Brazilian,EALT3,16.76,59.5,2.97,32.3,33.0
-Quality Brazilian,TASA4,16.76,50.6,2.41,16.0,17.4
-Quality Brazilian,BRSR6,15.27,64.1,3.03,22.4,30.3
-Quality Brazilian,TAEE4,9.91,63.4,2.92,16.5,15.9
-Quality Brazilian,GOAU4,8.55,59.3,2.63,16.2,19.5
-Quality Brazilian,GGBR3,5.48,151.1,3.14,29.9,29.4
-Quality Brazilian,ALUP11,4.35,109.6,2.24,39.5,34.2
-Quality Brazilian,CPFE3,3.26,193.5,2.6,43.0,42.5
-Quality Brazilian,WEGE3,2.9,251.2,2.36,51.9,43.4
+Quality All,BRSR3,15.78,86.2,3.39,20.7,16.9
+Quality All,BRSR6,15.78,64.1,3.03,22.4,30.3
+Quality All,EALT3,15.78,59.5,2.97,32.3,33.0
+Quality All,TAEE4,15.4,63.4,2.92,16.5,15.9
+Quality All,VALE,13.49,57.9,2.67,24.2,21.7
+Quality All,GOAU4,8.74,59.3,2.63,16.2,19.5
+Quality All,GGBR3,6.2,151.1,3.14,29.9,29.4
+Quality All,AEP,3.48,550.8,2.73,73.3,42.2
+Quality All,VALE3,2.95,465.4,3.35,48.9,39.3
+Quality All,JNJ,2.41,968.8,3.03,75.4,32.7
+Quality Brazilian,BRSR3,16.8,86.2,3.39,20.7,16.9
+Quality Brazilian,EALT3,16.8,59.5,2.97,32.3,33.0
+Quality Brazilian,TASA4,16.8,50.6,2.41,16.0,17.4
+Quality Brazilian,BRSR6,13.63,64.1,3.03,22.4,30.3
+Quality Brazilian,TAEE4,11.04,63.4,2.92,16.5,15.9
+Quality Brazilian,GOAU4,9.0,59.3,2.63,16.2,19.5
+Quality Brazilian,GGBR3,6.01,151.1,3.14,29.9,29.4
+Quality Brazilian,CPFE3,3.64,193.5,2.6,43.0,42.5
+Quality Brazilian,WEGE3,3.3,251.2,2.36,51.9,43.4
+Quality Brazilian,VALE3,2.99,465.4,3.35,48.9,39.3
 Quality International,VALE,16.94,57.9,2.67,24.2,21.7
 Quality International,EBR,16.94,50.8,2.52,14.0,10.1
 Quality International,CIG,16.94,8.6,2.45,4.5,6.9
@@ -527,24 +539,24 @@ Quality International,HSBC,3.13,418.4,2.31,75.4,49.5
 Quality International,JPM,2.47,765.6,2.39,327.8,100.0
 Value All,ELET3,17.3,292.7,2.08,42.7,32.6
 Value All,ELET6,17.3,303.6,1.83,52.3,37.4
-Value All,PRIO3,17.3,284.2,1.93,62.3,45.2
-Value All,AEP,14.16,550.8,2.73,73.3,42.2
-Value All,KO,9.51,286.4,2.27,52.7,29.7
-Value All,JNJ,8.66,968.8,3.03,75.4,32.7
-Value All,INTC,5.26,872.7,2.63,84.0,46.8
-Value All,HSBC,4.76,418.4,2.31,75.4,49.5
-Value All,GOOGL,3.34,563.1,1.87,172.6,96.1
-Value All,AAPL,2.4,819.3,2.11,121.1,66.2
-Value Brazilian,ELET3,17.6,292.7,2.08,42.7,32.6
-Value Brazilian,ELET6,17.6,303.6,1.83,52.3,37.4
-Value Brazilian,BRSR3,17.6,86.2,3.39,20.7,16.9
-Value Brazilian,CPLE6,17.6,51.8,1.89,16.2,11.2
-Value Brazilian,GGBR3,9.19,151.1,3.14,29.9,29.4
-Value Brazilian,CPFE3,4.96,193.5,2.6,43.0,42.5
-Value Brazilian,WEGE3,4.16,251.2,2.36,51.9,43.4
-Value Brazilian,PRIO3,3.92,284.2,1.93,62.3,45.2
-Value Brazilian,BBSE3,3.8,133.4,1.99,35.4,23.7
-Value Brazilian,TAEE11,3.56,141.2,2.06,38.1,31.6
+Value All,AEP,15.55,550.8,2.73,73.3,42.2
+Value All,KO,12.09,286.4,2.27,52.7,29.7
+Value All,VALE3,12.02,465.4,3.35,48.9,39.3
+Value All,JNJ,9.66,968.8,3.03,75.4,32.7
+Value All,INTC,5.64,872.7,2.63,84.0,46.8
+Value All,HSBC,4.58,418.4,2.31,75.4,49.5
+Value All,GOOGL,3.31,563.1,1.87,172.6,96.1
+Value All,AAPL,2.53,819.3,2.11,121.1,66.2
+Value Brazilian,ELET3,19.21,292.7,2.08,42.7,32.6
+Value Brazilian,ELET6,19.21,303.6,1.83,52.3,37.4
+Value Brazilian,BRSR3,19.21,86.2,3.39,20.7,16.9
+Value Brazilian,GGBR3,10.77,151.1,3.14,29.9,29.4
+Value Brazilian,CPFE3,5.95,193.5,2.6,43.0,42.5
+Value Brazilian,PRIO3,5.64,284.2,1.93,62.3,45.2
+Value Brazilian,VALE3,5.46,465.4,3.35,48.9,39.3
+Value Brazilian,WEGE3,5.23,251.2,2.36,51.9,43.4
+Value Brazilian,BBSE3,4.9,133.4,1.99,35.4,23.7
+Value Brazilian,TAEE11,4.42,141.2,2.06,38.1,31.6
 Value International,AEP,16.88,550.8,2.73,73.3,42.2
 Value International,EBR,16.88,50.8,2.52,14.0,10.1
 Value International,KO,16.41,286.4,2.27,52.7,29.7
@@ -555,26 +567,26 @@ Value International,HSBC,6.26,418.4,2.31,75.4,49.5
 Value International,JPM,4.43,765.6,2.39,327.8,100.0
 Value International,GOOGL,4.3,563.1,1.87,172.6,96.1
 Value International,AAPL,3.16,819.3,2.11,121.1,66.2
-Growth All,JNJ,16.97,968.8,3.03,75.4,32.7
-Growth All,AEP,16.97,550.8,2.73,73.3,42.2
-Growth All,UNH,16.33,605.5,2.13,292.3,100.0
-Growth All,AMZN,14.67,469.1,1.93,323.2,100.0
-Growth All,INTC,9.49,872.7,2.63,84.0,46.8
-Growth All,HSBC,7.57,418.4,2.31,75.4,49.5
-Growth All,JPM,5.82,765.6,2.39,327.8,100.0
-Growth All,GOOGL,4.43,563.1,1.87,172.6,96.1
-Growth All,AAPL,4.06,819.3,2.11,121.1,66.2
-Growth All,GOOG,3.69,307.0,1.63,168.7,98.2
-Growth Brazilian,ELET6,20.81,303.6,1.83,52.3,37.4
-Growth Brazilian,ELET3,20.81,292.7,2.08,42.7,32.6
-Growth Brazilian,GGBR3,13.07,151.1,3.14,29.9,29.4
-Growth Brazilian,ALUP11,8.86,109.6,2.24,39.5,34.2
-Growth Brazilian,CPFE3,6.93,193.5,2.6,43.0,42.5
-Growth Brazilian,BPAC3,6.66,159.5,2.08,66.8,80.5
-Growth Brazilian,WEGE3,6.16,251.2,2.36,51.9,43.4
-Growth Brazilian,PRIO3,5.94,284.2,1.93,62.3,45.2
-Growth Brazilian,BBSE3,5.83,133.4,1.99,35.4,23.7
-Growth Brazilian,TAEE11,4.94,141.2,2.06,38.1,31.6
+Growth All,AEP,17.18,550.8,2.73,73.3,42.2
+Growth All,VALE3,15.9,465.4,3.35,48.9,39.3
+Growth All,JNJ,15.41,968.8,3.03,75.4,32.7
+Growth All,UNH,12.94,605.5,2.13,292.3,100.0
+Growth All,AMZN,11.71,469.1,1.93,323.2,100.0
+Growth All,INTC,8.2,872.7,2.63,84.0,46.8
+Growth All,HSBC,6.22,418.4,2.31,75.4,49.5
+Growth All,JPM,4.54,765.6,2.39,327.8,100.0
+Growth All,GOOGL,4.45,563.1,1.87,172.6,96.1
+Growth All,AAPL,3.44,819.3,2.11,121.1,66.2
+Growth Brazilian,ELET6,20.94,303.6,1.83,52.3,37.4
+Growth Brazilian,ELET3,20.94,292.7,2.08,42.7,32.6
+Growth Brazilian,GGBR3,13.33,151.1,3.14,29.9,29.4
+Growth Brazilian,CPFE3,7.24,193.5,2.6,43.0,42.5
+Growth Brazilian,WEGE3,6.54,251.2,2.36,51.9,43.4
+Growth Brazilian,BPAC3,6.54,159.5,2.08,66.8,80.5
+Growth Brazilian,VALE3,6.48,465.4,3.35,48.9,39.3
+Growth Brazilian,PRIO3,6.47,284.2,1.93,62.3,45.2
+Growth Brazilian,BBSE3,6.23,133.4,1.99,35.4,23.7
+Growth Brazilian,TAEE11,5.28,141.2,2.06,38.1,31.6
 Growth International,JNJ,16.97,968.8,3.03,75.4,32.7
 Growth International,AEP,16.97,550.8,2.73,73.3,42.2
 Growth International,UNH,16.33,605.5,2.13,292.3,100.0
@@ -595,16 +607,16 @@ High Frequency All,WEGE3,8.68,251.2,2.36,51.9,43.4
 High Frequency All,TAEE11,7.26,141.2,2.06,38.1,31.6
 High Frequency All,HSBC,4.37,418.4,2.31,75.4,49.5
 High Frequency All,AAPL,2.37,819.3,2.11,121.1,66.2
-High Frequency Brazilian,TASA4,20.88,50.6,2.41,16.0,17.4
-High Frequency Brazilian,GGBR3,14.92,151.1,3.14,29.9,29.4
-High Frequency Brazilian,CMIG4,14.24,28.4,1.33,16.7,24.8
-High Frequency Brazilian,CPLE3,10.7,72.7,2.21,21.0,18.7
-High Frequency Brazilian,BBDC3,8.37,31.7,1.02,22.3,27.5
-High Frequency Brazilian,PRIO3,7.6,284.2,1.93,62.3,45.2
-High Frequency Brazilian,WEGE3,6.45,251.2,2.36,51.9,43.4
-High Frequency Brazilian,BBSE3,5.98,133.4,1.99,35.4,23.7
-High Frequency Brazilian,TAEE11,5.55,141.2,2.06,38.1,31.6
-High Frequency Brazilian,BPAC5,5.32,46.8,0.9,39.5,37.6
+High Frequency Brazilian,TASA4,21.24,50.6,2.41,16.0,17.4
+High Frequency Brazilian,CMIG4,14.36,28.4,1.33,16.7,24.8
+High Frequency Brazilian,GGBR3,13.39,151.1,3.14,29.9,29.4
+High Frequency Brazilian,CPLE3,10.99,72.7,2.21,21.0,18.7
+High Frequency Brazilian,BBDC3,7.78,31.7,1.02,22.3,27.5
+High Frequency Brazilian,PRIO3,7.68,284.2,1.93,62.3,45.2
+High Frequency Brazilian,VALE3,7.08,465.4,3.35,48.9,39.3
+High Frequency Brazilian,WEGE3,6.21,251.2,2.36,51.9,43.4
+High Frequency Brazilian,BBSE3,5.91,133.4,1.99,35.4,23.7
+High Frequency Brazilian,TAEE11,5.35,141.2,2.06,38.1,31.6
 High Frequency International,AEP,16.9,550.8,2.73,73.3,42.2
 High Frequency International,BBD,16.9,21.6,2.29,8.1,10.1
 High Frequency International,ELP,16.9,45.3,1.63,13.7,9.8
@@ -625,16 +637,16 @@ Low Turnover All,WEGE3,8.68,251.2,2.36,51.9,43.4
 Low Turnover All,TAEE11,7.26,141.2,2.06,38.1,31.6
 Low Turnover All,HSBC,4.37,418.4,2.31,75.4,49.5
 Low Turnover All,AAPL,2.37,819.3,2.11,121.1,66.2
-Low Turnover Brazilian,TASA4,20.88,50.6,2.41,16.0,17.4
-Low Turnover Brazilian,GGBR3,14.92,151.1,3.14,29.9,29.4
-Low Turnover Brazilian,CMIG4,14.24,28.4,1.33,16.7,24.8
-Low Turnover Brazilian,CPLE3,10.7,72.7,2.21,21.0,18.7
-Low Turnover Brazilian,BBDC3,8.37,31.7,1.02,22.3,27.5
-Low Turnover Brazilian,PRIO3,7.6,284.2,1.93,62.3,45.2
-Low Turnover Brazilian,WEGE3,6.45,251.2,2.36,51.9,43.4
-Low Turnover Brazilian,BBSE3,5.98,133.4,1.99,35.4,23.7
-Low Turnover Brazilian,TAEE11,5.55,141.2,2.06,38.1,31.6
-Low Turnover Brazilian,BPAC5,5.32,46.8,0.9,39.5,37.6
+Low Turnover Brazilian,TASA4,21.24,50.6,2.41,16.0,17.4
+Low Turnover Brazilian,CMIG4,14.36,28.4,1.33,16.7,24.8
+Low Turnover Brazilian,GGBR3,13.39,151.1,3.14,29.9,29.4
+Low Turnover Brazilian,CPLE3,10.99,72.7,2.21,21.0,18.7
+Low Turnover Brazilian,BBDC3,7.78,31.7,1.02,22.3,27.5
+Low Turnover Brazilian,PRIO3,7.68,284.2,1.93,62.3,45.2
+Low Turnover Brazilian,VALE3,7.08,465.4,3.35,48.9,39.3
+Low Turnover Brazilian,WEGE3,6.21,251.2,2.36,51.9,43.4
+Low Turnover Brazilian,BBSE3,5.91,133.4,1.99,35.4,23.7
+Low Turnover Brazilian,TAEE11,5.35,141.2,2.06,38.1,31.6
 Low Turnover International,AEP,16.9,550.8,2.73,73.3,42.2
 Low Turnover International,BBD,16.9,21.6,2.29,8.1,10.1
 Low Turnover International,ELP,16.9,45.3,1.63,13.7,9.8
@@ -661,36 +673,36 @@ Swing Trading International,EBR,31.73,50.8,2.52,14.0,10.1
 Swing Trading International,CIG,31.73,8.6,2.45,4.5,6.9
 Swing Trading International,SO,22.19,147.8,1.94,116.5,84.3
 Swing Trading International,UNH,14.34,605.5,2.13,292.3,100.0
-Risk Parity All,BRSR3,9.94,86.2,3.39,20.7,16.9
-Risk Parity All,BRSR6,9.94,64.1,3.03,22.4,30.3
-Risk Parity All,EALT3,9.94,59.5,2.97,32.3,33.0
-Risk Parity All,EBR,9.94,50.8,2.52,14.0,10.1
-Risk Parity All,CIG,9.94,8.6,2.45,4.5,6.9
-Risk Parity All,TASA4,9.94,50.6,2.41,16.0,17.4
-Risk Parity All,BBD,9.94,21.6,2.29,8.1,10.1
-Risk Parity All,TAEE4,8.92,63.4,2.92,16.5,15.9
-Risk Parity All,VALE,8.15,57.9,2.67,24.2,21.7
-Risk Parity All,GOAU4,4.5,59.3,2.63,16.2,19.5
-Risk Parity All,GGBR3,2.83,151.1,3.14,29.9,29.4
-Risk Parity All,CPFE3,1.96,193.5,2.6,43.0,42.5
-Risk Parity All,AEP,1.79,550.8,2.73,73.3,42.2
-Risk Parity All,JNJ,1.45,968.8,3.03,75.4,32.7
-Risk Parity All,INTC,0.81,872.7,2.63,84.0,46.8
-Risk Parity Brazilian,EALT3,13.09,59.5,2.97,32.3,33.0
-Risk Parity Brazilian,TASA4,13.09,50.6,2.41,16.0,17.4
-Risk Parity Brazilian,CPLE6,13.09,51.8,1.89,16.2,11.2
-Risk Parity Brazilian,ELET3,13.09,292.7,2.08,42.7,32.6
-Risk Parity Brazilian,SANB4,11.15,47.0,2.23,30.3,38.0
-Risk Parity Brazilian,BRSR3,6.6,86.2,3.39,20.7,16.9
-Risk Parity Brazilian,BRSR6,5.97,64.1,3.03,22.4,30.3
-Risk Parity Brazilian,TAEE4,5.42,63.4,2.92,16.5,15.9
-Risk Parity Brazilian,GOAU4,3.76,59.3,2.63,16.2,19.5
-Risk Parity Brazilian,BBDC4,3.69,61.6,2.03,27.8,33.7
-Risk Parity Brazilian,GGBR3,2.54,151.1,3.14,29.9,29.4
-Risk Parity Brazilian,CPLE3,2.49,72.7,2.21,21.0,18.7
-Risk Parity Brazilian,ALUP11,2.48,109.6,2.24,39.5,34.2
-Risk Parity Brazilian,WEGE3,1.94,251.2,2.36,51.9,43.4
-Risk Parity Brazilian,CPFE3,1.61,193.5,2.6,43.0,42.5
+Risk Parity All,BRSR3,10.74,86.2,3.39,20.7,16.9
+Risk Parity All,EALT3,10.74,59.5,2.97,32.3,33.0
+Risk Parity All,EBR,10.74,50.8,2.52,14.0,10.1
+Risk Parity All,CIG,10.74,8.6,2.45,4.5,6.9
+Risk Parity All,TASA4,10.74,50.6,2.41,16.0,17.4
+Risk Parity All,BRSR6,10.6,64.1,3.03,22.4,30.3
+Risk Parity All,TAEE4,9.89,63.4,2.92,16.5,15.9
+Risk Parity All,VALE,7.59,57.9,2.67,24.2,21.7
+Risk Parity All,GOAU4,5.87,59.3,2.63,16.2,19.5
+Risk Parity All,GGBR3,3.48,151.1,3.14,29.9,29.4
+Risk Parity All,CPFE3,2.21,193.5,2.6,43.0,42.5
+Risk Parity All,AEP,2.12,550.8,2.73,73.3,42.2
+Risk Parity All,VALE3,1.83,465.4,3.35,48.9,39.3
+Risk Parity All,JNJ,1.76,968.8,3.03,75.4,32.7
+Risk Parity All,INTC,0.97,872.7,2.63,84.0,46.8
+Risk Parity Brazilian,EALT3,12.68,59.5,2.97,32.3,33.0
+Risk Parity Brazilian,TASA4,12.68,50.6,2.41,16.0,17.4
+Risk Parity Brazilian,SANB4,12.68,47.0,2.23,30.3,38.0
+Risk Parity Brazilian,CPLE6,12.68,51.8,1.89,16.2,11.2
+Risk Parity Brazilian,ELET3,12.68,292.7,2.08,42.7,32.6
+Risk Parity Brazilian,BRSR3,6.88,86.2,3.39,20.7,16.9
+Risk Parity Brazilian,BRSR6,6.24,64.1,3.03,22.4,30.3
+Risk Parity Brazilian,TAEE4,6.0,63.4,2.92,16.5,15.9
+Risk Parity Brazilian,GOAU4,3.87,59.3,2.63,16.2,19.5
+Risk Parity Brazilian,ALUP11,2.78,109.6,2.24,39.5,34.2
+Risk Parity Brazilian,CPLE3,2.75,72.7,2.21,21.0,18.7
+Risk Parity Brazilian,GGBR3,2.68,151.1,3.14,29.9,29.4
+Risk Parity Brazilian,WEGE3,2.16,251.2,2.36,51.9,43.4
+Risk Parity Brazilian,CPFE3,1.68,193.5,2.6,43.0,42.5
+Risk Parity Brazilian,VALE3,1.57,465.4,3.35,48.9,39.3
 Risk Parity International,VALE,11.83,57.9,2.67,24.2,21.7
 Risk Parity International,EBR,11.83,50.8,2.52,14.0,10.1
 Risk Parity International,CIG,11.83,8.6,2.45,4.5,6.9
@@ -721,21 +733,21 @@ Max Sharpe All,ALUP11,2.86,109.6,2.24,39.5,34.2
 Max Sharpe All,BPAC5,2.28,46.8,0.9,39.5,37.6
 Max Sharpe All,BPAN4,0.67,52.3,1.56,22.1,16.8
 Max Sharpe All,CIG,0.67,8.6,2.45,4.5,6.9
-Max Sharpe Brazilian,CPLE3,14.0,72.7,2.21,21.0,18.7
 Max Sharpe Brazilian,GOAU4,12.5,59.3,2.63,16.2,19.5
 Max Sharpe Brazilian,BRSR3,12.0,86.2,3.39,20.7,16.9
+Max Sharpe Brazilian,SANB4,11.34,47.0,2.23,30.3,38.0
 Max Sharpe Brazilian,GGBR3,11.18,151.1,3.14,29.9,29.4
 Max Sharpe Brazilian,BRSR6,10.88,64.1,3.03,22.4,30.3
 Max Sharpe Brazilian,EALT3,10.04,59.5,2.97,32.3,33.0
 Max Sharpe Brazilian,CPFE3,8.79,193.5,2.6,43.0,42.5
+Max Sharpe Brazilian,VALE3,7.68,465.4,3.35,48.9,39.3
 Max Sharpe Brazilian,TAEE4,5.02,63.4,2.92,16.5,15.9
-Max Sharpe Brazilian,SANB4,5.02,47.0,2.23,30.3,38.0
 Max Sharpe Brazilian,WEGE3,2.95,251.2,2.36,51.9,43.4
 Max Sharpe Brazilian,ALUP11,2.86,109.6,2.24,39.5,34.2
 Max Sharpe Brazilian,TASA4,2.76,50.6,2.41,16.0,17.4
 Max Sharpe Brazilian,CPLE6,0.67,51.8,1.89,16.2,11.2
-Max Sharpe Brazilian,ELET6,0.67,303.6,1.83,52.3,37.4
 Max Sharpe Brazilian,ELET3,0.67,292.7,2.08,42.7,32.6
+Max Sharpe Brazilian,ELET6,0.67,303.6,1.83,52.3,37.4
 Max Sharpe International,KO,9.97,286.4,2.27,52.7,29.7
 Max Sharpe International,JNJ,9.9,968.8,3.03,75.4,32.7
 Max Sharpe International,AMZN,9.33,469.1,1.93,323.2,100.0
@@ -773,24 +785,24 @@ Min Variance All,ELET6,0.5,303.6,1.83,52.3,37.4
 Min Variance All,SIMH3,0.5,62.3,1.65,52.8,69.8
 Min Variance Brazilian,GGBR3,11.18,151.1,3.14,29.9,29.4
 Min Variance Brazilian,BRSR6,10.88,64.1,3.03,22.4,30.3
-Min Variance Brazilian,SANB4,10.71,47.0,2.23,30.3,38.0
 Min Variance Brazilian,SIMH3,10.61,62.3,1.65,52.8,69.8
 Min Variance Brazilian,EALT3,10.04,59.5,2.97,32.3,33.0
 Min Variance Brazilian,BBDC4,9.01,61.6,2.03,27.8,33.7
 Min Variance Brazilian,CPFE3,8.79,193.5,2.6,43.0,42.5
 Min Variance Brazilian,BPAC3,8.39,159.5,2.08,66.8,80.5
+Min Variance Brazilian,VALE3,7.68,465.4,3.35,48.9,39.3
+Min Variance Brazilian,SANB4,4.59,47.0,2.23,30.3,38.0
 Min Variance Brazilian,PRIO3,4.49,284.2,1.93,62.3,45.2
 Min Variance Brazilian,BBSE3,3.82,133.4,1.99,35.4,23.7
 Min Variance Brazilian,WEGE3,2.95,251.2,2.36,51.9,43.4
 Min Variance Brazilian,ALUP11,2.86,109.6,2.24,39.5,34.2
-Min Variance Brazilian,BPAC5,2.28,46.8,0.9,39.5,37.6
+Min Variance Brazilian,BPAC5,1.21,46.8,0.9,39.5,37.6
 Min Variance Brazilian,TAEE11,1.0,141.2,2.06,38.1,31.6
-Min Variance Brazilian,RADL3,0.5,67.3,1.6,39.5,53.2
-Min Variance Brazilian,HYPE3,0.5,31.8,1.0,53.4,48.9
 Min Variance Brazilian,ELET6,0.5,303.6,1.83,52.3,37.4
 Min Variance Brazilian,ELET3,0.5,292.7,2.08,42.7,32.6
+Min Variance Brazilian,HYPE3,0.5,31.8,1.0,53.4,48.9
 Min Variance Brazilian,NEOE3,0.5,89.0,1.67,27.4,23.5
-Min Variance Brazilian,BBDC3,0.5,31.7,1.02,22.3,27.5
+Min Variance Brazilian,RADL3,0.5,67.3,1.6,39.5,53.2
 Min Variance International,KO,9.97,286.4,2.27,52.7,29.7
 Min Variance International,AEP,8.04,550.8,2.73,73.3,42.2
 Min Variance International,JNJ,7.82,968.8,3.03,75.4,32.7
@@ -859,67 +871,67 @@ Concentrated All,JNJ,20.0,968.8,3.03,75.4,32.7
 Concentrated All,INTC,20.0,872.7,2.63,84.0,46.8
 Concentrated All,JPM,20.0,765.6,2.39,327.8,100.0
 Concentrated All,AAPL,20.0,819.3,2.11,121.1,66.2
-Concentrated All,AEP,20.0,550.8,2.73,73.3,42.2
+Concentrated All,VALE3,20.0,465.4,3.35,48.9,39.3
+Concentrated Brazilian,VALE3,20.0,465.4,3.35,48.9,39.3
 Concentrated Brazilian,WEGE3,20.0,251.2,2.36,51.9,43.4
 Concentrated Brazilian,ELET3,20.0,292.7,2.08,42.7,32.6
 Concentrated Brazilian,GGBR3,20.0,151.1,3.14,29.9,29.4
 Concentrated Brazilian,CPFE3,20.0,193.5,2.6,43.0,42.5
-Concentrated Brazilian,PRIO3,20.0,284.2,1.93,62.3,45.2
 Concentrated International,JNJ,20.0,968.8,3.03,75.4,32.7
 Concentrated International,INTC,20.0,872.7,2.63,84.0,46.8
 Concentrated International,JPM,20.0,765.6,2.39,327.8,100.0
 Concentrated International,AAPL,20.0,819.3,2.11,121.1,66.2
 Concentrated International,AEP,20.0,550.8,2.73,73.3,42.2
 Mega Diversified All,KO,8.5,286.4,2.27,52.7,29.7
-Mega Diversified All,BPAC3,6.71,159.5,2.08,66.8,80.5
+Mega Diversified All,VALE3,7.68,465.4,3.35,48.9,39.3
+Mega Diversified All,BPAC3,6.22,159.5,2.08,66.8,80.5
 Mega Diversified All,AEP,6.11,550.8,2.73,73.3,42.2
 Mega Diversified All,JNJ,5.94,968.8,3.03,75.4,32.7
 Mega Diversified All,HSBC,5.68,418.4,2.31,75.4,49.5
-Mega Diversified All,AMZN,5.6,469.1,1.93,323.2,100.0
-Mega Diversified All,UNH,5.6,605.5,2.13,292.3,100.0
-Mega Diversified All,GOOGL,5.6,563.1,1.87,172.6,96.1
-Mega Diversified All,AAPL,5.6,819.3,2.11,121.1,66.2
-Mega Diversified All,INTC,5.6,872.7,2.63,84.0,46.8
 Mega Diversified All,JPM,5.6,765.6,2.39,327.8,100.0
-Mega Diversified All,SO,5.6,147.8,1.94,116.5,84.3
+Mega Diversified All,UNH,5.6,605.5,2.13,292.3,100.0
 Mega Diversified All,GOOG,5.6,307.0,1.63,168.7,98.2
+Mega Diversified All,AAPL,5.6,819.3,2.11,121.1,66.2
+Mega Diversified All,SO,5.6,147.8,1.94,116.5,84.3
+Mega Diversified All,INTC,5.6,872.7,2.63,84.0,46.8
+Mega Diversified All,GOOGL,5.6,563.1,1.87,172.6,96.1
+Mega Diversified All,AMZN,5.6,469.1,1.93,323.2,100.0
 Mega Diversified All,SBUX,4.02,249.4,2.18,108.4,57.9
-Mega Diversified All,BBSE3,3.82,133.4,1.99,35.4,23.7
 Mega Diversified All,PRIO3,3.59,284.2,1.93,62.3,45.2
 Mega Diversified All,WEGE3,2.95,251.2,2.36,51.9,43.4
-Mega Diversified All,ALUP11,2.86,109.6,2.24,39.5,34.2
-Mega Diversified All,SIMH3,1.51,62.3,1.65,52.8,69.8
 Mega Diversified All,PM,1.0,-30.7,0.96,239.5,99.9
-Mega Diversified All,HYPE3,0.5,31.8,1.0,53.4,48.9
 Mega Diversified All,BPAC5,0.5,46.8,0.9,39.5,37.6
+Mega Diversified All,ALUP11,0.5,109.6,2.24,39.5,34.2
+Mega Diversified All,SIMH3,0.5,62.3,1.65,52.8,69.8
 Mega Diversified All,RADL3,0.5,67.3,1.6,39.5,53.2
+Mega Diversified All,HYPE3,0.5,31.8,1.0,53.4,48.9
 Mega Diversified All,TAEE11,0.5,141.2,2.06,38.1,31.6
 Mega Diversified All,ELET6,0.5,303.6,1.83,52.3,37.4
 Mega Diversified Brazilian,GOAU4,12.5,59.3,2.63,16.2,19.5
 Mega Diversified Brazilian,GGBR3,11.18,151.1,3.14,29.9,29.4
-Mega Diversified Brazilian,BRSR6,10.88,64.1,3.03,22.4,30.3
 Mega Diversified Brazilian,EALT3,10.04,59.5,2.97,32.3,33.0
 Mega Diversified Brazilian,CPFE3,8.79,193.5,2.6,43.0,42.5
 Mega Diversified Brazilian,SIMH3,8.49,62.3,1.65,52.8,69.8
 Mega Diversified Brazilian,CPLE3,8.4,72.7,2.21,21.0,18.7
+Mega Diversified Brazilian,VALE3,7.68,465.4,3.35,48.9,39.3
 Mega Diversified Brazilian,BPAC3,6.71,159.5,2.08,66.8,80.5
+Mega Diversified Brazilian,BBDC4,4.23,61.6,2.03,27.8,33.7
 Mega Diversified Brazilian,BBSE3,3.82,133.4,1.99,35.4,23.7
 Mega Diversified Brazilian,PRIO3,3.59,284.2,1.93,62.3,45.2
 Mega Diversified Brazilian,WEGE3,2.95,251.2,2.36,51.9,43.4
 Mega Diversified Brazilian,ALUP11,2.86,109.6,2.24,39.5,34.2
 Mega Diversified Brazilian,TASA4,2.76,50.6,2.41,16.0,17.4
-Mega Diversified Brazilian,BBDC4,1.03,61.6,2.03,27.8,33.7
 Mega Diversified Brazilian,TAEE11,1.0,141.2,2.06,38.1,31.6
-Mega Diversified Brazilian,BPAC5,0.5,46.8,0.9,39.5,37.6
-Mega Diversified Brazilian,GOAU3,0.5,38.3,1.87,16.2,17.9
-Mega Diversified Brazilian,NEOE3,0.5,89.0,1.67,27.4,23.5
-Mega Diversified Brazilian,SANB4,0.5,47.0,2.23,30.3,38.0
-Mega Diversified Brazilian,HYPE3,0.5,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian,RADL3,0.5,67.3,1.6,39.5,53.2
+Mega Diversified Brazilian,HYPE3,0.5,31.8,1.0,53.4,48.9
+Mega Diversified Brazilian,BPAC5,0.5,46.8,0.9,39.5,37.6
 Mega Diversified Brazilian,ELET6,0.5,303.6,1.83,52.3,37.4
-Mega Diversified Brazilian,CMIG4,0.5,28.4,1.33,16.7,24.8
 Mega Diversified Brazilian,ELET3,0.5,292.7,2.08,42.7,32.6
 Mega Diversified Brazilian,BBDC3,0.5,31.7,1.02,22.3,27.5
+Mega Diversified Brazilian,NEOE3,0.5,89.0,1.67,27.4,23.5
+Mega Diversified Brazilian,SANB4,0.5,47.0,2.23,30.3,38.0
+Mega Diversified Brazilian,CMIG4,0.5,28.4,1.33,16.7,24.8
+Mega Diversified Brazilian,GOAU3,0.5,38.3,1.87,16.2,17.9
 Mega Diversified International,KO,9.97,286.4,2.27,52.7,29.7
 Mega Diversified International,AEP,8.04,550.8,2.73,73.3,42.2
 Mega Diversified International,JNJ,7.82,968.8,3.03,75.4,32.7
@@ -1085,38 +1097,38 @@ Sector Health International 3,UNH,50.0,605.5,2.13,292.3,100.0
 Momentum All 3,JNJ,36.47,968.8,3.03,75.4,32.7
 Momentum All 3,INTC,36.47,872.7,2.63,84.0,46.8
 Momentum All 3,AAPL,27.06,819.3,2.11,121.1,66.2
-Momentum Brazilian 3,ELET6,40.8,303.6,1.83,52.3,37.4
-Momentum Brazilian 3,ELET3,40.8,292.7,2.08,42.7,32.6
-Momentum Brazilian 3,PRIO3,18.4,284.2,1.93,62.3,45.2
+Momentum Brazilian 3,ELET6,40.55,303.6,1.83,52.3,37.4
+Momentum Brazilian 3,ELET3,40.55,292.7,2.08,42.7,32.6
+Momentum Brazilian 3,VALE3,18.9,465.4,3.35,48.9,39.3
 Momentum International 3,JNJ,36.47,968.8,3.03,75.4,32.7
 Momentum International 3,INTC,36.47,872.7,2.63,84.0,46.8
 Momentum International 3,AAPL,27.06,819.3,2.11,121.1,66.2
 Mean Reversion All 3,PM,100.0,-30.7,0.96,239.5,99.9
 Mean Reversion International 3,PM,100.0,-30.7,0.96,239.5,99.9
-Quality All 3,BRSR3,38.28,86.2,3.39,20.7,16.9
-Quality All 3,GGBR3,38.28,151.1,3.14,29.9,29.4
-Quality All 3,JNJ,23.44,968.8,3.03,75.4,32.7
-Quality Brazilian 3,BRSR3,34.64,86.2,3.39,20.7,16.9
-Quality Brazilian 3,BRSR6,34.64,64.1,3.03,22.4,30.3
-Quality Brazilian 3,GGBR3,30.73,151.1,3.14,29.9,29.4
+Quality All 3,BRSR3,36.94,86.2,3.39,20.7,16.9
+Quality All 3,GGBR3,36.94,151.1,3.14,29.9,29.4
+Quality All 3,VALE3,26.12,465.4,3.35,48.9,39.3
+Quality Brazilian 3,BRSR3,36.94,86.2,3.39,20.7,16.9
+Quality Brazilian 3,GGBR3,36.94,151.1,3.14,29.9,29.4
+Quality Brazilian 3,VALE3,26.12,465.4,3.35,48.9,39.3
 Quality International 3,AEP,35.58,550.8,2.73,73.3,42.2
 Quality International 3,VALE,35.58,57.9,2.67,24.2,21.7
 Quality International 3,JNJ,28.84,968.8,3.03,75.4,32.7
-Value All 3,JNJ,34.31,968.8,3.03,75.4,32.7
-Value All 3,AEP,34.31,550.8,2.73,73.3,42.2
-Value All 3,INTC,31.37,872.7,2.63,84.0,46.8
-Value Brazilian 3,ELET3,40.8,292.7,2.08,42.7,32.6
-Value Brazilian 3,ELET6,40.8,303.6,1.83,52.3,37.4
-Value Brazilian 3,PRIO3,18.4,284.2,1.93,62.3,45.2
+Value All 3,JNJ,34.73,968.8,3.03,75.4,32.7
+Value All 3,VALE3,34.73,465.4,3.35,48.9,39.3
+Value All 3,INTC,30.53,872.7,2.63,84.0,46.8
+Value Brazilian 3,ELET3,40.55,292.7,2.08,42.7,32.6
+Value Brazilian 3,ELET6,40.55,303.6,1.83,52.3,37.4
+Value Brazilian 3,VALE3,18.9,465.4,3.35,48.9,39.3
 Value International 3,JNJ,34.31,968.8,3.03,75.4,32.7
 Value International 3,AEP,34.31,550.8,2.73,73.3,42.2
 Value International 3,INTC,31.37,872.7,2.63,84.0,46.8
 Growth All 3,JNJ,36.47,968.8,3.03,75.4,32.7
 Growth All 3,INTC,36.47,872.7,2.63,84.0,46.8
 Growth All 3,AAPL,27.06,819.3,2.11,121.1,66.2
-Growth Brazilian 3,ELET6,40.8,303.6,1.83,52.3,37.4
-Growth Brazilian 3,ELET3,40.8,292.7,2.08,42.7,32.6
-Growth Brazilian 3,PRIO3,18.4,284.2,1.93,62.3,45.2
+Growth Brazilian 3,VALE3,37.39,465.4,3.35,48.9,39.3
+Growth Brazilian 3,ELET6,37.39,303.6,1.83,52.3,37.4
+Growth Brazilian 3,PRIO3,25.23,284.2,1.93,62.3,45.2
 Growth International 3,JNJ,36.47,968.8,3.03,75.4,32.7
 Growth International 3,INTC,36.47,872.7,2.63,84.0,46.8
 Growth International 3,AAPL,27.06,819.3,2.11,121.1,66.2
@@ -1147,12 +1159,12 @@ Swing Trading Brazilian 3,HYPE3,33.22,31.8,1.0,53.4,48.9
 Swing Trading International 3,SO,35.58,147.8,1.94,116.5,84.3
 Swing Trading International 3,EBR,35.58,50.8,2.52,14.0,10.1
 Swing Trading International 3,UNH,28.84,605.5,2.13,292.3,100.0
-Risk Parity All 3,BRSR3,34.64,86.2,3.39,20.7,16.9
-Risk Parity All 3,BRSR6,34.64,64.1,3.03,22.4,30.3
-Risk Parity All 3,GGBR3,30.73,151.1,3.14,29.9,29.4
-Risk Parity Brazilian 3,BRSR3,34.64,86.2,3.39,20.7,16.9
-Risk Parity Brazilian 3,BRSR6,34.64,64.1,3.03,22.4,30.3
-Risk Parity Brazilian 3,GGBR3,30.73,151.1,3.14,29.9,29.4
+Risk Parity All 3,BRSR3,36.94,86.2,3.39,20.7,16.9
+Risk Parity All 3,GGBR3,36.94,151.1,3.14,29.9,29.4
+Risk Parity All 3,VALE3,26.12,465.4,3.35,48.9,39.3
+Risk Parity Brazilian 3,BRSR3,36.94,86.2,3.39,20.7,16.9
+Risk Parity Brazilian 3,GGBR3,36.94,151.1,3.14,29.9,29.4
+Risk Parity Brazilian 3,VALE3,26.12,465.4,3.35,48.9,39.3
 Risk Parity International 3,VALE,40.18,57.9,2.67,24.2,21.7
 Risk Parity International 3,EBR,40.18,50.8,2.52,14.0,10.1
 Risk Parity International 3,JNJ,19.64,968.8,3.03,75.4,32.7
@@ -1160,8 +1172,8 @@ Max Sharpe All 3,AAPL,33.33,819.3,2.11,121.1,66.2
 Max Sharpe All 3,ABEV3,33.33,45.5,1.58,21.3,15.0
 Max Sharpe All 3,AEP,33.33,550.8,2.73,73.3,42.2
 Max Sharpe Brazilian 3,BRSR3,33.33,86.2,3.39,20.7,16.9
-Max Sharpe Brazilian 3,BRSR6,33.33,64.1,3.03,22.4,30.3
 Max Sharpe Brazilian 3,CPLE6,33.33,51.8,1.89,16.2,11.2
+Max Sharpe Brazilian 3,EALT3,33.33,59.5,2.97,32.3,33.0
 Max Sharpe International 3,AAPL,33.33,819.3,2.11,121.1,66.2
 Max Sharpe International 3,AEP,33.33,550.8,2.73,73.3,42.2
 Max Sharpe International 3,AMZN,33.33,469.1,1.93,323.2,100.0
@@ -1186,9 +1198,9 @@ Max Diversification International 3,AAPL,23.82,819.3,2.11,121.1,66.2
 Concentrated All 3,JNJ,33.33,968.8,3.03,75.4,32.7
 Concentrated All 3,INTC,33.33,872.7,2.63,84.0,46.8
 Concentrated All 3,JPM,33.33,765.6,2.39,327.8,100.0
+Concentrated Brazilian 3,VALE3,33.33,465.4,3.35,48.9,39.3
 Concentrated Brazilian 3,WEGE3,33.33,251.2,2.36,51.9,43.4
 Concentrated Brazilian 3,ELET3,33.33,292.7,2.08,42.7,32.6
-Concentrated Brazilian 3,GGBR3,33.33,151.1,3.14,29.9,29.4
 Concentrated International 3,JNJ,33.33,968.8,3.03,75.4,32.7
 Concentrated International 3,INTC,33.33,872.7,2.63,84.0,46.8
 Concentrated International 3,JPM,33.33,765.6,2.39,327.8,100.0
@@ -1207,17 +1219,17 @@ Mega Diversified All 3,GOOGL,3.89,563.1,1.87,172.6,96.1
 Mega Diversified All 3,SBUX,2.33,249.4,2.18,108.4,57.9
 Mega Diversified All 3,PM,1.33,-30.7,0.96,239.5,99.9
 Mega Diversified All 3,BPAC3,0.67,159.5,2.08,66.8,80.5
-Mega Diversified Brazilian 3,BBDC3,14.0,31.7,1.02,22.3,27.5
 Mega Diversified Brazilian 3,SIMH3,12.5,62.3,1.65,52.8,69.8
 Mega Diversified Brazilian 3,BPAC3,11.18,159.5,2.08,66.8,80.5
 Mega Diversified Brazilian 3,GGBR3,11.18,151.1,3.14,29.9,29.4
+Mega Diversified Brazilian 3,HYPE3,9.52,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 3,RADL3,9.25,67.3,1.6,39.5,53.2
 Mega Diversified Brazilian 3,CPFE3,8.79,193.5,2.6,43.0,42.5
+Mega Diversified Brazilian 3,VALE3,7.68,465.4,3.35,48.9,39.3
 Mega Diversified Brazilian 3,ELET6,7.14,303.6,1.83,52.3,37.4
 Mega Diversified Brazilian 3,PRIO3,5.99,284.2,1.93,62.3,45.2
 Mega Diversified Brazilian 3,BBSE3,3.82,133.4,1.99,35.4,23.7
 Mega Diversified Brazilian 3,ELET3,3.52,292.7,2.08,42.7,32.6
-Mega Diversified Brazilian 3,HYPE3,3.2,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 3,WEGE3,2.95,251.2,2.36,51.9,43.4
 Mega Diversified Brazilian 3,ALUP11,2.86,109.6,2.24,39.5,34.2
 Mega Diversified Brazilian 3,BPAC5,2.28,46.8,0.9,39.5,37.6
@@ -1315,11 +1327,11 @@ Momentum All 5,UNH,24.77,605.5,2.13,292.3,100.0
 Momentum All 5,INTC,24.63,872.7,2.63,84.0,46.8
 Momentum All 5,JPM,14.87,765.6,2.39,327.8,100.0
 Momentum All 5,AAPL,10.97,819.3,2.11,121.1,66.2
-Momentum Brazilian 5,ELET6,27.35,303.6,1.83,52.3,37.4
-Momentum Brazilian 5,ELET3,27.35,292.7,2.08,42.7,32.6
-Momentum Brazilian 5,CPFE3,19.43,193.5,2.6,43.0,42.5
-Momentum Brazilian 5,WEGE3,16.94,251.2,2.36,51.9,43.4
-Momentum Brazilian 5,PRIO3,8.94,284.2,1.93,62.3,45.2
+Momentum Brazilian 5,ELET6,27.78,303.6,1.83,52.3,37.4
+Momentum Brazilian 5,ELET3,27.78,292.7,2.08,42.7,32.6
+Momentum Brazilian 5,WEGE3,18.43,251.2,2.36,51.9,43.4
+Momentum Brazilian 5,VALE3,16.27,465.4,3.35,48.9,39.3
+Momentum Brazilian 5,PRIO3,9.75,284.2,1.93,62.3,45.2
 Momentum International 5,JNJ,24.77,968.8,3.03,75.4,32.7
 Momentum International 5,UNH,24.77,605.5,2.13,292.3,100.0
 Momentum International 5,INTC,24.63,872.7,2.63,84.0,46.8
@@ -1327,31 +1339,31 @@ Momentum International 5,JPM,14.87,765.6,2.39,327.8,100.0
 Momentum International 5,AAPL,10.97,819.3,2.11,121.1,66.2
 Mean Reversion All 5,PM,100.0,-30.7,0.96,239.5,99.9
 Mean Reversion International 5,PM,100.0,-30.7,0.96,239.5,99.9
-Quality All 5,BRSR3,24.14,86.2,3.39,20.7,16.9
-Quality All 5,BRSR6,24.14,64.1,3.03,22.4,30.3
-Quality All 5,EALT3,24.14,59.5,2.97,32.3,33.0
-Quality All 5,GGBR3,21.39,151.1,3.14,29.9,29.4
-Quality All 5,JNJ,6.2,968.8,3.03,75.4,32.7
-Quality Brazilian 5,EALT3,23.85,59.5,2.97,32.3,33.0
-Quality Brazilian 5,TAEE4,23.2,63.4,2.92,16.5,15.9
-Quality Brazilian 5,BRSR6,22.34,64.1,3.03,22.4,30.3
-Quality Brazilian 5,BRSR3,19.91,86.2,3.39,20.7,16.9
-Quality Brazilian 5,GGBR3,10.7,151.1,3.14,29.9,29.4
+Quality All 5,BRSR3,25.78,86.2,3.39,20.7,16.9
+Quality All 5,GGBR3,25.78,151.1,3.14,29.9,29.4
+Quality All 5,BRSR6,25.78,64.1,3.03,22.4,30.3
+Quality All 5,VALE3,12.36,465.4,3.35,48.9,39.3
+Quality All 5,JNJ,10.28,968.8,3.03,75.4,32.7
+Quality Brazilian 5,BRSR3,24.68,86.2,3.39,20.7,16.9
+Quality Brazilian 5,BRSR6,24.68,64.1,3.03,22.4,30.3
+Quality Brazilian 5,EALT3,24.68,59.5,2.97,32.3,33.0
+Quality Brazilian 5,GGBR3,18.44,151.1,3.14,29.9,29.4
+Quality Brazilian 5,VALE3,7.53,465.4,3.35,48.9,39.3
 Quality International 5,VALE,26.92,57.9,2.67,24.2,21.7
 Quality International 5,EBR,26.92,50.8,2.52,14.0,10.1
 Quality International 5,AEP,19.99,550.8,2.73,73.3,42.2
 Quality International 5,JNJ,17.11,968.8,3.03,75.4,32.7
 Quality International 5,INTC,9.06,872.7,2.63,84.0,46.8
-Value All 5,JNJ,25.01,968.8,3.03,75.4,32.7
-Value All 5,AEP,25.01,550.8,2.73,73.3,42.2
-Value All 5,ELET3,25.01,292.7,2.08,42.7,32.6
-Value All 5,INTC,17.51,872.7,2.63,84.0,46.8
-Value All 5,AAPL,7.45,819.3,2.11,121.1,66.2
-Value Brazilian 5,ELET3,27.35,292.7,2.08,42.7,32.6
-Value Brazilian 5,ELET6,27.35,303.6,1.83,52.3,37.4
-Value Brazilian 5,CPFE3,19.43,193.5,2.6,43.0,42.5
-Value Brazilian 5,WEGE3,16.94,251.2,2.36,51.9,43.4
-Value Brazilian 5,PRIO3,8.94,284.2,1.93,62.3,45.2
+Value All 5,JNJ,24.47,968.8,3.03,75.4,32.7
+Value All 5,VALE3,24.47,465.4,3.35,48.9,39.3
+Value All 5,AEP,24.47,550.8,2.73,73.3,42.2
+Value All 5,INTC,18.38,872.7,2.63,84.0,46.8
+Value All 5,AAPL,8.21,819.3,2.11,121.1,66.2
+Value Brazilian 5,ELET3,27.6,292.7,2.08,42.7,32.6
+Value Brazilian 5,ELET6,27.6,303.6,1.83,52.3,37.4
+Value Brazilian 5,CPFE3,19.78,193.5,2.6,43.0,42.5
+Value Brazilian 5,VALE3,15.46,465.4,3.35,48.9,39.3
+Value Brazilian 5,PRIO3,9.55,284.2,1.93,62.3,45.2
 Value International 5,JNJ,25.34,968.8,3.03,75.4,32.7
 Value International 5,AEP,25.34,550.8,2.73,73.3,42.2
 Value International 5,INTC,21.35,872.7,2.63,84.0,46.8
@@ -1362,11 +1374,11 @@ Growth All 5,UNH,24.77,605.5,2.13,292.3,100.0
 Growth All 5,INTC,24.63,872.7,2.63,84.0,46.8
 Growth All 5,JPM,14.87,765.6,2.39,327.8,100.0
 Growth All 5,AAPL,10.97,819.3,2.11,121.1,66.2
-Growth Brazilian 5,ELET6,27.35,303.6,1.83,52.3,37.4
-Growth Brazilian 5,ELET3,27.35,292.7,2.08,42.7,32.6
-Growth Brazilian 5,CPFE3,19.43,193.5,2.6,43.0,42.5
-Growth Brazilian 5,WEGE3,16.94,251.2,2.36,51.9,43.4
-Growth Brazilian 5,PRIO3,8.94,284.2,1.93,62.3,45.2
+Growth Brazilian 5,ELET6,27.78,303.6,1.83,52.3,37.4
+Growth Brazilian 5,ELET3,27.78,292.7,2.08,42.7,32.6
+Growth Brazilian 5,WEGE3,18.43,251.2,2.36,51.9,43.4
+Growth Brazilian 5,VALE3,16.27,465.4,3.35,48.9,39.3
+Growth Brazilian 5,PRIO3,9.75,284.2,1.93,62.3,45.2
 Growth International 5,JNJ,24.77,968.8,3.03,75.4,32.7
 Growth International 5,UNH,24.77,605.5,2.13,292.3,100.0
 Growth International 5,INTC,24.63,872.7,2.63,84.0,46.8
@@ -1415,16 +1427,16 @@ Swing Trading International 5,EBR,31.73,50.8,2.52,14.0,10.1
 Swing Trading International 5,CIG,31.73,8.6,2.45,4.5,6.9
 Swing Trading International 5,SO,22.19,147.8,1.94,116.5,84.3
 Swing Trading International 5,UNH,14.34,605.5,2.13,292.3,100.0
-Risk Parity All 5,EALT3,23.85,59.5,2.97,32.3,33.0
-Risk Parity All 5,TAEE4,23.2,63.4,2.92,16.5,15.9
-Risk Parity All 5,BRSR6,22.34,64.1,3.03,22.4,30.3
-Risk Parity All 5,BRSR3,19.91,86.2,3.39,20.7,16.9
-Risk Parity All 5,GGBR3,10.7,151.1,3.14,29.9,29.4
-Risk Parity Brazilian 5,EALT3,23.85,59.5,2.97,32.3,33.0
-Risk Parity Brazilian 5,TAEE4,23.2,63.4,2.92,16.5,15.9
-Risk Parity Brazilian 5,BRSR6,22.34,64.1,3.03,22.4,30.3
-Risk Parity Brazilian 5,BRSR3,19.91,86.2,3.39,20.7,16.9
-Risk Parity Brazilian 5,GGBR3,10.7,151.1,3.14,29.9,29.4
+Risk Parity All 5,BRSR3,24.68,86.2,3.39,20.7,16.9
+Risk Parity All 5,BRSR6,24.68,64.1,3.03,22.4,30.3
+Risk Parity All 5,EALT3,24.68,59.5,2.97,32.3,33.0
+Risk Parity All 5,GGBR3,18.44,151.1,3.14,29.9,29.4
+Risk Parity All 5,VALE3,7.53,465.4,3.35,48.9,39.3
+Risk Parity Brazilian 5,BRSR3,24.68,86.2,3.39,20.7,16.9
+Risk Parity Brazilian 5,BRSR6,24.68,64.1,3.03,22.4,30.3
+Risk Parity Brazilian 5,EALT3,24.68,59.5,2.97,32.3,33.0
+Risk Parity Brazilian 5,GGBR3,18.44,151.1,3.14,29.9,29.4
+Risk Parity Brazilian 5,VALE3,7.53,465.4,3.35,48.9,39.3
 Risk Parity International 5,VALE,26.98,57.9,2.67,24.2,21.7
 Risk Parity International 5,EBR,26.98,50.8,2.52,14.0,10.1
 Risk Parity International 5,CIG,26.98,8.6,2.45,4.5,6.9
@@ -1436,10 +1448,10 @@ Max Sharpe All 5,AEP,20.0,550.8,2.73,73.3,42.2
 Max Sharpe All 5,ALUP11,20.0,109.6,2.24,39.5,34.2
 Max Sharpe All 5,AMZN,20.0,469.1,1.93,323.2,100.0
 Max Sharpe Brazilian 5,BRSR3,20.0,86.2,3.39,20.7,16.9
-Max Sharpe Brazilian 5,BRSR6,20.0,64.1,3.03,22.4,30.3
 Max Sharpe Brazilian 5,CPLE6,20.0,51.8,1.89,16.2,11.2
 Max Sharpe Brazilian 5,EALT3,20.0,59.5,2.97,32.3,33.0
 Max Sharpe Brazilian 5,ELET3,20.0,292.7,2.08,42.7,32.6
+Max Sharpe Brazilian 5,ELET6,20.0,303.6,1.83,52.3,37.4
 Max Sharpe International 5,AAPL,20.0,819.3,2.11,121.1,66.2
 Max Sharpe International 5,AEP,20.0,550.8,2.73,73.3,42.2
 Max Sharpe International 5,AMZN,20.0,469.1,1.93,323.2,100.0
@@ -1479,12 +1491,12 @@ Concentrated All 5,JNJ,20.0,968.8,3.03,75.4,32.7
 Concentrated All 5,INTC,20.0,872.7,2.63,84.0,46.8
 Concentrated All 5,JPM,20.0,765.6,2.39,327.8,100.0
 Concentrated All 5,AAPL,20.0,819.3,2.11,121.1,66.2
-Concentrated All 5,AEP,20.0,550.8,2.73,73.3,42.2
+Concentrated All 5,VALE3,20.0,465.4,3.35,48.9,39.3
+Concentrated Brazilian 5,VALE3,20.0,465.4,3.35,48.9,39.3
 Concentrated Brazilian 5,WEGE3,20.0,251.2,2.36,51.9,43.4
 Concentrated Brazilian 5,ELET3,20.0,292.7,2.08,42.7,32.6
 Concentrated Brazilian 5,GGBR3,20.0,151.1,3.14,29.9,29.4
 Concentrated Brazilian 5,CPFE3,20.0,193.5,2.6,43.0,42.5
-Concentrated Brazilian 5,PRIO3,20.0,284.2,1.93,62.3,45.2
 Concentrated International 5,JNJ,20.0,968.8,3.03,75.4,32.7
 Concentrated International 5,INTC,20.0,872.7,2.63,84.0,46.8
 Concentrated International 5,JPM,20.0,765.6,2.39,327.8,100.0
@@ -1505,17 +1517,17 @@ Mega Diversified All 5,GOOGL,3.89,563.1,1.87,172.6,96.1
 Mega Diversified All 5,SBUX,2.33,249.4,2.18,108.4,57.9
 Mega Diversified All 5,PM,1.33,-30.7,0.96,239.5,99.9
 Mega Diversified All 5,BPAC3,0.67,159.5,2.08,66.8,80.5
-Mega Diversified Brazilian 5,BBDC3,14.0,31.7,1.02,22.3,27.5
 Mega Diversified Brazilian 5,SIMH3,12.5,62.3,1.65,52.8,69.8
 Mega Diversified Brazilian 5,BPAC3,11.18,159.5,2.08,66.8,80.5
 Mega Diversified Brazilian 5,GGBR3,11.18,151.1,3.14,29.9,29.4
+Mega Diversified Brazilian 5,HYPE3,9.52,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 5,RADL3,9.25,67.3,1.6,39.5,53.2
 Mega Diversified Brazilian 5,CPFE3,8.79,193.5,2.6,43.0,42.5
+Mega Diversified Brazilian 5,VALE3,7.68,465.4,3.35,48.9,39.3
 Mega Diversified Brazilian 5,ELET6,7.14,303.6,1.83,52.3,37.4
 Mega Diversified Brazilian 5,PRIO3,5.99,284.2,1.93,62.3,45.2
 Mega Diversified Brazilian 5,BBSE3,3.82,133.4,1.99,35.4,23.7
 Mega Diversified Brazilian 5,ELET3,3.52,292.7,2.08,42.7,32.6
-Mega Diversified Brazilian 5,HYPE3,3.2,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 5,WEGE3,2.95,251.2,2.36,51.9,43.4
 Mega Diversified Brazilian 5,ALUP11,2.86,109.6,2.24,39.5,34.2
 Mega Diversified Brazilian 5,BPAC5,2.28,46.8,0.9,39.5,37.6
@@ -1646,26 +1658,26 @@ Sector Health All 10,RADL3,33.33,67.3,1.6,39.5,53.2
 Sector Health Brazilian 10,RADL3,100.0,67.3,1.6,39.5,53.2
 Sector Health International 10,JNJ,50.0,968.8,3.03,75.4,32.7
 Sector Health International 10,UNH,50.0,605.5,2.13,292.3,100.0
-Momentum All 10,JNJ,16.97,968.8,3.03,75.4,32.7
-Momentum All 10,AEP,16.97,550.8,2.73,73.3,42.2
-Momentum All 10,UNH,16.33,605.5,2.13,292.3,100.0
-Momentum All 10,AMZN,14.67,469.1,1.93,323.2,100.0
-Momentum All 10,INTC,9.49,872.7,2.63,84.0,46.8
-Momentum All 10,HSBC,7.57,418.4,2.31,75.4,49.5
-Momentum All 10,JPM,5.82,765.6,2.39,327.8,100.0
-Momentum All 10,GOOGL,4.43,563.1,1.87,172.6,96.1
-Momentum All 10,AAPL,4.06,819.3,2.11,121.1,66.2
-Momentum All 10,GOOG,3.69,307.0,1.63,168.7,98.2
-Momentum Brazilian 10,ELET6,20.81,303.6,1.83,52.3,37.4
-Momentum Brazilian 10,ELET3,20.81,292.7,2.08,42.7,32.6
-Momentum Brazilian 10,GGBR3,13.07,151.1,3.14,29.9,29.4
-Momentum Brazilian 10,ALUP11,8.86,109.6,2.24,39.5,34.2
-Momentum Brazilian 10,CPFE3,6.93,193.5,2.6,43.0,42.5
-Momentum Brazilian 10,BPAC3,6.66,159.5,2.08,66.8,80.5
-Momentum Brazilian 10,WEGE3,6.16,251.2,2.36,51.9,43.4
-Momentum Brazilian 10,PRIO3,5.94,284.2,1.93,62.3,45.2
-Momentum Brazilian 10,BBSE3,5.83,133.4,1.99,35.4,23.7
-Momentum Brazilian 10,TAEE11,4.94,141.2,2.06,38.1,31.6
+Momentum All 10,AEP,17.18,550.8,2.73,73.3,42.2
+Momentum All 10,VALE3,15.9,465.4,3.35,48.9,39.3
+Momentum All 10,JNJ,15.41,968.8,3.03,75.4,32.7
+Momentum All 10,UNH,12.94,605.5,2.13,292.3,100.0
+Momentum All 10,AMZN,11.71,469.1,1.93,323.2,100.0
+Momentum All 10,INTC,8.2,872.7,2.63,84.0,46.8
+Momentum All 10,HSBC,6.22,418.4,2.31,75.4,49.5
+Momentum All 10,JPM,4.54,765.6,2.39,327.8,100.0
+Momentum All 10,GOOGL,4.45,563.1,1.87,172.6,96.1
+Momentum All 10,AAPL,3.44,819.3,2.11,121.1,66.2
+Momentum Brazilian 10,ELET6,20.94,303.6,1.83,52.3,37.4
+Momentum Brazilian 10,ELET3,20.94,292.7,2.08,42.7,32.6
+Momentum Brazilian 10,GGBR3,13.33,151.1,3.14,29.9,29.4
+Momentum Brazilian 10,CPFE3,7.24,193.5,2.6,43.0,42.5
+Momentum Brazilian 10,WEGE3,6.54,251.2,2.36,51.9,43.4
+Momentum Brazilian 10,BPAC3,6.54,159.5,2.08,66.8,80.5
+Momentum Brazilian 10,VALE3,6.48,465.4,3.35,48.9,39.3
+Momentum Brazilian 10,PRIO3,6.47,284.2,1.93,62.3,45.2
+Momentum Brazilian 10,BBSE3,6.23,133.4,1.99,35.4,23.7
+Momentum Brazilian 10,TAEE11,5.28,141.2,2.06,38.1,31.6
 Momentum International 10,JNJ,16.97,968.8,3.03,75.4,32.7
 Momentum International 10,AEP,16.97,550.8,2.73,73.3,42.2
 Momentum International 10,UNH,16.33,605.5,2.13,292.3,100.0
@@ -1678,26 +1690,26 @@ Momentum International 10,AAPL,4.06,819.3,2.11,121.1,66.2
 Momentum International 10,GOOG,3.69,307.0,1.63,168.7,98.2
 Mean Reversion All 10,PM,100.0,-30.7,0.96,239.5,99.9
 Mean Reversion International 10,PM,100.0,-30.7,0.96,239.5,99.9
-Quality All 10,BRSR3,14.91,86.2,3.39,20.7,16.9
-Quality All 10,BRSR6,14.91,64.1,3.03,22.4,30.3
-Quality All 10,EALT3,14.91,59.5,2.97,32.3,33.0
-Quality All 10,TAEE4,14.91,63.4,2.92,16.5,15.9
-Quality All 10,VALE,14.91,57.9,2.67,24.2,21.7
-Quality All 10,GOAU4,10.03,59.3,2.63,16.2,19.5
-Quality All 10,GGBR3,6.53,151.1,3.14,29.9,29.4
-Quality All 10,AEP,4.2,550.8,2.73,73.3,42.2
-Quality All 10,JNJ,2.8,968.8,3.03,75.4,32.7
-Quality All 10,INTC,1.86,872.7,2.63,84.0,46.8
-Quality Brazilian 10,BRSR3,16.76,86.2,3.39,20.7,16.9
-Quality Brazilian 10,EALT3,16.76,59.5,2.97,32.3,33.0
-Quality Brazilian 10,TASA4,16.76,50.6,2.41,16.0,17.4
-Quality Brazilian 10,BRSR6,15.27,64.1,3.03,22.4,30.3
-Quality Brazilian 10,TAEE4,9.91,63.4,2.92,16.5,15.9
-Quality Brazilian 10,GOAU4,8.55,59.3,2.63,16.2,19.5
-Quality Brazilian 10,GGBR3,5.48,151.1,3.14,29.9,29.4
-Quality Brazilian 10,ALUP11,4.35,109.6,2.24,39.5,34.2
-Quality Brazilian 10,CPFE3,3.26,193.5,2.6,43.0,42.5
-Quality Brazilian 10,WEGE3,2.9,251.2,2.36,51.9,43.4
+Quality All 10,BRSR3,15.78,86.2,3.39,20.7,16.9
+Quality All 10,BRSR6,15.78,64.1,3.03,22.4,30.3
+Quality All 10,EALT3,15.78,59.5,2.97,32.3,33.0
+Quality All 10,TAEE4,15.4,63.4,2.92,16.5,15.9
+Quality All 10,VALE,13.49,57.9,2.67,24.2,21.7
+Quality All 10,GOAU4,8.74,59.3,2.63,16.2,19.5
+Quality All 10,GGBR3,6.2,151.1,3.14,29.9,29.4
+Quality All 10,AEP,3.48,550.8,2.73,73.3,42.2
+Quality All 10,VALE3,2.95,465.4,3.35,48.9,39.3
+Quality All 10,JNJ,2.41,968.8,3.03,75.4,32.7
+Quality Brazilian 10,BRSR3,16.8,86.2,3.39,20.7,16.9
+Quality Brazilian 10,EALT3,16.8,59.5,2.97,32.3,33.0
+Quality Brazilian 10,TASA4,16.8,50.6,2.41,16.0,17.4
+Quality Brazilian 10,BRSR6,13.63,64.1,3.03,22.4,30.3
+Quality Brazilian 10,TAEE4,11.04,63.4,2.92,16.5,15.9
+Quality Brazilian 10,GOAU4,9.0,59.3,2.63,16.2,19.5
+Quality Brazilian 10,GGBR3,6.01,151.1,3.14,29.9,29.4
+Quality Brazilian 10,CPFE3,3.64,193.5,2.6,43.0,42.5
+Quality Brazilian 10,WEGE3,3.3,251.2,2.36,51.9,43.4
+Quality Brazilian 10,VALE3,2.99,465.4,3.35,48.9,39.3
 Quality International 10,VALE,16.94,57.9,2.67,24.2,21.7
 Quality International 10,EBR,16.94,50.8,2.52,14.0,10.1
 Quality International 10,CIG,16.94,8.6,2.45,4.5,6.9
@@ -1710,24 +1722,24 @@ Quality International 10,HSBC,3.13,418.4,2.31,75.4,49.5
 Quality International 10,JPM,2.47,765.6,2.39,327.8,100.0
 Value All 10,ELET3,17.3,292.7,2.08,42.7,32.6
 Value All 10,ELET6,17.3,303.6,1.83,52.3,37.4
-Value All 10,PRIO3,17.3,284.2,1.93,62.3,45.2
-Value All 10,AEP,14.16,550.8,2.73,73.3,42.2
-Value All 10,KO,9.51,286.4,2.27,52.7,29.7
-Value All 10,JNJ,8.66,968.8,3.03,75.4,32.7
-Value All 10,INTC,5.26,872.7,2.63,84.0,46.8
-Value All 10,HSBC,4.76,418.4,2.31,75.4,49.5
-Value All 10,GOOGL,3.34,563.1,1.87,172.6,96.1
-Value All 10,AAPL,2.4,819.3,2.11,121.1,66.2
-Value Brazilian 10,ELET3,17.6,292.7,2.08,42.7,32.6
-Value Brazilian 10,ELET6,17.6,303.6,1.83,52.3,37.4
-Value Brazilian 10,BRSR3,17.6,86.2,3.39,20.7,16.9
-Value Brazilian 10,CPLE6,17.6,51.8,1.89,16.2,11.2
-Value Brazilian 10,GGBR3,9.19,151.1,3.14,29.9,29.4
-Value Brazilian 10,CPFE3,4.96,193.5,2.6,43.0,42.5
-Value Brazilian 10,WEGE3,4.16,251.2,2.36,51.9,43.4
-Value Brazilian 10,PRIO3,3.92,284.2,1.93,62.3,45.2
-Value Brazilian 10,BBSE3,3.8,133.4,1.99,35.4,23.7
-Value Brazilian 10,TAEE11,3.56,141.2,2.06,38.1,31.6
+Value All 10,AEP,15.55,550.8,2.73,73.3,42.2
+Value All 10,KO,12.09,286.4,2.27,52.7,29.7
+Value All 10,VALE3,12.02,465.4,3.35,48.9,39.3
+Value All 10,JNJ,9.66,968.8,3.03,75.4,32.7
+Value All 10,INTC,5.64,872.7,2.63,84.0,46.8
+Value All 10,HSBC,4.58,418.4,2.31,75.4,49.5
+Value All 10,GOOGL,3.31,563.1,1.87,172.6,96.1
+Value All 10,AAPL,2.53,819.3,2.11,121.1,66.2
+Value Brazilian 10,ELET3,19.21,292.7,2.08,42.7,32.6
+Value Brazilian 10,ELET6,19.21,303.6,1.83,52.3,37.4
+Value Brazilian 10,BRSR3,19.21,86.2,3.39,20.7,16.9
+Value Brazilian 10,GGBR3,10.77,151.1,3.14,29.9,29.4
+Value Brazilian 10,CPFE3,5.95,193.5,2.6,43.0,42.5
+Value Brazilian 10,PRIO3,5.64,284.2,1.93,62.3,45.2
+Value Brazilian 10,VALE3,5.46,465.4,3.35,48.9,39.3
+Value Brazilian 10,WEGE3,5.23,251.2,2.36,51.9,43.4
+Value Brazilian 10,BBSE3,4.9,133.4,1.99,35.4,23.7
+Value Brazilian 10,TAEE11,4.42,141.2,2.06,38.1,31.6
 Value International 10,AEP,16.88,550.8,2.73,73.3,42.2
 Value International 10,EBR,16.88,50.8,2.52,14.0,10.1
 Value International 10,KO,16.41,286.4,2.27,52.7,29.7
@@ -1738,26 +1750,26 @@ Value International 10,HSBC,6.26,418.4,2.31,75.4,49.5
 Value International 10,JPM,4.43,765.6,2.39,327.8,100.0
 Value International 10,GOOGL,4.3,563.1,1.87,172.6,96.1
 Value International 10,AAPL,3.16,819.3,2.11,121.1,66.2
-Growth All 10,JNJ,16.97,968.8,3.03,75.4,32.7
-Growth All 10,AEP,16.97,550.8,2.73,73.3,42.2
-Growth All 10,UNH,16.33,605.5,2.13,292.3,100.0
-Growth All 10,AMZN,14.67,469.1,1.93,323.2,100.0
-Growth All 10,INTC,9.49,872.7,2.63,84.0,46.8
-Growth All 10,HSBC,7.57,418.4,2.31,75.4,49.5
-Growth All 10,JPM,5.82,765.6,2.39,327.8,100.0
-Growth All 10,GOOGL,4.43,563.1,1.87,172.6,96.1
-Growth All 10,AAPL,4.06,819.3,2.11,121.1,66.2
-Growth All 10,GOOG,3.69,307.0,1.63,168.7,98.2
-Growth Brazilian 10,ELET6,20.81,303.6,1.83,52.3,37.4
-Growth Brazilian 10,ELET3,20.81,292.7,2.08,42.7,32.6
-Growth Brazilian 10,GGBR3,13.07,151.1,3.14,29.9,29.4
-Growth Brazilian 10,ALUP11,8.86,109.6,2.24,39.5,34.2
-Growth Brazilian 10,CPFE3,6.93,193.5,2.6,43.0,42.5
-Growth Brazilian 10,BPAC3,6.66,159.5,2.08,66.8,80.5
-Growth Brazilian 10,WEGE3,6.16,251.2,2.36,51.9,43.4
-Growth Brazilian 10,PRIO3,5.94,284.2,1.93,62.3,45.2
-Growth Brazilian 10,BBSE3,5.83,133.4,1.99,35.4,23.7
-Growth Brazilian 10,TAEE11,4.94,141.2,2.06,38.1,31.6
+Growth All 10,AEP,17.18,550.8,2.73,73.3,42.2
+Growth All 10,VALE3,15.9,465.4,3.35,48.9,39.3
+Growth All 10,JNJ,15.41,968.8,3.03,75.4,32.7
+Growth All 10,UNH,12.94,605.5,2.13,292.3,100.0
+Growth All 10,AMZN,11.71,469.1,1.93,323.2,100.0
+Growth All 10,INTC,8.2,872.7,2.63,84.0,46.8
+Growth All 10,HSBC,6.22,418.4,2.31,75.4,49.5
+Growth All 10,JPM,4.54,765.6,2.39,327.8,100.0
+Growth All 10,GOOGL,4.45,563.1,1.87,172.6,96.1
+Growth All 10,AAPL,3.44,819.3,2.11,121.1,66.2
+Growth Brazilian 10,ELET6,20.94,303.6,1.83,52.3,37.4
+Growth Brazilian 10,ELET3,20.94,292.7,2.08,42.7,32.6
+Growth Brazilian 10,GGBR3,13.33,151.1,3.14,29.9,29.4
+Growth Brazilian 10,CPFE3,7.24,193.5,2.6,43.0,42.5
+Growth Brazilian 10,WEGE3,6.54,251.2,2.36,51.9,43.4
+Growth Brazilian 10,BPAC3,6.54,159.5,2.08,66.8,80.5
+Growth Brazilian 10,VALE3,6.48,465.4,3.35,48.9,39.3
+Growth Brazilian 10,PRIO3,6.47,284.2,1.93,62.3,45.2
+Growth Brazilian 10,BBSE3,6.23,133.4,1.99,35.4,23.7
+Growth Brazilian 10,TAEE11,5.28,141.2,2.06,38.1,31.6
 Growth International 10,JNJ,16.97,968.8,3.03,75.4,32.7
 Growth International 10,AEP,16.97,550.8,2.73,73.3,42.2
 Growth International 10,UNH,16.33,605.5,2.13,292.3,100.0
@@ -1778,16 +1790,16 @@ High Frequency All 10,WEGE3,8.68,251.2,2.36,51.9,43.4
 High Frequency All 10,TAEE11,7.26,141.2,2.06,38.1,31.6
 High Frequency All 10,HSBC,4.37,418.4,2.31,75.4,49.5
 High Frequency All 10,AAPL,2.37,819.3,2.11,121.1,66.2
-High Frequency Brazilian 10,TASA4,20.88,50.6,2.41,16.0,17.4
-High Frequency Brazilian 10,GGBR3,14.92,151.1,3.14,29.9,29.4
-High Frequency Brazilian 10,CMIG4,14.24,28.4,1.33,16.7,24.8
-High Frequency Brazilian 10,CPLE3,10.7,72.7,2.21,21.0,18.7
-High Frequency Brazilian 10,BBDC3,8.37,31.7,1.02,22.3,27.5
-High Frequency Brazilian 10,PRIO3,7.6,284.2,1.93,62.3,45.2
-High Frequency Brazilian 10,WEGE3,6.45,251.2,2.36,51.9,43.4
-High Frequency Brazilian 10,BBSE3,5.98,133.4,1.99,35.4,23.7
-High Frequency Brazilian 10,TAEE11,5.55,141.2,2.06,38.1,31.6
-High Frequency Brazilian 10,BPAC5,5.32,46.8,0.9,39.5,37.6
+High Frequency Brazilian 10,TASA4,21.24,50.6,2.41,16.0,17.4
+High Frequency Brazilian 10,CMIG4,14.36,28.4,1.33,16.7,24.8
+High Frequency Brazilian 10,GGBR3,13.39,151.1,3.14,29.9,29.4
+High Frequency Brazilian 10,CPLE3,10.99,72.7,2.21,21.0,18.7
+High Frequency Brazilian 10,BBDC3,7.78,31.7,1.02,22.3,27.5
+High Frequency Brazilian 10,PRIO3,7.68,284.2,1.93,62.3,45.2
+High Frequency Brazilian 10,VALE3,7.08,465.4,3.35,48.9,39.3
+High Frequency Brazilian 10,WEGE3,6.21,251.2,2.36,51.9,43.4
+High Frequency Brazilian 10,BBSE3,5.91,133.4,1.99,35.4,23.7
+High Frequency Brazilian 10,TAEE11,5.35,141.2,2.06,38.1,31.6
 High Frequency International 10,AEP,16.9,550.8,2.73,73.3,42.2
 High Frequency International 10,BBD,16.9,21.6,2.29,8.1,10.1
 High Frequency International 10,ELP,16.9,45.3,1.63,13.7,9.8
@@ -1808,16 +1820,16 @@ Low Turnover All 10,WEGE3,8.68,251.2,2.36,51.9,43.4
 Low Turnover All 10,TAEE11,7.26,141.2,2.06,38.1,31.6
 Low Turnover All 10,HSBC,4.37,418.4,2.31,75.4,49.5
 Low Turnover All 10,AAPL,2.37,819.3,2.11,121.1,66.2
-Low Turnover Brazilian 10,TASA4,20.88,50.6,2.41,16.0,17.4
-Low Turnover Brazilian 10,GGBR3,14.92,151.1,3.14,29.9,29.4
-Low Turnover Brazilian 10,CMIG4,14.24,28.4,1.33,16.7,24.8
-Low Turnover Brazilian 10,CPLE3,10.7,72.7,2.21,21.0,18.7
-Low Turnover Brazilian 10,BBDC3,8.37,31.7,1.02,22.3,27.5
-Low Turnover Brazilian 10,PRIO3,7.6,284.2,1.93,62.3,45.2
-Low Turnover Brazilian 10,WEGE3,6.45,251.2,2.36,51.9,43.4
-Low Turnover Brazilian 10,BBSE3,5.98,133.4,1.99,35.4,23.7
-Low Turnover Brazilian 10,TAEE11,5.55,141.2,2.06,38.1,31.6
-Low Turnover Brazilian 10,BPAC5,5.32,46.8,0.9,39.5,37.6
+Low Turnover Brazilian 10,TASA4,21.24,50.6,2.41,16.0,17.4
+Low Turnover Brazilian 10,CMIG4,14.36,28.4,1.33,16.7,24.8
+Low Turnover Brazilian 10,GGBR3,13.39,151.1,3.14,29.9,29.4
+Low Turnover Brazilian 10,CPLE3,10.99,72.7,2.21,21.0,18.7
+Low Turnover Brazilian 10,BBDC3,7.78,31.7,1.02,22.3,27.5
+Low Turnover Brazilian 10,PRIO3,7.68,284.2,1.93,62.3,45.2
+Low Turnover Brazilian 10,VALE3,7.08,465.4,3.35,48.9,39.3
+Low Turnover Brazilian 10,WEGE3,6.21,251.2,2.36,51.9,43.4
+Low Turnover Brazilian 10,BBSE3,5.91,133.4,1.99,35.4,23.7
+Low Turnover Brazilian 10,TAEE11,5.35,141.2,2.06,38.1,31.6
 Low Turnover International 10,AEP,16.9,550.8,2.73,73.3,42.2
 Low Turnover International 10,BBD,16.9,21.6,2.29,8.1,10.1
 Low Turnover International 10,ELP,16.9,45.3,1.63,13.7,9.8
@@ -1844,26 +1856,26 @@ Swing Trading International 10,EBR,31.73,50.8,2.52,14.0,10.1
 Swing Trading International 10,CIG,31.73,8.6,2.45,4.5,6.9
 Swing Trading International 10,SO,22.19,147.8,1.94,116.5,84.3
 Swing Trading International 10,UNH,14.34,605.5,2.13,292.3,100.0
-Risk Parity All 10,BRSR6,13.32,64.1,3.03,22.4,30.3
-Risk Parity All 10,EALT3,13.32,59.5,2.97,32.3,33.0
-Risk Parity All 10,TAEE4,13.32,63.4,2.92,16.5,15.9
-Risk Parity All 10,VALE,13.32,57.9,2.67,24.2,21.7
-Risk Parity All 10,EBR,13.32,50.8,2.52,14.0,10.1
-Risk Parity All 10,CIG,13.32,8.6,2.45,4.5,6.9
-Risk Parity All 10,BRSR3,9.84,86.2,3.39,20.7,16.9
-Risk Parity All 10,GOAU4,5.36,59.3,2.63,16.2,19.5
-Risk Parity All 10,GGBR3,3.61,151.1,3.14,29.9,29.4
-Risk Parity All 10,JNJ,1.28,968.8,3.03,75.4,32.7
-Risk Parity Brazilian 10,EALT3,16.01,59.5,2.97,32.3,33.0
-Risk Parity Brazilian 10,TASA4,16.01,50.6,2.41,16.0,17.4
-Risk Parity Brazilian 10,SANB4,16.01,47.0,2.23,30.3,38.0
-Risk Parity Brazilian 10,BRSR3,11.46,86.2,3.39,20.7,16.9
-Risk Parity Brazilian 10,BRSR6,11.42,64.1,3.03,22.4,30.3
-Risk Parity Brazilian 10,TAEE4,10.07,63.4,2.92,16.5,15.9
-Risk Parity Brazilian 10,GOAU4,7.23,59.3,2.63,16.2,19.5
-Risk Parity Brazilian 10,GGBR3,4.93,151.1,3.14,29.9,29.4
-Risk Parity Brazilian 10,CPLE3,3.99,72.7,2.21,21.0,18.7
-Risk Parity Brazilian 10,CPFE3,2.88,193.5,2.6,43.0,42.5
+Risk Parity All 10,EALT3,14.24,59.5,2.97,32.3,33.0
+Risk Parity All 10,EBR,14.24,50.8,2.52,14.0,10.1
+Risk Parity All 10,CIG,14.24,8.6,2.45,4.5,6.9
+Risk Parity All 10,TAEE4,13.91,63.4,2.92,16.5,15.9
+Risk Parity All 10,BRSR6,12.69,64.1,3.03,22.4,30.3
+Risk Parity All 10,VALE,11.58,57.9,2.67,24.2,21.7
+Risk Parity All 10,BRSR3,10.53,86.2,3.39,20.7,16.9
+Risk Parity All 10,GGBR3,4.67,151.1,3.14,29.9,29.4
+Risk Parity All 10,VALE3,2.39,465.4,3.35,48.9,39.3
+Risk Parity All 10,JNJ,1.51,968.8,3.03,75.4,32.7
+Risk Parity Brazilian 10,EALT3,16.6,59.5,2.97,32.3,33.0
+Risk Parity Brazilian 10,TASA4,15.76,50.6,2.41,16.0,17.4
+Risk Parity Brazilian 10,SANB4,15.29,47.0,2.23,30.3,38.0
+Risk Parity Brazilian 10,BRSR3,13.47,86.2,3.39,20.7,16.9
+Risk Parity Brazilian 10,BRSR6,11.11,64.1,3.03,22.4,30.3
+Risk Parity Brazilian 10,TAEE4,9.73,63.4,2.92,16.5,15.9
+Risk Parity Brazilian 10,GOAU4,7.55,59.3,2.63,16.2,19.5
+Risk Parity Brazilian 10,GGBR3,5.21,151.1,3.14,29.9,29.4
+Risk Parity Brazilian 10,CPFE3,2.85,193.5,2.6,43.0,42.5
+Risk Parity Brazilian 10,VALE3,2.42,465.4,3.35,48.9,39.3
 Risk Parity International 10,VALE,17.63,57.9,2.67,24.2,21.7
 Risk Parity International 10,EBR,17.63,50.8,2.52,14.0,10.1
 Risk Parity International 10,CIG,17.63,8.6,2.45,4.5,6.9
@@ -1885,15 +1897,15 @@ Max Sharpe All 10,BBDC4,10.0,61.6,2.03,27.8,33.7
 Max Sharpe All 10,BBSE3,10.0,133.4,1.99,35.4,23.7
 Max Sharpe All 10,BPAC3,10.0,159.5,2.08,66.8,80.5
 Max Sharpe Brazilian 10,BRSR3,10.0,86.2,3.39,20.7,16.9
-Max Sharpe Brazilian 10,BRSR6,10.0,64.1,3.03,22.4,30.3
 Max Sharpe Brazilian 10,CPLE6,10.0,51.8,1.89,16.2,11.2
 Max Sharpe Brazilian 10,EALT3,10.0,59.5,2.97,32.3,33.0
 Max Sharpe Brazilian 10,ELET3,10.0,292.7,2.08,42.7,32.6
 Max Sharpe Brazilian 10,ELET6,10.0,303.6,1.83,52.3,37.4
+Max Sharpe Brazilian 10,VALE3,10.0,465.4,3.35,48.9,39.3
 Max Sharpe Brazilian 10,GGBR3,10.0,151.1,3.14,29.9,29.4
+Max Sharpe Brazilian 10,BRSR6,10.0,64.1,3.03,22.4,30.3
 Max Sharpe Brazilian 10,TAEE4,10.0,63.4,2.92,16.5,15.9
 Max Sharpe Brazilian 10,CPFE3,10.0,193.5,2.6,43.0,42.5
-Max Sharpe Brazilian 10,GOAU4,10.0,59.3,2.63,16.2,19.5
 Max Sharpe International 10,AAPL,12.5,819.3,2.11,121.1,66.2
 Max Sharpe International 10,CIG,12.5,8.6,2.45,4.5,6.9
 Max Sharpe International 10,AMZN,12.5,469.1,1.93,323.2,100.0
@@ -1920,10 +1932,10 @@ Min Variance Brazilian 10,HYPE3,10.0,31.8,1.0,53.4,48.9
 Min Variance Brazilian 10,SIMH3,10.0,62.3,1.65,52.8,69.8
 Min Variance Brazilian 10,ELET6,10.0,303.6,1.83,52.3,37.4
 Min Variance Brazilian 10,WEGE3,10.0,251.2,2.36,51.9,43.4
+Min Variance Brazilian 10,VALE3,10.0,465.4,3.35,48.9,39.3
 Min Variance Brazilian 10,CPFE3,10.0,193.5,2.6,43.0,42.5
 Min Variance Brazilian 10,ELET3,10.0,292.7,2.08,42.7,32.6
 Min Variance Brazilian 10,BPAC5,10.0,46.8,0.9,39.5,37.6
-Min Variance Brazilian 10,RADL3,10.0,67.3,1.6,39.5,53.2
 Min Variance International 10,JPM,10.0,765.6,2.39,327.8,100.0
 Min Variance International 10,AMZN,10.0,469.1,1.93,323.2,100.0
 Min Variance International 10,UNH,10.0,605.5,2.13,292.3,100.0
@@ -1968,10 +1980,11 @@ Concentrated All 10,JNJ,12.5,968.8,3.03,75.4,32.7
 Concentrated All 10,INTC,12.5,872.7,2.63,84.0,46.8
 Concentrated All 10,JPM,12.5,765.6,2.39,327.8,100.0
 Concentrated All 10,AAPL,12.5,819.3,2.11,121.1,66.2
+Concentrated All 10,VALE3,12.5,465.4,3.35,48.9,39.3
 Concentrated All 10,AEP,12.5,550.8,2.73,73.3,42.2
 Concentrated All 10,UNH,12.5,605.5,2.13,292.3,100.0
 Concentrated All 10,GOOGL,12.5,563.1,1.87,172.6,96.1
-Concentrated All 10,HSBC,12.5,418.4,2.31,75.4,49.5
+Concentrated Brazilian 10,VALE3,12.5,465.4,3.35,48.9,39.3
 Concentrated Brazilian 10,WEGE3,12.5,251.2,2.36,51.9,43.4
 Concentrated Brazilian 10,ELET3,12.5,292.7,2.08,42.7,32.6
 Concentrated Brazilian 10,GGBR3,12.5,151.1,3.14,29.9,29.4
@@ -1979,7 +1992,6 @@ Concentrated Brazilian 10,CPFE3,12.5,193.5,2.6,43.0,42.5
 Concentrated Brazilian 10,PRIO3,12.5,284.2,1.93,62.3,45.2
 Concentrated Brazilian 10,ELET6,12.5,303.6,1.83,52.3,37.4
 Concentrated Brazilian 10,BRSR3,12.5,86.2,3.39,20.7,16.9
-Concentrated Brazilian 10,BPAC3,12.5,159.5,2.08,66.8,80.5
 Concentrated International 10,JNJ,12.5,968.8,3.03,75.4,32.7
 Concentrated International 10,INTC,12.5,872.7,2.63,84.0,46.8
 Concentrated International 10,JPM,12.5,765.6,2.39,327.8,100.0
@@ -2003,17 +2015,17 @@ Mega Diversified All 10,GOOGL,3.89,563.1,1.87,172.6,96.1
 Mega Diversified All 10,SBUX,2.33,249.4,2.18,108.4,57.9
 Mega Diversified All 10,PM,1.33,-30.7,0.96,239.5,99.9
 Mega Diversified All 10,BPAC3,0.67,159.5,2.08,66.8,80.5
-Mega Diversified Brazilian 10,BBDC3,14.0,31.7,1.02,22.3,27.5
 Mega Diversified Brazilian 10,SIMH3,12.5,62.3,1.65,52.8,69.8
 Mega Diversified Brazilian 10,BPAC3,11.18,159.5,2.08,66.8,80.5
 Mega Diversified Brazilian 10,GGBR3,11.18,151.1,3.14,29.9,29.4
+Mega Diversified Brazilian 10,HYPE3,9.52,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 10,RADL3,9.25,67.3,1.6,39.5,53.2
 Mega Diversified Brazilian 10,CPFE3,8.79,193.5,2.6,43.0,42.5
+Mega Diversified Brazilian 10,VALE3,7.68,465.4,3.35,48.9,39.3
 Mega Diversified Brazilian 10,ELET6,7.14,303.6,1.83,52.3,37.4
 Mega Diversified Brazilian 10,PRIO3,5.99,284.2,1.93,62.3,45.2
 Mega Diversified Brazilian 10,BBSE3,3.82,133.4,1.99,35.4,23.7
 Mega Diversified Brazilian 10,ELET3,3.52,292.7,2.08,42.7,32.6
-Mega Diversified Brazilian 10,HYPE3,3.2,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 10,WEGE3,2.95,251.2,2.36,51.9,43.4
 Mega Diversified Brazilian 10,ALUP11,2.86,109.6,2.24,39.5,34.2
 Mega Diversified Brazilian 10,BPAC5,2.28,46.8,0.9,39.5,37.6
@@ -2196,41 +2208,46 @@ Sector Health All 20,RADL3,33.33,67.3,1.6,39.5,53.2
 Sector Health Brazilian 20,RADL3,100.0,67.3,1.6,39.5,53.2
 Sector Health International 20,JNJ,50.0,968.8,3.03,75.4,32.7
 Sector Health International 20,UNH,50.0,605.5,2.13,292.3,100.0
-Momentum All 20,BPAC3,15.8,159.5,2.08,66.8,80.5
-Momentum All 20,SO,15.8,147.8,1.94,116.5,84.3
-Momentum All 20,GGBR3,13.3,151.1,3.14,29.9,29.4
-Momentum All 20,AEP,10.7,550.8,2.73,73.3,42.2
-Momentum All 20,UNH,8.32,605.5,2.13,292.3,100.0
-Momentum All 20,KO,7.36,286.4,2.27,52.7,29.7
-Momentum All 20,AMZN,6.38,469.1,1.93,323.2,100.0
-Momentum All 20,JNJ,6.33,968.8,3.03,75.4,32.7
-Momentum All 20,INTC,4.04,872.7,2.63,84.0,46.8
-Momentum All 20,HSBC,3.24,418.4,2.31,75.4,49.5
-Momentum All 20,JPM,2.81,765.6,2.39,327.8,100.0
-Momentum All 20,GOOGL,2.03,563.1,1.87,172.6,96.1
-Momentum All 20,AAPL,1.91,819.3,2.11,121.1,66.2
-Momentum All 20,GOOG,1.66,307.0,1.63,168.7,98.2
-Momentum All 20,PRIO3,0.32,284.2,1.93,62.3,45.2
-Momentum Brazilian 20,ELET6,12.97,303.6,1.83,52.3,37.4
-Momentum Brazilian 20,ELET3,12.97,292.7,2.08,42.7,32.6
-Momentum Brazilian 20,NEOE3,12.97,89.0,1.67,27.4,23.5
-Momentum Brazilian 20,EALT3,12.97,59.5,2.97,32.3,33.0
-Momentum Brazilian 20,BRSR3,5.87,86.2,3.39,20.7,16.9
-Momentum Brazilian 20,TAEE4,5.17,63.4,2.92,16.5,15.9
-Momentum Brazilian 20,BRSR6,4.72,64.1,3.03,22.4,30.3
-Momentum Brazilian 20,RADL3,3.94,67.3,1.6,39.5,53.2
-Momentum Brazilian 20,SIMH3,3.89,62.3,1.65,52.8,69.8
-Momentum Brazilian 20,BBDC4,3.84,61.6,2.03,27.8,33.7
-Momentum Brazilian 20,GOAU4,3.49,59.3,2.63,16.2,19.5
-Momentum Brazilian 20,ALUP11,2.51,109.6,2.24,39.5,34.2
-Momentum Brazilian 20,GGBR3,2.4,151.1,3.14,29.9,29.4
-Momentum Brazilian 20,CPLE3,2.31,72.7,2.21,21.0,18.7
-Momentum Brazilian 20,WEGE3,1.98,251.2,2.36,51.9,43.4
-Momentum Brazilian 20,PRIO3,1.85,284.2,1.93,62.3,45.2
-Momentum Brazilian 20,BBSE3,1.73,133.4,1.99,35.4,23.7
-Momentum Brazilian 20,CPFE3,1.57,193.5,2.6,43.0,42.5
-Momentum Brazilian 20,BPAC3,1.5,159.5,2.08,66.8,80.5
-Momentum Brazilian 20,TAEE11,1.33,141.2,2.06,38.1,31.6
+Momentum All 20,ELET6,12.17,303.6,1.83,52.3,37.4
+Momentum All 20,ELET3,12.17,292.7,2.08,42.7,32.6
+Momentum All 20,BPAC3,9.47,159.5,2.08,66.8,80.5
+Momentum All 20,WEGE3,8.33,251.2,2.36,51.9,43.4
+Momentum All 20,GGBR3,7.76,151.1,3.14,29.9,29.4
+Momentum All 20,AEP,7.17,550.8,2.73,73.3,42.2
+Momentum All 20,SBUX,6.17,249.4,2.18,108.4,57.9
+Momentum All 20,CPFE3,5.8,193.5,2.6,43.0,42.5
+Momentum All 20,KO,4.96,286.4,2.27,52.7,29.7
+Momentum All 20,UNH,4.68,605.5,2.13,292.3,100.0
+Momentum All 20,VALE3,4.57,465.4,3.35,48.9,39.3
+Momentum All 20,JNJ,4.03,968.8,3.03,75.4,32.7
+Momentum All 20,AMZN,3.67,469.1,1.93,323.2,100.0
+Momentum All 20,INTC,2.33,872.7,2.63,84.0,46.8
+Momentum All 20,HSBC,1.76,418.4,2.31,75.4,49.5
+Momentum All 20,JPM,1.53,765.6,2.39,327.8,100.0
+Momentum All 20,GOOGL,1.16,563.1,1.87,172.6,96.1
+Momentum All 20,AAPL,1.1,819.3,2.11,121.1,66.2
+Momentum All 20,GOOG,0.95,307.0,1.63,168.7,98.2
+Momentum All 20,PRIO3,0.24,284.2,1.93,62.3,45.2
+Momentum Brazilian 20,ELET6,12.94,303.6,1.83,52.3,37.4
+Momentum Brazilian 20,ELET3,12.94,292.7,2.08,42.7,32.6
+Momentum Brazilian 20,NEOE3,12.94,89.0,1.67,27.4,23.5
+Momentum Brazilian 20,EALT3,12.94,59.5,2.97,32.3,33.0
+Momentum Brazilian 20,BRSR3,5.9,86.2,3.39,20.7,16.9
+Momentum Brazilian 20,TAEE4,5.38,63.4,2.92,16.5,15.9
+Momentum Brazilian 20,BRSR6,4.66,64.1,3.03,22.4,30.3
+Momentum Brazilian 20,RADL3,4.16,67.3,1.6,39.5,53.2
+Momentum Brazilian 20,BBDC4,4.04,61.6,2.03,27.8,33.7
+Momentum Brazilian 20,SIMH3,4.01,62.3,1.65,52.8,69.8
+Momentum Brazilian 20,GGBR3,2.82,151.1,3.14,29.9,29.4
+Momentum Brazilian 20,ALUP11,2.71,109.6,2.24,39.5,34.2
+Momentum Brazilian 20,CPLE3,2.47,72.7,2.21,21.0,18.7
+Momentum Brazilian 20,PRIO3,2.15,284.2,1.93,62.3,45.2
+Momentum Brazilian 20,WEGE3,2.07,251.2,2.36,51.9,43.4
+Momentum Brazilian 20,BBSE3,1.88,133.4,1.99,35.4,23.7
+Momentum Brazilian 20,CPFE3,1.61,193.5,2.6,43.0,42.5
+Momentum Brazilian 20,BPAC3,1.52,159.5,2.08,66.8,80.5
+Momentum Brazilian 20,VALE3,1.45,465.4,3.35,48.9,39.3
+Momentum Brazilian 20,TAEE11,1.41,141.2,2.06,38.1,31.6
 Momentum International 20,SO,10.03,147.8,1.94,116.5,84.3
 Momentum International 20,VALE,10.03,57.9,2.67,24.2,21.7
 Momentum International 20,EBR,10.03,50.8,2.52,14.0,10.1
@@ -2258,40 +2275,40 @@ Quality All 20,EBR,9.0,50.8,2.52,14.0,10.1
 Quality All 20,CIG,9.0,8.6,2.45,4.5,6.9
 Quality All 20,TASA4,9.0,50.6,2.41,16.0,17.4
 Quality All 20,BBD,9.0,21.6,2.29,8.1,10.1
-Quality All 20,TAEE4,8.45,63.4,2.92,16.5,15.9
-Quality All 20,VALE,8.19,57.9,2.67,24.2,21.7
-Quality All 20,BRSR3,6.66,86.2,3.39,20.7,16.9
-Quality All 20,GOAU4,5.3,59.3,2.63,16.2,19.5
-Quality All 20,ALUP11,3.13,109.6,2.24,39.5,34.2
-Quality All 20,GGBR3,2.98,151.1,3.14,29.9,29.4
-Quality All 20,WEGE3,2.27,251.2,2.36,51.9,43.4
-Quality All 20,AEP,2.08,550.8,2.73,73.3,42.2
-Quality All 20,CPFE3,1.63,193.5,2.6,43.0,42.5
-Quality All 20,JNJ,1.45,968.8,3.03,75.4,32.7
-Quality All 20,KO,1.41,286.4,2.27,52.7,29.7
-Quality All 20,INTC,1.01,872.7,2.63,84.0,46.8
-Quality All 20,HSBC,0.77,418.4,2.31,75.4,49.5
-Quality All 20,JPM,0.65,765.6,2.39,327.8,100.0
-Quality Brazilian 20,EALT3,12.11,59.5,2.97,32.3,33.0
-Quality Brazilian 20,TASA4,12.11,50.6,2.41,16.0,17.4
-Quality Brazilian 20,ELET3,12.11,292.7,2.08,42.7,32.6
-Quality Brazilian 20,CPLE6,12.11,51.8,1.89,16.2,11.2
-Quality Brazilian 20,SANB4,11.8,47.0,2.23,30.3,38.0
-Quality Brazilian 20,BRSR3,5.02,86.2,3.39,20.7,16.9
-Quality Brazilian 20,TAEE4,4.88,63.4,2.92,16.5,15.9
-Quality Brazilian 20,BRSR6,4.34,64.1,3.03,22.4,30.3
-Quality Brazilian 20,BBDC4,3.67,61.6,2.03,27.8,33.7
-Quality Brazilian 20,GOAU4,3.22,59.3,2.63,16.2,19.5
-Quality Brazilian 20,ITSA4,3.17,46.7,1.88,19.0,18.4
-Quality Brazilian 20,ALUP11,2.27,109.6,2.24,39.5,34.2
-Quality Brazilian 20,GGBR3,2.19,151.1,3.14,29.9,29.4
-Quality Brazilian 20,CPLE3,2.09,72.7,2.21,21.0,18.7
-Quality Brazilian 20,WEGE3,1.81,251.2,2.36,51.9,43.4
-Quality Brazilian 20,PRIO3,1.58,284.2,1.93,62.3,45.2
-Quality Brazilian 20,BBSE3,1.54,133.4,1.99,35.4,23.7
-Quality Brazilian 20,CPFE3,1.42,193.5,2.6,43.0,42.5
-Quality Brazilian 20,BPAC3,1.34,159.5,2.08,66.8,80.5
-Quality Brazilian 20,TAEE11,1.21,141.2,2.06,38.1,31.6
+Quality All 20,TAEE4,8.92,63.4,2.92,16.5,15.9
+Quality All 20,VALE,7.56,57.9,2.67,24.2,21.7
+Quality All 20,BRSR3,7.13,86.2,3.39,20.7,16.9
+Quality All 20,GOAU4,5.44,59.3,2.63,16.2,19.5
+Quality All 20,GGBR3,3.15,151.1,3.14,29.9,29.4
+Quality All 20,WEGE3,2.43,251.2,2.36,51.9,43.4
+Quality All 20,AEP,2.26,550.8,2.73,73.3,42.2
+Quality All 20,CPFE3,1.74,193.5,2.6,43.0,42.5
+Quality All 20,KO,1.66,286.4,2.27,52.7,29.7
+Quality All 20,VALE3,1.59,465.4,3.35,48.9,39.3
+Quality All 20,JNJ,1.58,968.8,3.03,75.4,32.7
+Quality All 20,INTC,1.08,872.7,2.63,84.0,46.8
+Quality All 20,HSBC,0.78,418.4,2.31,75.4,49.5
+Quality All 20,JPM,0.67,765.6,2.39,327.8,100.0
+Quality Brazilian 20,EALT3,11.89,59.5,2.97,32.3,33.0
+Quality Brazilian 20,TASA4,11.89,50.6,2.41,16.0,17.4
+Quality Brazilian 20,SANB4,11.89,47.0,2.23,30.3,38.0
+Quality Brazilian 20,ELET3,11.89,292.7,2.08,42.7,32.6
+Quality Brazilian 20,CPLE6,11.89,51.8,1.89,16.2,11.2
+Quality Brazilian 20,BRSR3,5.26,86.2,3.39,20.7,16.9
+Quality Brazilian 20,TAEE4,5.11,63.4,2.92,16.5,15.9
+Quality Brazilian 20,BRSR6,4.33,64.1,3.03,22.4,30.3
+Quality Brazilian 20,BBDC4,3.87,61.6,2.03,27.8,33.7
+Quality Brazilian 20,GOAU4,3.86,59.3,2.63,16.2,19.5
+Quality Brazilian 20,GGBR3,2.46,151.1,3.14,29.9,29.4
+Quality Brazilian 20,ALUP11,2.45,109.6,2.24,39.5,34.2
+Quality Brazilian 20,CPLE3,2.26,72.7,2.21,21.0,18.7
+Quality Brazilian 20,WEGE3,1.91,251.2,2.36,51.9,43.4
+Quality Brazilian 20,PRIO3,1.89,284.2,1.93,62.3,45.2
+Quality Brazilian 20,BBSE3,1.68,133.4,1.99,35.4,23.7
+Quality Brazilian 20,CPFE3,1.47,193.5,2.6,43.0,42.5
+Quality Brazilian 20,BPAC3,1.38,159.5,2.08,66.8,80.5
+Quality Brazilian 20,VALE3,1.31,465.4,3.35,48.9,39.3
+Quality Brazilian 20,TAEE11,1.29,141.2,2.06,38.1,31.6
 Quality International 20,VALE,10.03,57.9,2.67,24.2,21.7
 Quality International 20,EBR,10.03,50.8,2.52,14.0,10.1
 Quality International 20,CIG,10.03,8.6,2.45,4.5,6.9
@@ -2311,46 +2328,46 @@ Quality International 20,JPM,1.41,765.6,2.39,327.8,100.0
 Quality International 20,GOOGL,1.04,563.1,1.87,172.6,96.1
 Quality International 20,AAPL,0.97,819.3,2.11,121.1,66.2
 Quality International 20,GOOG,0.86,307.0,1.63,168.7,98.2
-Value All 20,ELET3,12.13,292.7,2.08,42.7,32.6
-Value All 20,ELET6,12.13,303.6,1.83,52.3,37.4
-Value All 20,BRSR3,12.13,86.2,3.39,20.7,16.9
-Value All 20,EBR,12.13,50.8,2.52,14.0,10.1
-Value All 20,BBSE3,5.53,133.4,1.99,35.4,23.7
-Value All 20,SBUX,5.49,249.4,2.18,108.4,57.9
-Value All 20,GGBR3,5.42,151.1,3.14,29.9,29.4
-Value All 20,AEP,5.3,550.8,2.73,73.3,42.2
-Value All 20,WEGE3,4.94,251.2,2.36,51.9,43.4
-Value All 20,TAEE11,4.1,141.2,2.06,38.1,31.6
-Value All 20,UNH,3.97,605.5,2.13,292.3,100.0
-Value All 20,CPFE3,3.49,193.5,2.6,43.0,42.5
-Value All 20,KO,3.26,286.4,2.27,52.7,29.7
-Value All 20,JNJ,2.97,968.8,3.03,75.4,32.7
-Value All 20,INTC,2.01,872.7,2.63,84.0,46.8
-Value All 20,HSBC,1.46,418.4,2.31,75.4,49.5
-Value All 20,JPM,1.25,765.6,2.39,327.8,100.0
+Value All 20,ELET3,12.09,292.7,2.08,42.7,32.6
+Value All 20,ELET6,12.09,303.6,1.83,52.3,37.4
+Value All 20,BRSR3,12.09,86.2,3.39,20.7,16.9
+Value All 20,EBR,12.09,50.8,2.52,14.0,10.1
+Value All 20,BBSE3,5.66,133.4,1.99,35.4,23.7
+Value All 20,AEP,5.35,550.8,2.73,73.3,42.2
+Value All 20,GGBR3,5.3,151.1,3.14,29.9,29.4
+Value All 20,SBUX,5.29,249.4,2.18,108.4,57.9
+Value All 20,WEGE3,4.9,251.2,2.36,51.9,43.4
+Value All 20,CPFE3,4.62,193.5,2.6,43.0,42.5
+Value All 20,UNH,3.68,605.5,2.13,292.3,100.0
+Value All 20,KO,3.54,286.4,2.27,52.7,29.7
+Value All 20,VALE3,3.44,465.4,3.35,48.9,39.3
+Value All 20,JNJ,2.91,968.8,3.03,75.4,32.7
+Value All 20,INTC,1.99,872.7,2.63,84.0,46.8
+Value All 20,HSBC,1.43,418.4,2.31,75.4,49.5
+Value All 20,JPM,1.2,765.6,2.39,327.8,100.0
 Value All 20,GOOGL,1.17,563.1,1.87,172.6,96.1
-Value All 20,AAPL,0.91,819.3,2.11,121.1,66.2
+Value All 20,AAPL,0.92,819.3,2.11,121.1,66.2
 Value All 20,PRIO3,0.24,284.2,1.93,62.3,45.2
-Value Brazilian 20,ELET3,11.6,292.7,2.08,42.7,32.6
-Value Brazilian 20,ELET6,11.6,303.6,1.83,52.3,37.4
-Value Brazilian 20,CPLE6,11.6,51.8,1.89,16.2,11.2
-Value Brazilian 20,NEOE3,11.6,89.0,1.67,27.4,23.5
-Value Brazilian 20,EALT3,11.6,59.5,2.97,32.3,33.0
-Value Brazilian 20,BPAN4,6.6,52.3,1.56,22.1,16.8
-Value Brazilian 20,BRSR3,4.86,86.2,3.39,20.7,16.9
-Value Brazilian 20,TAEE4,4.77,63.4,2.92,16.5,15.9
+Value Brazilian 20,ELET3,11.53,292.7,2.08,42.7,32.6
+Value Brazilian 20,ELET6,11.53,303.6,1.83,52.3,37.4
+Value Brazilian 20,CPLE6,11.53,51.8,1.89,16.2,11.2
+Value Brazilian 20,NEOE3,11.53,89.0,1.67,27.4,23.5
+Value Brazilian 20,EALT3,11.53,59.5,2.97,32.3,33.0
+Value Brazilian 20,BPAN4,6.74,52.3,1.56,22.1,16.8
+Value Brazilian 20,BRSR3,5.12,86.2,3.39,20.7,16.9
+Value Brazilian 20,TAEE4,5.01,63.4,2.92,16.5,15.9
 Value Brazilian 20,BRSR6,4.24,64.1,3.03,22.4,30.3
-Value Brazilian 20,ABEV3,3.5,45.5,1.58,21.3,15.0
-Value Brazilian 20,GOAU4,3.13,59.3,2.63,16.2,19.5
-Value Brazilian 20,ALUP11,2.15,109.6,2.24,39.5,34.2
-Value Brazilian 20,GGBR3,2.12,151.1,3.14,29.9,29.4
-Value Brazilian 20,CPLE3,2.03,72.7,2.21,21.0,18.7
-Value Brazilian 20,WEGE3,1.77,251.2,2.36,51.9,43.4
-Value Brazilian 20,PRIO3,1.52,284.2,1.93,62.3,45.2
-Value Brazilian 20,BBSE3,1.48,133.4,1.99,35.4,23.7
-Value Brazilian 20,CPFE3,1.38,193.5,2.6,43.0,42.5
-Value Brazilian 20,BPAC3,1.28,159.5,2.08,66.8,80.5
-Value Brazilian 20,TAEE11,1.18,141.2,2.06,38.1,31.6
+Value Brazilian 20,GOAU4,3.66,59.3,2.63,16.2,19.5
+Value Brazilian 20,GGBR3,2.37,151.1,3.14,29.9,29.4
+Value Brazilian 20,ALUP11,2.37,109.6,2.24,39.5,34.2
+Value Brazilian 20,CPLE3,2.21,72.7,2.21,21.0,18.7
+Value Brazilian 20,WEGE3,1.87,251.2,2.36,51.9,43.4
+Value Brazilian 20,PRIO3,1.82,284.2,1.93,62.3,45.2
+Value Brazilian 20,BBSE3,1.63,133.4,1.99,35.4,23.7
+Value Brazilian 20,CPFE3,1.43,193.5,2.6,43.0,42.5
+Value Brazilian 20,BPAC3,1.34,159.5,2.08,66.8,80.5
+Value Brazilian 20,VALE3,1.28,465.4,3.35,48.9,39.3
+Value Brazilian 20,TAEE11,1.26,141.2,2.06,38.1,31.6
 Value International 20,EBR,10.03,50.8,2.52,14.0,10.1
 Value International 20,ELP,10.03,45.3,1.63,13.7,9.8
 Value International 20,VALE,10.03,57.9,2.67,24.2,21.7
@@ -2370,41 +2387,46 @@ Value International 20,JPM,1.41,765.6,2.39,327.8,100.0
 Value International 20,GOOGL,1.04,563.1,1.87,172.6,96.1
 Value International 20,AAPL,0.97,819.3,2.11,121.1,66.2
 Value International 20,GOOG,0.86,307.0,1.63,168.7,98.2
-Growth All 20,ELET6,12.1,303.6,1.83,52.3,37.4
-Growth All 20,ELET3,12.1,292.7,2.08,42.7,32.6
-Growth All 20,BBSE3,10.35,133.4,1.99,35.4,23.7
-Growth All 20,WEGE3,7.54,251.2,2.36,51.9,43.4
-Growth All 20,AEP,7.26,550.8,2.73,73.3,42.2
-Growth All 20,SBUX,6.41,249.4,2.18,108.4,57.9
-Growth All 20,GGBR3,6.3,151.1,3.14,29.9,29.4
-Growth All 20,TAEE11,6.08,141.2,2.06,38.1,31.6
-Growth All 20,CPFE3,5.88,193.5,2.6,43.0,42.5
-Growth All 20,UNH,4.76,605.5,2.13,292.3,100.0
-Growth All 20,KO,4.56,286.4,2.27,52.7,29.7
-Growth All 20,JNJ,3.96,968.8,3.03,75.4,32.7
-Growth All 20,AMZN,3.65,469.1,1.93,323.2,100.0
-Growth All 20,INTC,2.29,872.7,2.63,84.0,46.8
-Growth All 20,HSBC,1.79,418.4,2.31,75.4,49.5
-Growth All 20,JPM,1.57,765.6,2.39,327.8,100.0
-Growth All 20,GOOGL,1.14,563.1,1.87,172.6,96.1
-Growth All 20,AAPL,1.07,819.3,2.11,121.1,66.2
-Growth All 20,GOOG,0.93,307.0,1.63,168.7,98.2
-Growth All 20,PRIO3,0.24,284.2,1.93,62.3,45.2
-Growth Brazilian 20,TASA4,20.69,50.6,2.41,16.0,17.4
-Growth Brazilian 20,BRSR3,12.04,86.2,3.39,20.7,16.9
-Growth Brazilian 20,TAEE4,10.13,63.4,2.92,16.5,15.9
-Growth Brazilian 20,GOAU4,7.51,59.3,2.63,16.2,19.5
-Growth Brazilian 20,BBDC4,7.0,61.6,2.03,27.8,33.7
-Growth Brazilian 20,GGBR3,5.44,151.1,3.14,29.9,29.4
-Growth Brazilian 20,ALUP11,5.38,109.6,2.24,39.5,34.2
-Growth Brazilian 20,CPLE3,4.99,72.7,2.21,21.0,18.7
-Growth Brazilian 20,WEGE3,4.37,251.2,2.36,51.9,43.4
-Growth Brazilian 20,PRIO3,4.34,284.2,1.93,62.3,45.2
-Growth Brazilian 20,BPAC5,4.27,46.8,0.9,39.5,37.6
-Growth Brazilian 20,BBSE3,3.81,133.4,1.99,35.4,23.7
-Growth Brazilian 20,CPFE3,3.55,193.5,2.6,43.0,42.5
-Growth Brazilian 20,BPAC3,3.5,159.5,2.08,66.8,80.5
-Growth Brazilian 20,TAEE11,2.99,141.2,2.06,38.1,31.6
+Growth All 20,ELET6,12.59,303.6,1.83,52.3,37.4
+Growth All 20,ELET3,12.59,292.7,2.08,42.7,32.6
+Growth All 20,WEGE3,8.54,251.2,2.36,51.9,43.4
+Growth All 20,GGBR3,8.02,151.1,3.14,29.9,29.4
+Growth All 20,AEP,7.45,550.8,2.73,73.3,42.2
+Growth All 20,SBUX,6.38,249.4,2.18,108.4,57.9
+Growth All 20,TAEE11,6.35,141.2,2.06,38.1,31.6
+Growth All 20,CPFE3,5.98,193.5,2.6,43.0,42.5
+Growth All 20,KO,5.14,286.4,2.27,52.7,29.7
+Growth All 20,UNH,4.85,605.5,2.13,292.3,100.0
+Growth All 20,VALE3,4.73,465.4,3.35,48.9,39.3
+Growth All 20,JNJ,4.18,968.8,3.03,75.4,32.7
+Growth All 20,AMZN,3.81,469.1,1.93,323.2,100.0
+Growth All 20,INTC,2.41,872.7,2.63,84.0,46.8
+Growth All 20,HSBC,1.82,418.4,2.31,75.4,49.5
+Growth All 20,JPM,1.58,765.6,2.39,327.8,100.0
+Growth All 20,GOOGL,1.2,563.1,1.87,172.6,96.1
+Growth All 20,AAPL,1.14,819.3,2.11,121.1,66.2
+Growth All 20,GOOG,0.99,307.0,1.63,168.7,98.2
+Growth All 20,PRIO3,0.25,284.2,1.93,62.3,45.2
+Growth Brazilian 20,ELET6,13.13,303.6,1.83,52.3,37.4
+Growth Brazilian 20,ELET3,13.13,292.7,2.08,42.7,32.6
+Growth Brazilian 20,NEOE3,13.13,89.0,1.67,27.4,23.5
+Growth Brazilian 20,TASA4,13.13,50.6,2.41,16.0,17.4
+Growth Brazilian 20,BRSR3,6.35,86.2,3.39,20.7,16.9
+Growth Brazilian 20,TAEE4,5.88,63.4,2.92,16.5,15.9
+Growth Brazilian 20,RADL3,4.26,67.3,1.6,39.5,53.2
+Growth Brazilian 20,BBDC4,3.9,61.6,2.03,27.8,33.7
+Growth Brazilian 20,GOAU4,3.74,59.3,2.63,16.2,19.5
+Growth Brazilian 20,ALUP11,2.74,109.6,2.24,39.5,34.2
+Growth Brazilian 20,GGBR3,2.74,151.1,3.14,29.9,29.4
+Growth Brazilian 20,CPLE3,2.61,72.7,2.21,21.0,18.7
+Growth Brazilian 20,PRIO3,2.46,284.2,1.93,62.3,45.2
+Growth Brazilian 20,WEGE3,2.2,251.2,2.36,51.9,43.4
+Growth Brazilian 20,BPAC5,2.09,46.8,0.9,39.5,37.6
+Growth Brazilian 20,BBSE3,1.96,133.4,1.99,35.4,23.7
+Growth Brazilian 20,CPFE3,1.76,193.5,2.6,43.0,42.5
+Growth Brazilian 20,BPAC3,1.72,159.5,2.08,66.8,80.5
+Growth Brazilian 20,VALE3,1.55,465.4,3.35,48.9,39.3
+Growth Brazilian 20,TAEE11,1.53,141.2,2.06,38.1,31.6
 Growth International 20,SO,10.03,147.8,1.94,116.5,84.3
 Growth International 20,VALE,10.03,57.9,2.67,24.2,21.7
 Growth International 20,ELP,10.03,45.3,1.63,13.7,9.8
@@ -2424,46 +2446,46 @@ Growth International 20,JPM,1.41,765.6,2.39,327.8,100.0
 Growth International 20,GOOGL,1.04,563.1,1.87,172.6,96.1
 Growth International 20,AAPL,0.97,819.3,2.11,121.1,66.2
 Growth International 20,GOOG,0.86,307.0,1.63,168.7,98.2
-High Frequency All 20,PRIO3,11.76,284.2,1.93,62.3,45.2
-High Frequency All 20,TASA4,11.76,50.6,2.41,16.0,17.4
-High Frequency All 20,BBD,11.76,21.6,2.29,8.1,10.1
-High Frequency All 20,TASA3,11.76,32.1,1.49,15.9,13.6
-High Frequency All 20,CMIG4,6.72,28.4,1.33,16.7,24.8
-High Frequency All 20,GOAU4,6.64,59.3,2.63,16.2,19.5
-High Frequency All 20,CPLE3,4.67,72.7,2.21,21.0,18.7
-High Frequency All 20,ALUP11,4.36,109.6,2.24,39.5,34.2
-High Frequency All 20,BPAC5,4.21,46.8,0.9,39.5,37.6
-High Frequency All 20,GGBR3,3.8,151.1,3.14,29.9,29.4
-High Frequency All 20,BBSE3,3.38,133.4,1.99,35.4,23.7
-High Frequency All 20,BBDC3,3.36,31.7,1.02,22.3,27.5
-High Frequency All 20,AEP,3.13,550.8,2.73,73.3,42.2
-High Frequency All 20,WEGE3,2.98,251.2,2.36,51.9,43.4
-High Frequency All 20,TAEE11,2.64,141.2,2.06,38.1,31.6
-High Frequency All 20,JNJ,1.96,968.8,3.03,75.4,32.7
-High Frequency All 20,KO,1.84,286.4,2.27,52.7,29.7
-High Frequency All 20,INTC,1.44,872.7,2.63,84.0,46.8
-High Frequency All 20,HSBC,1.22,418.4,2.31,75.4,49.5
+High Frequency All 20,PRIO3,12.11,284.2,1.93,62.3,45.2
+High Frequency All 20,TASA4,12.11,50.6,2.41,16.0,17.4
+High Frequency All 20,BBD,12.11,21.6,2.29,8.1,10.1
+High Frequency All 20,TASA3,12.11,32.1,1.49,15.9,13.6
+High Frequency All 20,GOAU4,6.23,59.3,2.63,16.2,19.5
+High Frequency All 20,CMIG4,6.16,28.4,1.33,16.7,24.8
+High Frequency All 20,CPLE3,4.57,72.7,2.21,21.0,18.7
+High Frequency All 20,ALUP11,4.06,109.6,2.24,39.5,34.2
+High Frequency All 20,BPAC5,3.95,46.8,0.9,39.5,37.6
+High Frequency All 20,GGBR3,3.79,151.1,3.14,29.9,29.4
+High Frequency All 20,BBDC3,3.17,31.7,1.02,22.3,27.5
+High Frequency All 20,BBSE3,3.15,133.4,1.99,35.4,23.7
+High Frequency All 20,WEGE3,2.99,251.2,2.36,51.9,43.4
+High Frequency All 20,AEP,2.98,550.8,2.73,73.3,42.2
+High Frequency All 20,VALE3,2.65,465.4,3.35,48.9,39.3
+High Frequency All 20,TAEE11,2.45,141.2,2.06,38.1,31.6
+High Frequency All 20,KO,1.85,286.4,2.27,52.7,29.7
+High Frequency All 20,JNJ,1.73,968.8,3.03,75.4,32.7
+High Frequency All 20,HSBC,1.2,418.4,2.31,75.4,49.5
 High Frequency All 20,AAPL,0.63,819.3,2.11,121.1,66.2
-High Frequency Brazilian 20,NEOE3,16.54,89.0,1.67,27.4,23.5
-High Frequency Brazilian 20,KLBN4,16.54,10.1,1.74,5.9,8.8
-High Frequency Brazilian 20,TASA4,9.69,50.6,2.41,16.0,17.4
-High Frequency Brazilian 20,TASA3,8.03,32.1,1.49,15.9,13.6
-High Frequency Brazilian 20,TAEE4,5.25,63.4,2.92,16.5,15.9
-High Frequency Brazilian 20,GOAU3,5.01,38.3,1.87,16.2,17.9
-High Frequency Brazilian 20,CMIG4,4.13,28.4,1.33,16.7,24.8
-High Frequency Brazilian 20,ABEV3,4.12,45.5,1.58,21.3,15.0
-High Frequency Brazilian 20,GOAU4,3.67,59.3,2.63,16.2,19.5
-High Frequency Brazilian 20,BBDC4,3.42,61.6,2.03,27.8,33.7
-High Frequency Brazilian 20,ITSA4,3.34,46.7,1.88,19.0,18.4
-High Frequency Brazilian 20,ALUP11,2.65,109.6,2.24,39.5,34.2
-High Frequency Brazilian 20,CPLE3,2.64,72.7,2.21,21.0,18.7
+High Frequency Brazilian 20,NEOE3,16.05,89.0,1.67,27.4,23.5
+High Frequency Brazilian 20,KLBN4,16.05,10.1,1.74,5.9,8.8
+High Frequency Brazilian 20,TASA4,9.47,50.6,2.41,16.0,17.4
+High Frequency Brazilian 20,TASA3,8.34,32.1,1.49,15.9,13.6
+High Frequency Brazilian 20,TAEE4,5.64,63.4,2.92,16.5,15.9
+High Frequency Brazilian 20,GOAU3,5.02,38.3,1.87,16.2,17.9
+High Frequency Brazilian 20,CMIG4,4.54,28.4,1.33,16.7,24.8
+High Frequency Brazilian 20,ABEV3,4.29,45.5,1.58,21.3,15.0
+High Frequency Brazilian 20,ITSA4,3.61,46.7,1.88,19.0,18.4
+High Frequency Brazilian 20,GOAU4,3.59,59.3,2.63,16.2,19.5
+High Frequency Brazilian 20,PRIO3,3.09,284.2,1.93,62.3,45.2
+High Frequency Brazilian 20,ALUP11,2.84,109.6,2.24,39.5,34.2
+High Frequency Brazilian 20,CPLE3,2.8,72.7,2.21,21.0,18.7
 High Frequency Brazilian 20,GGBR3,2.6,151.1,3.14,29.9,29.4
-High Frequency Brazilian 20,PRIO3,2.52,284.2,1.93,62.3,45.2
-High Frequency Brazilian 20,BBDC3,2.23,31.7,1.02,22.3,27.5
-High Frequency Brazilian 20,BPAC5,2.2,46.8,0.9,39.5,37.6
-High Frequency Brazilian 20,WEGE3,1.99,251.2,2.36,51.9,43.4
-High Frequency Brazilian 20,BBSE3,1.78,133.4,1.99,35.4,23.7
-High Frequency Brazilian 20,TAEE11,1.65,141.2,2.06,38.1,31.6
+High Frequency Brazilian 20,BBDC3,2.35,31.7,1.02,22.3,27.5
+High Frequency Brazilian 20,BPAC5,2.25,46.8,0.9,39.5,37.6
+High Frequency Brazilian 20,WEGE3,2.11,251.2,2.36,51.9,43.4
+High Frequency Brazilian 20,BBSE3,1.91,133.4,1.99,35.4,23.7
+High Frequency Brazilian 20,TAEE11,1.74,141.2,2.06,38.1,31.6
+High Frequency Brazilian 20,VALE3,1.7,465.4,3.35,48.9,39.3
 High Frequency International 20,BBD,10.03,21.6,2.29,8.1,10.1
 High Frequency International 20,ELP,10.03,45.3,1.63,13.7,9.8
 High Frequency International 20,VALE,10.03,57.9,2.67,24.2,21.7
@@ -2483,46 +2505,46 @@ High Frequency International 20,JPM,1.41,765.6,2.39,327.8,100.0
 High Frequency International 20,GOOGL,1.04,563.1,1.87,172.6,96.1
 High Frequency International 20,AAPL,0.97,819.3,2.11,121.1,66.2
 High Frequency International 20,GOOG,0.86,307.0,1.63,168.7,98.2
-Low Turnover All 20,PRIO3,11.75,284.2,1.93,62.3,45.2
-Low Turnover All 20,TASA4,11.75,50.6,2.41,16.0,17.4
-Low Turnover All 20,BBD,11.75,21.6,2.29,8.1,10.1
-Low Turnover All 20,TASA3,11.75,32.1,1.49,15.9,13.6
-Low Turnover All 20,CMIG4,6.76,28.4,1.33,16.7,24.8
-Low Turnover All 20,GOAU4,6.54,59.3,2.63,16.2,19.5
-Low Turnover All 20,CPLE3,4.69,72.7,2.21,21.0,18.7
-Low Turnover All 20,ALUP11,4.37,109.6,2.24,39.5,34.2
-Low Turnover All 20,BPAC5,4.23,46.8,0.9,39.5,37.6
-Low Turnover All 20,GGBR3,3.78,151.1,3.14,29.9,29.4
-Low Turnover All 20,BBSE3,3.39,133.4,1.99,35.4,23.7
-Low Turnover All 20,BBDC3,3.38,31.7,1.02,22.3,27.5
-Low Turnover All 20,AEP,3.11,550.8,2.73,73.3,42.2
+Low Turnover All 20,PRIO3,12.11,284.2,1.93,62.3,45.2
+Low Turnover All 20,TASA4,12.11,50.6,2.41,16.0,17.4
+Low Turnover All 20,BBD,12.11,21.6,2.29,8.1,10.1
+Low Turnover All 20,TASA3,12.11,32.1,1.49,15.9,13.6
+Low Turnover All 20,CMIG4,6.19,28.4,1.33,16.7,24.8
+Low Turnover All 20,GOAU4,6.14,59.3,2.63,16.2,19.5
+Low Turnover All 20,CPLE3,4.58,72.7,2.21,21.0,18.7
+Low Turnover All 20,ALUP11,4.07,109.6,2.24,39.5,34.2
+Low Turnover All 20,BPAC5,3.97,46.8,0.9,39.5,37.6
+Low Turnover All 20,GGBR3,3.77,151.1,3.14,29.9,29.4
+Low Turnover All 20,BBDC3,3.18,31.7,1.02,22.3,27.5
+Low Turnover All 20,BBSE3,3.17,133.4,1.99,35.4,23.7
 Low Turnover All 20,WEGE3,3.0,251.2,2.36,51.9,43.4
-Low Turnover All 20,TAEE11,2.68,141.2,2.06,38.1,31.6
-Low Turnover All 20,JNJ,1.95,968.8,3.03,75.4,32.7
+Low Turnover All 20,AEP,2.97,550.8,2.73,73.3,42.2
+Low Turnover All 20,VALE3,2.64,465.4,3.35,48.9,39.3
+Low Turnover All 20,TAEE11,2.49,141.2,2.06,38.1,31.6
 Low Turnover All 20,KO,1.83,286.4,2.27,52.7,29.7
-Low Turnover All 20,INTC,1.43,872.7,2.63,84.0,46.8
-Low Turnover All 20,HSBC,1.22,418.4,2.31,75.4,49.5
+Low Turnover All 20,JNJ,1.72,968.8,3.03,75.4,32.7
+Low Turnover All 20,HSBC,1.2,418.4,2.31,75.4,49.5
 Low Turnover All 20,AAPL,0.63,819.3,2.11,121.1,66.2
-Low Turnover Brazilian 20,NEOE3,16.54,89.0,1.67,27.4,23.5
-Low Turnover Brazilian 20,KLBN4,16.54,10.1,1.74,5.9,8.8
-Low Turnover Brazilian 20,TASA4,9.69,50.6,2.41,16.0,17.4
-Low Turnover Brazilian 20,TASA3,8.03,32.1,1.49,15.9,13.6
-Low Turnover Brazilian 20,TAEE4,5.25,63.4,2.92,16.5,15.9
-Low Turnover Brazilian 20,GOAU3,5.01,38.3,1.87,16.2,17.9
-Low Turnover Brazilian 20,CMIG4,4.13,28.4,1.33,16.7,24.8
-Low Turnover Brazilian 20,ABEV3,4.12,45.5,1.58,21.3,15.0
-Low Turnover Brazilian 20,GOAU4,3.67,59.3,2.63,16.2,19.5
-Low Turnover Brazilian 20,BBDC4,3.42,61.6,2.03,27.8,33.7
-Low Turnover Brazilian 20,ITSA4,3.34,46.7,1.88,19.0,18.4
-Low Turnover Brazilian 20,ALUP11,2.65,109.6,2.24,39.5,34.2
-Low Turnover Brazilian 20,CPLE3,2.64,72.7,2.21,21.0,18.7
+Low Turnover Brazilian 20,NEOE3,16.05,89.0,1.67,27.4,23.5
+Low Turnover Brazilian 20,KLBN4,16.05,10.1,1.74,5.9,8.8
+Low Turnover Brazilian 20,TASA4,9.47,50.6,2.41,16.0,17.4
+Low Turnover Brazilian 20,TASA3,8.34,32.1,1.49,15.9,13.6
+Low Turnover Brazilian 20,TAEE4,5.64,63.4,2.92,16.5,15.9
+Low Turnover Brazilian 20,GOAU3,5.02,38.3,1.87,16.2,17.9
+Low Turnover Brazilian 20,CMIG4,4.54,28.4,1.33,16.7,24.8
+Low Turnover Brazilian 20,ABEV3,4.29,45.5,1.58,21.3,15.0
+Low Turnover Brazilian 20,ITSA4,3.61,46.7,1.88,19.0,18.4
+Low Turnover Brazilian 20,GOAU4,3.59,59.3,2.63,16.2,19.5
+Low Turnover Brazilian 20,PRIO3,3.09,284.2,1.93,62.3,45.2
+Low Turnover Brazilian 20,ALUP11,2.84,109.6,2.24,39.5,34.2
+Low Turnover Brazilian 20,CPLE3,2.8,72.7,2.21,21.0,18.7
 Low Turnover Brazilian 20,GGBR3,2.6,151.1,3.14,29.9,29.4
-Low Turnover Brazilian 20,PRIO3,2.52,284.2,1.93,62.3,45.2
-Low Turnover Brazilian 20,BBDC3,2.23,31.7,1.02,22.3,27.5
-Low Turnover Brazilian 20,BPAC5,2.2,46.8,0.9,39.5,37.6
-Low Turnover Brazilian 20,WEGE3,1.99,251.2,2.36,51.9,43.4
-Low Turnover Brazilian 20,BBSE3,1.78,133.4,1.99,35.4,23.7
-Low Turnover Brazilian 20,TAEE11,1.65,141.2,2.06,38.1,31.6
+Low Turnover Brazilian 20,BBDC3,2.35,31.7,1.02,22.3,27.5
+Low Turnover Brazilian 20,BPAC5,2.25,46.8,0.9,39.5,37.6
+Low Turnover Brazilian 20,WEGE3,2.11,251.2,2.36,51.9,43.4
+Low Turnover Brazilian 20,BBSE3,1.91,133.4,1.99,35.4,23.7
+Low Turnover Brazilian 20,TAEE11,1.74,141.2,2.06,38.1,31.6
+Low Turnover Brazilian 20,VALE3,1.7,465.4,3.35,48.9,39.3
 Low Turnover International 20,BBD,10.32,21.6,2.29,8.1,10.1
 Low Turnover International 20,ELP,10.32,45.3,1.63,13.7,9.8
 Low Turnover International 20,VALE,10.32,57.9,2.67,24.2,21.7
@@ -2557,46 +2579,46 @@ Swing Trading International 20,EBR,31.73,50.8,2.52,14.0,10.1
 Swing Trading International 20,CIG,31.73,8.6,2.45,4.5,6.9
 Swing Trading International 20,SO,22.19,147.8,1.94,116.5,84.3
 Swing Trading International 20,UNH,14.34,605.5,2.13,292.3,100.0
-Risk Parity All 20,EALT3,8.87,59.5,2.97,32.3,33.0
-Risk Parity All 20,VALE,8.87,57.9,2.67,24.2,21.7
-Risk Parity All 20,EBR,8.87,50.8,2.52,14.0,10.1
-Risk Parity All 20,CIG,8.87,8.6,2.45,4.5,6.9
-Risk Parity All 20,TASA4,8.87,50.6,2.41,16.0,17.4
-Risk Parity All 20,BBD,8.87,21.6,2.29,8.1,10.1
-Risk Parity All 20,SANB4,8.87,47.0,2.23,30.3,38.0
-Risk Parity All 20,BRSR6,7.9,64.1,3.03,22.4,30.3
-Risk Parity All 20,BRSR3,6.12,86.2,3.39,20.7,16.9
-Risk Parity All 20,TAEE4,6.01,63.4,2.92,16.5,15.9
-Risk Parity All 20,GOAU4,4.03,59.3,2.63,16.2,19.5
-Risk Parity All 20,CPLE3,2.48,72.7,2.21,21.0,18.7
-Risk Parity All 20,GGBR3,2.29,151.1,3.14,29.9,29.4
+Risk Parity All 20,EALT3,9.93,59.5,2.97,32.3,33.0
+Risk Parity All 20,EBR,9.93,50.8,2.52,14.0,10.1
+Risk Parity All 20,CIG,9.93,8.6,2.45,4.5,6.9
+Risk Parity All 20,TASA4,9.93,50.6,2.41,16.0,17.4
+Risk Parity All 20,SANB4,9.93,47.0,2.23,30.3,38.0
+Risk Parity All 20,BBD,8.59,21.6,2.29,8.1,10.1
+Risk Parity All 20,BRSR3,6.81,86.2,3.39,20.7,16.9
+Risk Parity All 20,BRSR6,5.95,64.1,3.03,22.4,30.3
+Risk Parity All 20,VALE,5.39,57.9,2.67,24.2,21.7
+Risk Parity All 20,TAEE4,5.2,63.4,2.92,16.5,15.9
+Risk Parity All 20,GOAU4,3.81,59.3,2.63,16.2,19.5
+Risk Parity All 20,CPLE3,2.45,72.7,2.21,21.0,18.7
+Risk Parity All 20,GGBR3,2.24,151.1,3.14,29.9,29.4
 Risk Parity All 20,ALUP11,2.08,109.6,2.24,39.5,34.2
-Risk Parity All 20,WEGE3,1.73,251.2,2.36,51.9,43.4
-Risk Parity All 20,CPFE3,1.29,193.5,2.6,43.0,42.5
-Risk Parity All 20,AEP,1.26,550.8,2.73,73.3,42.2
-Risk Parity All 20,JNJ,1.02,968.8,3.03,75.4,32.7
-Risk Parity All 20,KO,0.87,286.4,2.27,52.7,29.7
-Risk Parity All 20,INTC,0.82,872.7,2.63,84.0,46.8
-Risk Parity Brazilian 20,CPLE6,11.9,51.8,1.89,16.2,11.2
-Risk Parity Brazilian 20,ELET3,11.9,292.7,2.08,42.7,32.6
-Risk Parity Brazilian 20,KLBN4,11.9,10.1,1.74,5.9,8.8
-Risk Parity Brazilian 20,TASA4,11.62,50.6,2.41,16.0,17.4
-Risk Parity Brazilian 20,EALT3,10.11,59.5,2.97,32.3,33.0
-Risk Parity Brazilian 20,SANB4,8.02,47.0,2.23,30.3,38.0
-Risk Parity Brazilian 20,BRSR3,4.65,86.2,3.39,20.7,16.9
-Risk Parity Brazilian 20,BRSR6,4.27,64.1,3.03,22.4,30.3
-Risk Parity Brazilian 20,GOAU3,3.79,38.3,1.87,16.2,17.9
-Risk Parity Brazilian 20,TAEE4,3.79,63.4,2.92,16.5,15.9
-Risk Parity Brazilian 20,BBDC4,2.71,61.6,2.03,27.8,33.7
-Risk Parity Brazilian 20,GOAU4,2.63,59.3,2.63,16.2,19.5
-Risk Parity Brazilian 20,ITSA4,2.61,46.7,1.88,19.0,18.4
-Risk Parity Brazilian 20,CPLE3,1.88,72.7,2.21,21.0,18.7
-Risk Parity Brazilian 20,GGBR3,1.76,151.1,3.14,29.9,29.4
-Risk Parity Brazilian 20,ALUP11,1.75,109.6,2.24,39.5,34.2
-Risk Parity Brazilian 20,WEGE3,1.33,251.2,2.36,51.9,43.4
-Risk Parity Brazilian 20,BBSE3,1.21,133.4,1.99,35.4,23.7
-Risk Parity Brazilian 20,CPFE3,1.13,193.5,2.6,43.0,42.5
-Risk Parity Brazilian 20,TAEE11,1.03,141.2,2.06,38.1,31.6
+Risk Parity All 20,WEGE3,1.67,251.2,2.36,51.9,43.4
+Risk Parity All 20,AEP,1.49,550.8,2.73,73.3,42.2
+Risk Parity All 20,JNJ,1.42,968.8,3.03,75.4,32.7
+Risk Parity All 20,CPFE3,1.3,193.5,2.6,43.0,42.5
+Risk Parity All 20,VALE3,1.16,465.4,3.35,48.9,39.3
+Risk Parity All 20,INTC,0.76,872.7,2.63,84.0,46.8
+Risk Parity Brazilian 20,EALT3,12.17,59.5,2.97,32.3,33.0
+Risk Parity Brazilian 20,CPLE6,12.17,51.8,1.89,16.2,11.2
+Risk Parity Brazilian 20,ELET3,12.17,292.7,2.08,42.7,32.6
+Risk Parity Brazilian 20,TASA4,11.69,50.6,2.41,16.0,17.4
+Risk Parity Brazilian 20,SANB4,10.69,47.0,2.23,30.3,38.0
+Risk Parity Brazilian 20,BRSR3,5.14,86.2,3.39,20.7,16.9
+Risk Parity Brazilian 20,BRSR6,4.64,64.1,3.03,22.4,30.3
+Risk Parity Brazilian 20,TAEE4,4.46,63.4,2.92,16.5,15.9
+Risk Parity Brazilian 20,GOAU3,4.4,38.3,1.87,16.2,17.9
+Risk Parity Brazilian 20,BBDC4,3.63,61.6,2.03,27.8,33.7
+Risk Parity Brazilian 20,ITSA4,3.15,46.7,1.88,19.0,18.4
+Risk Parity Brazilian 20,GOAU4,2.88,59.3,2.63,16.2,19.5
+Risk Parity Brazilian 20,CPLE3,2.19,72.7,2.21,21.0,18.7
+Risk Parity Brazilian 20,ALUP11,2.05,109.6,2.24,39.5,34.2
+Risk Parity Brazilian 20,GGBR3,1.98,151.1,3.14,29.9,29.4
+Risk Parity Brazilian 20,WEGE3,1.54,251.2,2.36,51.9,43.4
+Risk Parity Brazilian 20,BBSE3,1.43,133.4,1.99,35.4,23.7
+Risk Parity Brazilian 20,CPFE3,1.26,193.5,2.6,43.0,42.5
+Risk Parity Brazilian 20,TAEE11,1.19,141.2,2.06,38.1,31.6
+Risk Parity Brazilian 20,VALE3,1.18,465.4,3.35,48.9,39.3
 Risk Parity International 20,VALE,10.03,57.9,2.67,24.2,21.7
 Risk Parity International 20,EBR,10.03,50.8,2.52,14.0,10.1
 Risk Parity International 20,CIG,10.03,8.6,2.45,4.5,6.9
@@ -2643,18 +2665,18 @@ Max Sharpe Brazilian 20,BRSR6,10.88,64.1,3.03,22.4,30.3
 Max Sharpe Brazilian 20,CPLE3,10.5,72.7,2.21,21.0,18.7
 Max Sharpe Brazilian 20,CPFE3,8.79,193.5,2.6,43.0,42.5
 Max Sharpe Brazilian 20,BPAC3,8.39,159.5,2.08,66.8,80.5
-Max Sharpe Brazilian 20,EALT3,4.87,59.5,2.97,32.3,33.0
-Max Sharpe Brazilian 20,PRIO3,4.49,284.2,1.93,62.3,45.2
+Max Sharpe Brazilian 20,VALE3,7.68,465.4,3.35,48.9,39.3
 Max Sharpe Brazilian 20,BBSE3,3.82,133.4,1.99,35.4,23.7
 Max Sharpe Brazilian 20,WEGE3,2.95,251.2,2.36,51.9,43.4
 Max Sharpe Brazilian 20,ALUP11,2.86,109.6,2.24,39.5,34.2
 Max Sharpe Brazilian 20,TASA4,2.76,50.6,2.41,16.0,17.4
+Max Sharpe Brazilian 20,EALT3,1.69,59.5,2.97,32.3,33.0
 Max Sharpe Brazilian 20,TAEE11,1.0,141.2,2.06,38.1,31.6
 Max Sharpe Brazilian 20,ELET6,0.5,303.6,1.83,52.3,37.4
 Max Sharpe Brazilian 20,BBDC4,0.5,61.6,2.03,27.8,33.7
-Max Sharpe Brazilian 20,SANB4,0.5,47.0,2.23,30.3,38.0
 Max Sharpe Brazilian 20,ELET3,0.5,292.7,2.08,42.7,32.6
 Max Sharpe Brazilian 20,TAEE4,0.5,63.4,2.92,16.5,15.9
+Max Sharpe Brazilian 20,SANB4,0.5,47.0,2.23,30.3,38.0
 Max Sharpe Brazilian 20,CPLE6,0.5,51.8,1.89,16.2,11.2
 Max Sharpe International 20,KO,9.97,286.4,2.27,52.7,29.7
 Max Sharpe International 20,AEP,8.04,550.8,2.73,73.3,42.2
@@ -2697,24 +2719,24 @@ Min Variance All 20,ELET6,0.5,303.6,1.83,52.3,37.4
 Min Variance All 20,SIMH3,0.5,62.3,1.65,52.8,69.8
 Min Variance Brazilian 20,GGBR3,11.18,151.1,3.14,29.9,29.4
 Min Variance Brazilian 20,BRSR6,10.88,64.1,3.03,22.4,30.3
-Min Variance Brazilian 20,SANB4,10.71,47.0,2.23,30.3,38.0
 Min Variance Brazilian 20,SIMH3,10.61,62.3,1.65,52.8,69.8
 Min Variance Brazilian 20,EALT3,10.04,59.5,2.97,32.3,33.0
 Min Variance Brazilian 20,BBDC4,9.01,61.6,2.03,27.8,33.7
 Min Variance Brazilian 20,CPFE3,8.79,193.5,2.6,43.0,42.5
 Min Variance Brazilian 20,BPAC3,8.39,159.5,2.08,66.8,80.5
+Min Variance Brazilian 20,VALE3,7.68,465.4,3.35,48.9,39.3
+Min Variance Brazilian 20,SANB4,4.59,47.0,2.23,30.3,38.0
 Min Variance Brazilian 20,PRIO3,4.49,284.2,1.93,62.3,45.2
 Min Variance Brazilian 20,BBSE3,3.82,133.4,1.99,35.4,23.7
 Min Variance Brazilian 20,WEGE3,2.95,251.2,2.36,51.9,43.4
 Min Variance Brazilian 20,ALUP11,2.86,109.6,2.24,39.5,34.2
-Min Variance Brazilian 20,BPAC5,2.28,46.8,0.9,39.5,37.6
+Min Variance Brazilian 20,BPAC5,1.21,46.8,0.9,39.5,37.6
 Min Variance Brazilian 20,TAEE11,1.0,141.2,2.06,38.1,31.6
-Min Variance Brazilian 20,RADL3,0.5,67.3,1.6,39.5,53.2
-Min Variance Brazilian 20,HYPE3,0.5,31.8,1.0,53.4,48.9
 Min Variance Brazilian 20,ELET6,0.5,303.6,1.83,52.3,37.4
 Min Variance Brazilian 20,ELET3,0.5,292.7,2.08,42.7,32.6
+Min Variance Brazilian 20,HYPE3,0.5,31.8,1.0,53.4,48.9
 Min Variance Brazilian 20,NEOE3,0.5,89.0,1.67,27.4,23.5
-Min Variance Brazilian 20,BBDC3,0.5,31.7,1.02,22.3,27.5
+Min Variance Brazilian 20,RADL3,0.5,67.3,1.6,39.5,53.2
 Min Variance International 20,KO,9.97,286.4,2.27,52.7,29.7
 Min Variance International 20,AEP,8.04,550.8,2.73,73.3,42.2
 Min Variance International 20,JNJ,7.82,968.8,3.03,75.4,32.7
@@ -2788,10 +2810,11 @@ Concentrated All 20,JNJ,12.5,968.8,3.03,75.4,32.7
 Concentrated All 20,INTC,12.5,872.7,2.63,84.0,46.8
 Concentrated All 20,JPM,12.5,765.6,2.39,327.8,100.0
 Concentrated All 20,AAPL,12.5,819.3,2.11,121.1,66.2
+Concentrated All 20,VALE3,12.5,465.4,3.35,48.9,39.3
 Concentrated All 20,AEP,12.5,550.8,2.73,73.3,42.2
 Concentrated All 20,UNH,12.5,605.5,2.13,292.3,100.0
 Concentrated All 20,GOOGL,12.5,563.1,1.87,172.6,96.1
-Concentrated All 20,HSBC,12.5,418.4,2.31,75.4,49.5
+Concentrated Brazilian 20,VALE3,12.5,465.4,3.35,48.9,39.3
 Concentrated Brazilian 20,WEGE3,12.5,251.2,2.36,51.9,43.4
 Concentrated Brazilian 20,ELET3,12.5,292.7,2.08,42.7,32.6
 Concentrated Brazilian 20,GGBR3,12.5,151.1,3.14,29.9,29.4
@@ -2799,7 +2822,6 @@ Concentrated Brazilian 20,CPFE3,12.5,193.5,2.6,43.0,42.5
 Concentrated Brazilian 20,PRIO3,12.5,284.2,1.93,62.3,45.2
 Concentrated Brazilian 20,ELET6,12.5,303.6,1.83,52.3,37.4
 Concentrated Brazilian 20,BRSR3,12.5,86.2,3.39,20.7,16.9
-Concentrated Brazilian 20,BPAC3,12.5,159.5,2.08,66.8,80.5
 Concentrated International 20,JNJ,12.5,968.8,3.03,75.4,32.7
 Concentrated International 20,INTC,12.5,872.7,2.63,84.0,46.8
 Concentrated International 20,JPM,12.5,765.6,2.39,327.8,100.0
@@ -2809,25 +2831,25 @@ Concentrated International 20,UNH,12.5,605.5,2.13,292.3,100.0
 Concentrated International 20,GOOGL,12.5,563.1,1.87,172.6,96.1
 Concentrated International 20,HSBC,12.5,418.4,2.31,75.4,49.5
 Mega Diversified All 20,KO,9.97,286.4,2.27,52.7,29.7
+Mega Diversified All 20,VALE3,7.68,465.4,3.35,48.9,39.3
 Mega Diversified All 20,AEP,7.64,550.8,2.73,73.3,42.2
 Mega Diversified All 20,JNJ,7.43,968.8,3.03,75.4,32.7
-Mega Diversified All 20,JPM,7.0,765.6,2.39,327.8,100.0
 Mega Diversified All 20,AMZN,7.0,469.1,1.93,323.2,100.0
-Mega Diversified All 20,UNH,7.0,605.5,2.13,292.3,100.0
-Mega Diversified All 20,GOOGL,7.0,563.1,1.87,172.6,96.1
 Mega Diversified All 20,AAPL,7.0,819.3,2.11,121.1,66.2
-Mega Diversified All 20,INTC,7.0,872.7,2.63,84.0,46.8
 Mega Diversified All 20,GOOG,7.0,307.0,1.63,168.7,98.2
+Mega Diversified All 20,INTC,7.0,872.7,2.63,84.0,46.8
+Mega Diversified All 20,UNH,7.0,605.5,2.13,292.3,100.0
 Mega Diversified All 20,SO,6.71,147.8,1.94,116.5,84.3
 Mega Diversified All 20,HSBC,5.68,418.4,2.31,75.4,49.5
+Mega Diversified All 20,JPM,5.43,765.6,2.39,327.8,100.0
+Mega Diversified All 20,GOOGL,4.6,563.1,1.87,172.6,96.1
 Mega Diversified All 20,PRIO3,4.49,284.2,1.93,62.3,45.2
-Mega Diversified All 20,WEGE3,2.95,251.2,2.36,51.9,43.4
-Mega Diversified All 20,SBUX,2.43,249.4,2.18,108.4,57.9
-Mega Diversified All 20,BPAC3,1.2,159.5,2.08,66.8,80.5
+Mega Diversified All 20,WEGE3,2.36,251.2,2.36,51.9,43.4
 Mega Diversified All 20,PM,1.0,-30.7,0.96,239.5,99.9
+Mega Diversified All 20,SBUX,0.5,249.4,2.18,108.4,57.9
+Mega Diversified All 20,BPAC3,0.5,159.5,2.08,66.8,80.5
 Mega Diversified All 20,SIMH3,0.5,62.3,1.65,52.8,69.8
 Mega Diversified All 20,RADL3,0.5,67.3,1.6,39.5,53.2
-Mega Diversified All 20,HYPE3,0.5,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 20,SANB4,12.4,47.0,2.23,30.3,38.0
 Mega Diversified Brazilian 20,GGBR3,11.18,151.1,3.14,29.9,29.4
 Mega Diversified Brazilian 20,SIMH3,10.61,62.3,1.65,52.8,69.8
@@ -2835,19 +2857,19 @@ Mega Diversified Brazilian 20,CPLE3,10.5,72.7,2.21,21.0,18.7
 Mega Diversified Brazilian 20,BBDC4,9.01,61.6,2.03,27.8,33.7
 Mega Diversified Brazilian 20,CPFE3,8.79,193.5,2.6,43.0,42.5
 Mega Diversified Brazilian 20,BPAC3,8.39,159.5,2.08,66.8,80.5
-Mega Diversified Brazilian 20,CMIG4,6.12,28.4,1.33,16.7,24.8
+Mega Diversified Brazilian 20,VALE3,7.68,465.4,3.35,48.9,39.3
 Mega Diversified Brazilian 20,PRIO3,4.49,284.2,1.93,62.3,45.2
 Mega Diversified Brazilian 20,BBSE3,3.82,133.4,1.99,35.4,23.7
-Mega Diversified Brazilian 20,RADL3,3.1,67.3,1.6,39.5,53.2
 Mega Diversified Brazilian 20,WEGE3,2.95,251.2,2.36,51.9,43.4
 Mega Diversified Brazilian 20,ALUP11,2.86,109.6,2.24,39.5,34.2
 Mega Diversified Brazilian 20,BPAC5,2.28,46.8,0.9,39.5,37.6
+Mega Diversified Brazilian 20,RADL3,1.54,67.3,1.6,39.5,53.2
 Mega Diversified Brazilian 20,TAEE11,1.0,141.2,2.06,38.1,31.6
+Mega Diversified Brazilian 20,HYPE3,0.5,31.8,1.0,53.4,48.9
 Mega Diversified Brazilian 20,ELET6,0.5,303.6,1.83,52.3,37.4
 Mega Diversified Brazilian 20,BBDC3,0.5,31.7,1.02,22.3,27.5
-Mega Diversified Brazilian 20,HYPE3,0.5,31.8,1.0,53.4,48.9
-Mega Diversified Brazilian 20,ELET3,0.5,292.7,2.08,42.7,32.6
 Mega Diversified Brazilian 20,NEOE3,0.5,89.0,1.67,27.4,23.5
+Mega Diversified Brazilian 20,ELET3,0.5,292.7,2.08,42.7,32.6
 Mega Diversified International 20,KO,9.97,286.4,2.27,52.7,29.7
 Mega Diversified International 20,AEP,8.04,550.8,2.73,73.3,42.2
 Mega Diversified International 20,JNJ,7.82,968.8,3.03,75.4,32.7
