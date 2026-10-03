@@ -355,25 +355,25 @@ Low Risk All 20,BRAP4,0.93,98.1,2.1,28.2,26.2
 Low Risk All 20,VALE3,0.72,440.0,3.2,50.0,40.7
 Low Risk All 20,CPFE3,0.61,242.2,3.08,46.0,44.5
 Low Risk All 20,NEOE3,0.08,89.0,1.65,27.2,23.5
-Low Risk Brazilian 20,BPAN4,19.98,52.3,1.55,21.9,16.8
-Low Risk Brazilian 20,BRSR5,16.15,76.8,1.96,42.3,22.2
-Low Risk Brazilian 20,B3SA3,11.54,110.0,2.41,31.5,32.5
-Low Risk Brazilian 20,ELET3,8.19,292.7,2.07,42.3,32.6
-Low Risk Brazilian 20,CPLE6,8.19,51.8,1.87,16.0,11.2
-Low Risk Brazilian 20,ELET6,8.19,303.6,1.82,51.8,37.4
-Low Risk Brazilian 20,TASA4,6.46,23.5,1.84,16.8,17.6
-Low Risk Brazilian 20,USIM3,3.53,58.3,2.48,20.2,33.5
-Low Risk Brazilian 20,GOAU3,3.27,32.2,1.59,16.2,17.8
-Low Risk Brazilian 20,BBSE3,2.33,138.1,1.94,37.4,24.9
-Low Risk Brazilian 20,BRAP3,2.13,63.6,2.01,21.6,22.5
+Low Risk Brazilian 20,BPAN4,20.25,52.3,1.55,21.9,16.8
+Low Risk Brazilian 20,BRSR5,15.69,76.8,1.96,42.3,22.2
+Low Risk Brazilian 20,B3SA3,11.76,110.0,2.41,31.5,32.5
+Low Risk Brazilian 20,ELET3,8.21,292.7,2.07,42.3,32.6
+Low Risk Brazilian 20,CPLE6,8.21,51.8,1.87,16.0,11.2
+Low Risk Brazilian 20,ELET6,8.21,303.6,1.82,51.8,37.4
+Low Risk Brazilian 20,TASA4,6.6,23.5,1.84,16.8,17.6
+Low Risk Brazilian 20,USIM3,3.61,58.3,2.48,20.2,33.5
+Low Risk Brazilian 20,GOAU3,2.87,35.3,1.71,16.3,17.8
+Low Risk Brazilian 20,BBSE3,2.3,138.1,1.94,37.4,24.9
+Low Risk Brazilian 20,BRAP3,2.25,63.6,2.01,21.6,22.5
 Low Risk Brazilian 20,LEVE3,1.81,89.7,1.79,34.4,21.5
-Low Risk Brazilian 20,CPLE3,1.79,74.0,2.14,21.9,19.3
-Low Risk Brazilian 20,GGBR3,1.57,151.7,3.27,29.7,28.9
-Low Risk Brazilian 20,CPFE3,1.19,242.2,3.08,46.0,44.5
-Low Risk Brazilian 20,BRAP4,1.1,98.1,2.1,28.2,26.2
-Low Risk Brazilian 20,TAEE11,0.86,142.0,1.95,41.0,33.4
-Low Risk Brazilian 20,VALE3,0.82,440.0,3.2,50.0,40.7
-Low Risk Brazilian 20,WEGE3,0.75,246.6,2.36,51.0,43.2
+Low Risk Brazilian 20,CPLE3,1.75,74.0,2.14,21.9,19.3
+Low Risk Brazilian 20,GGBR3,1.55,151.7,3.27,29.7,28.9
+Low Risk Brazilian 20,CPFE3,1.17,242.2,3.08,46.0,44.5
+Low Risk Brazilian 20,BRAP4,1.16,98.1,2.1,28.2,26.2
+Low Risk Brazilian 20,VALE3,0.85,440.0,3.2,50.0,40.7
+Low Risk Brazilian 20,TAEE11,0.85,142.0,1.95,41.0,33.4
+Low Risk Brazilian 20,WEGE3,0.74,246.6,2.36,51.0,43.2
 Low Risk Brazilian 20,NEOE3,0.16,89.0,1.65,27.2,23.5
 Low Risk International 20,GOOGL,24.66,1158.8,2.34,131.4,80.5
 Low Risk International 20,KO,17.65,245.4,2.19,51.0,29.3
@@ -867,8 +867,8 @@ Mega Diversified All,BPAC5,1.1,122.3,1.68,40.8,38.6
 Mega Diversified All,META,0.5,-97.6,-0.71,226.7,100.0
 Mega Diversified Brazilian,GGBR3,12.5,151.7,3.27,29.7,28.9
 Mega Diversified Brazilian,BRSR5,10.6,76.8,1.96,42.3,22.2
-Mega Diversified Brazilian,TASA3,8.4,35.5,1.55,16.1,13.4
 Mega Diversified Brazilian,CPLE3,8.4,74.0,2.14,21.9,19.3
+Mega Diversified Brazilian,TASA3,8.4,35.5,1.55,16.1,13.4
 Mega Diversified Brazilian,WEGE3,8.29,246.6,2.36,51.0,43.2
 Mega Diversified Brazilian,VALE3,8.12,440.0,3.2,50.0,40.7
 Mega Diversified Brazilian,USIM3,6.85,58.3,2.48,20.2,33.5
@@ -880,16 +880,16 @@ Mega Diversified Brazilian,PRIO3,3.45,292.0,1.9,64.9,47.3
 Mega Diversified Brazilian,BRAP4,1.41,98.1,2.1,28.2,26.2
 Mega Diversified Brazilian,B3SA3,1.3,110.0,2.41,31.5,32.5
 Mega Diversified Brazilian,BPAC5,1.1,122.3,1.68,40.8,38.6
+Mega Diversified Brazilian,BBDC3,0.5,30.1,0.94,23.7,28.8
 Mega Diversified Brazilian,ELET3,0.5,292.7,2.07,42.3,32.6
 Mega Diversified Brazilian,BRAP3,0.5,63.6,2.01,21.6,22.5
-Mega Diversified Brazilian,CMIG4,0.5,24.6,1.14,17.1,25.3
-Mega Diversified Brazilian,MGLU3,0.5,35.7,2.08,46.7,67.0
-Mega Diversified Brazilian,ELET6,0.5,303.6,1.82,51.8,37.4
-Mega Diversified Brazilian,BBDC3,0.5,30.1,0.94,23.7,28.8
-Mega Diversified Brazilian,LEVE3,0.5,89.7,1.79,34.4,21.5
+Mega Diversified Brazilian,GOAU3,0.5,35.3,1.71,16.3,17.8
 Mega Diversified Brazilian,NEOE3,0.5,89.0,1.65,27.2,23.5
-Mega Diversified Brazilian,GOAU3,0.5,32.2,1.59,16.2,17.8
+Mega Diversified Brazilian,MGLU3,0.5,35.7,2.08,46.7,67.0
+Mega Diversified Brazilian,CMIG4,0.5,24.6,1.14,17.1,25.3
 Mega Diversified Brazilian,BPAN4,0.5,52.3,1.55,21.9,16.8
+Mega Diversified Brazilian,ELET6,0.5,303.6,1.82,51.8,37.4
+Mega Diversified Brazilian,LEVE3,0.5,89.7,1.79,34.4,21.5
 Mega Diversified International,MA,8.24,723.0,2.01,334.5,100.0
 Mega Diversified International,CRM,8.24,559.5,2.1,273.9,100.0
 Mega Diversified International,GOOG,8.24,813.2,2.13,131.9,81.2
@@ -985,21 +985,21 @@ Kelly All,BRAP3,2.81,63.6,2.01,21.6,22.5
 Kelly All,CMIG4,2.59,24.6,1.14,17.1,25.3
 Kelly All,B3SA3,1.01,110.0,2.41,31.5,32.5
 Kelly All,BPAC5,0.85,122.3,1.68,40.8,38.6
-Kelly Brazilian,BPAC3,10.32,163.9,2.09,69.2,81.8
-Kelly Brazilian,BPAN4,10.32,52.3,1.55,21.9,16.8
-Kelly Brazilian,BRSR5,10.32,76.8,1.96,42.3,22.2
-Kelly Brazilian,GGBR3,10.32,151.7,3.27,29.7,28.9
-Kelly Brazilian,LEVE3,10.32,89.7,1.79,34.4,21.5
-Kelly Brazilian,CPLE6,8.9,51.8,1.87,16.0,11.2
-Kelly Brazilian,MGLU3,8.69,35.7,2.08,46.7,67.0
-Kelly Brazilian,GOAU3,7.4,32.2,1.59,16.2,17.8
-Kelly Brazilian,BRAP4,7.26,98.1,2.1,28.2,26.2
-Kelly Brazilian,CPFE3,5.49,242.2,3.08,46.0,44.5
-Kelly Brazilian,BRAP3,2.99,63.6,2.01,21.6,22.5
-Kelly Brazilian,ELET3,2.91,292.7,2.07,42.3,32.6
-Kelly Brazilian,CMIG4,2.77,24.6,1.14,17.1,25.3
-Kelly Brazilian,B3SA3,1.08,110.0,2.41,31.5,32.5
-Kelly Brazilian,BPAC5,0.91,122.3,1.68,40.8,38.6
+Kelly Brazilian,BPAC3,10.26,163.9,2.09,69.2,81.8
+Kelly Brazilian,BPAN4,10.26,52.3,1.55,21.9,16.8
+Kelly Brazilian,BRSR5,10.26,76.8,1.96,42.3,22.2
+Kelly Brazilian,GGBR3,10.26,151.7,3.27,29.7,28.9
+Kelly Brazilian,LEVE3,10.26,89.7,1.79,34.4,21.5
+Kelly Brazilian,CPLE6,8.84,51.8,1.87,16.0,11.2
+Kelly Brazilian,MGLU3,8.63,35.7,2.08,46.7,67.0
+Kelly Brazilian,GOAU3,7.97,35.3,1.71,16.3,17.8
+Kelly Brazilian,BRAP4,7.21,98.1,2.1,28.2,26.2
+Kelly Brazilian,CPFE3,5.45,242.2,3.08,46.0,44.5
+Kelly Brazilian,BRAP3,2.97,63.6,2.01,21.6,22.5
+Kelly Brazilian,ELET3,2.89,292.7,2.07,42.3,32.6
+Kelly Brazilian,CMIG4,2.75,24.6,1.14,17.1,25.3
+Kelly Brazilian,B3SA3,1.07,110.0,2.41,31.5,32.5
+Kelly Brazilian,BPAC5,0.9,122.3,1.68,40.8,38.6
 Kelly International,AMZN,9.23,477.3,1.94,274.8,100.0
 Kelly International,CRM,9.23,559.5,2.1,273.9,100.0
 Kelly International,ELP,9.23,45.3,1.61,13.6,9.8
@@ -2378,26 +2378,26 @@ High Frequency All 20,BBSE3,2.85,138.1,1.94,37.4,24.9
 High Frequency All 20,WEGE3,2.52,246.6,2.36,51.0,43.2
 High Frequency All 20,TAEE11,2.26,142.0,1.95,41.0,33.4
 High Frequency All 20,NVDA,0.71,456.5,1.81,235.5,98.5
-High Frequency Brazilian 20,KLBN4,13.38,7.4,1.13,5.9,8.7
-High Frequency Brazilian 20,NEOE3,13.38,89.0,1.65,27.2,23.5
-High Frequency Brazilian 20,TASA4,13.38,23.5,1.84,16.8,17.6
-High Frequency Brazilian 20,TASA3,8.54,35.5,1.55,16.1,13.4
-High Frequency Brazilian 20,GOAU3,7.66,32.2,1.59,16.2,17.8
-High Frequency Brazilian 20,PRIO3,4.97,292.0,1.9,64.9,47.3
-High Frequency Brazilian 20,BRAP3,4.68,63.6,2.01,21.6,22.5
-High Frequency Brazilian 20,CMIG4,4.48,24.6,1.14,17.1,25.3
-High Frequency Brazilian 20,LEVE3,4.05,89.7,1.79,34.4,21.5
-High Frequency Brazilian 20,GGBR3,3.65,151.7,3.27,29.7,28.9
-High Frequency Brazilian 20,B3SA3,2.97,110.0,2.41,31.5,32.5
-High Frequency Brazilian 20,CPLE3,2.92,74.0,2.14,21.9,19.3
-High Frequency Brazilian 20,BPAC5,2.43,122.3,1.68,40.8,38.6
-High Frequency Brazilian 20,BRAP4,2.35,98.1,2.1,28.2,26.2
-High Frequency Brazilian 20,BBDC3,2.32,30.1,0.94,23.7,28.8
-High Frequency Brazilian 20,CPFE3,2.14,242.2,3.08,46.0,44.5
-High Frequency Brazilian 20,VALE3,1.83,440.0,3.2,50.0,40.7
-High Frequency Brazilian 20,WEGE3,1.7,246.6,2.36,51.0,43.2
-High Frequency Brazilian 20,BBSE3,1.7,138.1,1.94,37.4,24.9
-High Frequency Brazilian 20,TAEE11,1.48,142.0,1.95,41.0,33.4
+High Frequency Brazilian 20,KLBN4,13.43,7.4,1.13,5.9,8.7
+High Frequency Brazilian 20,NEOE3,13.43,89.0,1.65,27.2,23.5
+High Frequency Brazilian 20,TASA4,13.43,23.5,1.84,16.8,17.6
+High Frequency Brazilian 20,TASA3,8.87,35.5,1.55,16.1,13.4
+High Frequency Brazilian 20,GOAU3,6.81,35.3,1.71,16.3,17.8
+High Frequency Brazilian 20,PRIO3,5.01,292.0,1.9,64.9,47.3
+High Frequency Brazilian 20,BRAP3,4.72,63.6,2.01,21.6,22.5
+High Frequency Brazilian 20,CMIG4,4.53,24.6,1.14,17.1,25.3
+High Frequency Brazilian 20,LEVE3,4.1,89.7,1.79,34.4,21.5
+High Frequency Brazilian 20,GGBR3,3.63,151.7,3.27,29.7,28.9
+High Frequency Brazilian 20,B3SA3,2.99,110.0,2.41,31.5,32.5
+High Frequency Brazilian 20,CPLE3,2.95,74.0,2.14,21.9,19.3
+High Frequency Brazilian 20,BPAC5,2.45,122.3,1.68,40.8,38.6
+High Frequency Brazilian 20,BRAP4,2.37,98.1,2.1,28.2,26.2
+High Frequency Brazilian 20,BBDC3,2.33,30.1,0.94,23.7,28.8
+High Frequency Brazilian 20,CPFE3,2.16,242.2,3.08,46.0,44.5
+High Frequency Brazilian 20,VALE3,1.84,440.0,3.2,50.0,40.7
+High Frequency Brazilian 20,WEGE3,1.72,246.6,2.36,51.0,43.2
+High Frequency Brazilian 20,BBSE3,1.71,138.1,1.94,37.4,24.9
+High Frequency Brazilian 20,TAEE11,1.5,142.0,1.95,41.0,33.4
 High Frequency International 20,ELP,15.87,45.3,1.61,13.6,9.8
 High Frequency International 20,EBR,15.87,50.8,2.5,13.9,10.1
 High Frequency International 20,KO,9.71,245.4,2.19,51.0,29.3
@@ -2435,26 +2435,26 @@ Low Turnover All 20,BBSE3,2.86,138.1,1.94,37.4,24.9
 Low Turnover All 20,WEGE3,2.52,246.6,2.36,51.0,43.2
 Low Turnover All 20,TAEE11,2.3,142.0,1.95,41.0,33.4
 Low Turnover All 20,NVDA,0.7,456.5,1.81,235.5,98.5
-Low Turnover Brazilian 20,KLBN4,13.51,7.4,1.13,5.9,8.7
-Low Turnover Brazilian 20,NEOE3,13.51,89.0,1.65,27.2,23.5
-Low Turnover Brazilian 20,TASA4,13.51,23.5,1.84,16.8,17.6
+Low Turnover Brazilian 20,KLBN4,13.87,7.4,1.13,5.9,8.7
+Low Turnover Brazilian 20,NEOE3,13.87,89.0,1.65,27.2,23.5
+Low Turnover Brazilian 20,TASA4,13.87,23.5,1.84,16.8,17.6
 Low Turnover Brazilian 20,TASA3,8.35,35.5,1.55,16.1,13.4
-Low Turnover Brazilian 20,GOAU3,7.58,32.2,1.59,16.2,17.8
-Low Turnover Brazilian 20,PRIO3,4.91,292.0,1.9,64.9,47.3
-Low Turnover Brazilian 20,BRAP3,4.73,63.6,2.01,21.6,22.5
-Low Turnover Brazilian 20,CMIG4,4.46,24.6,1.14,17.1,25.3
+Low Turnover Brazilian 20,GOAU3,6.14,35.3,1.71,16.3,17.8
+Low Turnover Brazilian 20,BRAP3,4.9,63.6,2.01,21.6,22.5
+Low Turnover Brazilian 20,PRIO3,4.83,292.0,1.9,64.9,47.3
+Low Turnover Brazilian 20,CMIG4,4.63,24.6,1.14,17.1,25.3
 Low Turnover Brazilian 20,LEVE3,4.02,89.7,1.79,34.4,21.5
-Low Turnover Brazilian 20,GGBR3,3.64,151.7,3.27,29.7,28.9
-Low Turnover Brazilian 20,B3SA3,2.96,110.0,2.41,31.5,32.5
-Low Turnover Brazilian 20,CPLE3,2.88,74.0,2.14,21.9,19.3
-Low Turnover Brazilian 20,BPAC5,2.42,122.3,1.68,40.8,38.6
-Low Turnover Brazilian 20,BRAP4,2.41,98.1,2.1,28.2,26.2
-Low Turnover Brazilian 20,BBDC3,2.31,30.1,0.94,23.7,28.8
+Low Turnover Brazilian 20,GGBR3,3.53,151.7,3.27,29.7,28.9
+Low Turnover Brazilian 20,B3SA3,2.97,110.0,2.41,31.5,32.5
+Low Turnover Brazilian 20,CPLE3,2.86,74.0,2.14,21.9,19.3
+Low Turnover Brazilian 20,BRAP4,2.57,98.1,2.1,28.2,26.2
+Low Turnover Brazilian 20,BPAC5,2.41,122.3,1.68,40.8,38.6
+Low Turnover Brazilian 20,BBDC3,2.32,30.1,0.94,23.7,28.8
 Low Turnover Brazilian 20,CPFE3,2.12,242.2,3.08,46.0,44.5
-Low Turnover Brazilian 20,VALE3,1.85,440.0,3.2,50.0,40.7
-Low Turnover Brazilian 20,WEGE3,1.69,246.6,2.36,51.0,43.2
-Low Turnover Brazilian 20,BBSE3,1.68,138.1,1.94,37.4,24.9
-Low Turnover Brazilian 20,TAEE11,1.47,142.0,1.95,41.0,33.4
+Low Turnover Brazilian 20,VALE3,1.92,440.0,3.2,50.0,40.7
+Low Turnover Brazilian 20,WEGE3,1.67,246.6,2.36,51.0,43.2
+Low Turnover Brazilian 20,BBSE3,1.67,138.1,1.94,37.4,24.9
+Low Turnover Brazilian 20,TAEE11,1.48,142.0,1.95,41.0,33.4
 Low Turnover International 20,ELP,11.88,45.3,1.61,13.6,9.8
 Low Turnover International 20,DUK,11.88,145.8,1.75,121.7,82.5
 Low Turnover International 20,EBR,11.88,50.8,2.5,13.9,10.1
@@ -2501,26 +2501,26 @@ Risk Parity All 20,BBSE3,1.76,138.1,1.94,37.4,24.9
 Risk Parity All 20,WEGE3,1.54,246.6,2.36,51.0,43.2
 Risk Parity All 20,JNJ,1.43,673.5,3.08,62.0,32.8
 Risk Parity All 20,GOOGL,0.78,1158.8,2.34,131.4,80.5
-Risk Parity Brazilian 20,CPLE6,11.1,51.8,1.87,16.0,11.2
-Risk Parity Brazilian 20,ELET3,11.1,292.7,2.07,42.3,32.6
-Risk Parity Brazilian 20,MGLU3,11.1,35.7,2.08,46.7,67.0
-Risk Parity Brazilian 20,TASA4,11.1,23.5,1.84,16.8,17.6
-Risk Parity Brazilian 20,ELET6,11.1,303.6,1.82,51.8,37.4
-Risk Parity Brazilian 20,BRSR5,8.32,76.8,1.96,42.3,22.2
-Risk Parity Brazilian 20,USIM3,6.48,58.3,2.48,20.2,33.5
-Risk Parity Brazilian 20,BRAP3,4.37,63.6,2.01,21.6,22.5
-Risk Parity Brazilian 20,LEVE3,3.44,89.7,1.79,34.4,21.5
-Risk Parity Brazilian 20,GGBR3,2.96,151.7,3.27,29.7,28.9
-Risk Parity Brazilian 20,PRIO3,2.75,292.0,1.9,64.9,47.3
-Risk Parity Brazilian 20,CPLE3,2.42,74.0,2.14,21.9,19.3
-Risk Parity Brazilian 20,B3SA3,2.31,110.0,2.41,31.5,32.5
-Risk Parity Brazilian 20,BRAP4,2.29,98.1,2.1,28.2,26.2
-Risk Parity Brazilian 20,BPAC3,1.72,163.9,2.09,69.2,81.8
-Risk Parity Brazilian 20,CPFE3,1.71,242.2,3.08,46.0,44.5
-Risk Parity Brazilian 20,VALE3,1.6,440.0,3.2,50.0,40.7
-Risk Parity Brazilian 20,WEGE3,1.47,246.6,2.36,51.0,43.2
-Risk Parity Brazilian 20,BBSE3,1.42,138.1,1.94,37.4,24.9
-Risk Parity Brazilian 20,TAEE11,1.23,142.0,1.95,41.0,33.4
+Risk Parity Brazilian 20,CPLE6,10.69,51.8,1.87,16.0,11.2
+Risk Parity Brazilian 20,ELET3,10.69,292.7,2.07,42.3,32.6
+Risk Parity Brazilian 20,MGLU3,10.69,35.7,2.08,46.7,67.0
+Risk Parity Brazilian 20,TASA4,10.69,23.5,1.84,16.8,17.6
+Risk Parity Brazilian 20,ELET6,10.69,303.6,1.82,51.8,37.4
+Risk Parity Brazilian 20,BRSR5,8.94,76.8,1.96,42.3,22.2
+Risk Parity Brazilian 20,USIM3,6.12,58.3,2.48,20.2,33.5
+Risk Parity Brazilian 20,GOAU3,5.63,35.3,1.71,16.3,17.8
+Risk Parity Brazilian 20,BRAP3,4.13,63.6,2.01,21.6,22.5
+Risk Parity Brazilian 20,LEVE3,3.27,89.7,1.79,34.4,21.5
+Risk Parity Brazilian 20,GGBR3,2.83,151.7,3.27,29.7,28.9
+Risk Parity Brazilian 20,CPLE3,2.45,74.0,2.14,21.9,19.3
+Risk Parity Brazilian 20,B3SA3,2.25,110.0,2.41,31.5,32.5
+Risk Parity Brazilian 20,BRAP4,2.04,98.1,2.1,28.2,26.2
+Risk Parity Brazilian 20,BPAC3,1.85,163.9,2.09,69.2,81.8
+Risk Parity Brazilian 20,CPFE3,1.65,242.2,3.08,46.0,44.5
+Risk Parity Brazilian 20,VALE3,1.48,440.0,3.2,50.0,40.7
+Risk Parity Brazilian 20,WEGE3,1.38,246.6,2.36,51.0,43.2
+Risk Parity Brazilian 20,BBSE3,1.37,138.1,1.94,37.4,24.9
+Risk Parity Brazilian 20,TAEE11,1.17,142.0,1.95,41.0,33.4
 Risk Parity International 20,ELP,16.66,45.3,1.61,13.6,9.8
 Risk Parity International 20,EBR,15.24,50.8,2.5,13.9,10.1
 Risk Parity International 20,KO,9.67,245.4,2.19,51.0,29.3
@@ -2668,24 +2668,24 @@ Max Diversification All 20,AEP,1.85,268.7,2.15,65.3,46.7
 Max Diversification All 20,CPFE3,1.8,242.2,3.08,46.0,44.5
 Max Diversification All 20,AMZN,1.61,477.3,1.94,274.8,100.0
 Max Diversification All 20,CRM,0.94,559.5,2.1,273.9,100.0
-Max Diversification Brazilian 20,BPAN4,11.6,52.3,1.55,21.9,16.8
-Max Diversification Brazilian 20,CPLE6,11.6,51.8,1.87,16.0,11.2
-Max Diversification Brazilian 20,ELET3,11.6,292.7,2.07,42.3,32.6
-Max Diversification Brazilian 20,ELET6,11.6,303.6,1.82,51.8,37.4
-Max Diversification Brazilian 20,KLBN4,11.6,7.4,1.13,5.9,8.7
-Max Diversification Brazilian 20,MGLU3,8.05,35.7,2.08,46.7,67.0
-Max Diversification Brazilian 20,BRSR5,5.04,76.8,1.96,42.3,22.2
-Max Diversification Brazilian 20,GOAU3,3.85,32.2,1.59,16.2,17.8
+Max Diversification Brazilian 20,BPAN4,11.63,52.3,1.55,21.9,16.8
+Max Diversification Brazilian 20,CPLE6,11.63,51.8,1.87,16.0,11.2
+Max Diversification Brazilian 20,ELET3,11.63,292.7,2.07,42.3,32.6
+Max Diversification Brazilian 20,ELET6,11.63,303.6,1.82,51.8,37.4
+Max Diversification Brazilian 20,KLBN4,11.63,7.4,1.13,5.9,8.7
+Max Diversification Brazilian 20,MGLU3,8.09,35.7,2.08,46.7,67.0
+Max Diversification Brazilian 20,BRSR5,4.98,76.8,1.96,42.3,22.2
 Max Diversification Brazilian 20,BRAP3,3.71,63.6,2.01,21.6,22.5
-Max Diversification Brazilian 20,CMIG4,3.28,24.6,1.14,17.1,25.3
-Max Diversification Brazilian 20,LEVE3,2.88,89.7,1.79,34.4,21.5
-Max Diversification Brazilian 20,GGBR3,2.18,151.7,3.27,29.7,28.9
+Max Diversification Brazilian 20,GOAU3,3.62,35.3,1.71,16.3,17.8
+Max Diversification Brazilian 20,CMIG4,3.3,24.6,1.14,17.1,25.3
+Max Diversification Brazilian 20,LEVE3,2.89,89.7,1.79,34.4,21.5
+Max Diversification Brazilian 20,GGBR3,2.16,151.7,3.27,29.7,28.9
 Max Diversification Brazilian 20,CPLE3,2.07,74.0,2.14,21.9,19.3
 Max Diversification Brazilian 20,B3SA3,2.05,110.0,2.41,31.5,32.5
-Max Diversification Brazilian 20,BRAP4,1.87,98.1,2.1,28.2,26.2
-Max Diversification Brazilian 20,BBDC3,1.58,30.1,0.94,23.7,28.8
-Max Diversification Brazilian 20,BPAC3,1.45,163.9,2.09,69.2,81.8
-Max Diversification Brazilian 20,BPAC5,1.43,122.3,1.68,40.8,38.6
+Max Diversification Brazilian 20,BRAP4,1.88,98.1,2.1,28.2,26.2
+Max Diversification Brazilian 20,BBDC3,1.6,30.1,0.94,23.7,28.8
+Max Diversification Brazilian 20,BPAC3,1.46,163.9,2.09,69.2,81.8
+Max Diversification Brazilian 20,BPAC5,1.44,122.3,1.68,40.8,38.6
 Max Diversification Brazilian 20,CPFE3,1.42,242.2,3.08,46.0,44.5
 Max Diversification Brazilian 20,BBSE3,1.15,138.1,1.94,37.4,24.9
 Max Diversification International 20,ELP,16.66,45.3,1.61,13.6,9.8
@@ -2805,19 +2805,19 @@ Barbell All 20,TSLA,0.77,439.4,1.78,382.2,100.0
 Barbell All 20,GOOG,0.75,813.2,2.13,131.9,81.2
 Barbell All 20,NVDA,0.58,456.5,1.81,235.5,98.5
 Barbell All 20,PRIO3,0.19,292.0,1.9,64.9,47.3
-Barbell Brazilian 20,MGLU3,12.83,35.7,2.08,46.7,67.0
-Barbell Brazilian 20,NEOE3,12.83,89.0,1.65,27.2,23.5
-Barbell Brazilian 20,BPAN4,12.83,52.3,1.55,21.9,16.8
-Barbell Brazilian 20,CPLE6,12.83,51.8,1.87,16.0,11.2
-Barbell Brazilian 20,GOAU3,10.06,32.2,1.59,16.2,17.8
-Barbell Brazilian 20,USIM3,9.54,58.3,2.48,20.2,33.5
-Barbell Brazilian 20,BRAP3,6.57,63.6,2.01,21.6,22.5
-Barbell Brazilian 20,TASA3,6.42,35.5,1.55,16.1,13.4
-Barbell Brazilian 20,LEVE3,6.11,89.7,1.79,34.4,21.5
-Barbell Brazilian 20,BRAP4,3.72,98.1,2.1,28.2,26.2
-Barbell Brazilian 20,CPLE3,3.1,74.0,2.14,21.9,19.3
-Barbell Brazilian 20,BPAC3,1.64,163.9,2.09,69.2,81.8
-Barbell Brazilian 20,PRIO3,1.51,292.0,1.9,64.9,47.3
+Barbell Brazilian 20,MGLU3,12.93,35.7,2.08,46.7,67.0
+Barbell Brazilian 20,NEOE3,12.93,89.0,1.65,27.2,23.5
+Barbell Brazilian 20,BPAN4,12.93,52.3,1.55,21.9,16.8
+Barbell Brazilian 20,CPLE6,12.93,51.8,1.87,16.0,11.2
+Barbell Brazilian 20,USIM3,9.61,58.3,2.48,20.2,33.5
+Barbell Brazilian 20,GOAU3,9.3,35.3,1.71,16.3,17.8
+Barbell Brazilian 20,BRAP3,6.63,63.6,2.01,21.6,22.5
+Barbell Brazilian 20,TASA3,6.49,35.5,1.55,16.1,13.4
+Barbell Brazilian 20,LEVE3,6.15,89.7,1.79,34.4,21.5
+Barbell Brazilian 20,BRAP4,3.75,98.1,2.1,28.2,26.2
+Barbell Brazilian 20,CPLE3,3.13,74.0,2.14,21.9,19.3
+Barbell Brazilian 20,BPAC3,1.67,163.9,2.09,69.2,81.8
+Barbell Brazilian 20,PRIO3,1.53,292.0,1.9,64.9,47.3
 Barbell International 20,AEP,13.59,268.7,2.15,65.3,46.7
 Barbell International 20,DUK,13.59,145.8,1.75,121.7,82.5
 Barbell International 20,VALE,13.59,54.5,1.64,24.3,23.7
@@ -2851,24 +2851,24 @@ Inverse Vol All 20,BPAC3,2.31,163.9,2.09,69.2,81.8
 Inverse Vol All 20,DUK,1.32,145.8,1.75,121.7,82.5
 Inverse Vol All 20,CRM,0.58,559.5,2.1,273.9,100.0
 Inverse Vol All 20,AMZN,0.58,477.3,1.94,274.8,100.0
-Inverse Vol Brazilian 20,KLBN4,20.21,7.4,1.13,5.9,8.7
-Inverse Vol Brazilian 20,CPLE6,7.45,51.8,1.87,16.0,11.2
-Inverse Vol Brazilian 20,GOAU3,7.39,32.2,1.59,16.2,17.8
+Inverse Vol Brazilian 20,KLBN4,20.22,7.4,1.13,5.9,8.7
+Inverse Vol Brazilian 20,CPLE6,7.46,51.8,1.87,16.0,11.2
+Inverse Vol Brazilian 20,GOAU3,7.35,35.3,1.71,16.3,17.8
 Inverse Vol Brazilian 20,CMIG4,6.99,24.6,1.14,17.1,25.3
 Inverse Vol Brazilian 20,BRAP3,5.53,63.6,2.01,21.6,22.5
-Inverse Vol Brazilian 20,CPLE3,5.45,74.0,2.14,21.9,19.3
-Inverse Vol Brazilian 20,BPAN4,5.44,52.3,1.55,21.9,16.8
+Inverse Vol Brazilian 20,CPLE3,5.46,74.0,2.14,21.9,19.3
+Inverse Vol Brazilian 20,BPAN4,5.45,52.3,1.55,21.9,16.8
 Inverse Vol Brazilian 20,BBDC3,5.05,30.1,0.94,23.7,28.8
 Inverse Vol Brazilian 20,BRAP4,4.24,98.1,2.1,28.2,26.2
 Inverse Vol Brazilian 20,GGBR3,4.03,151.7,3.27,29.7,28.9
-Inverse Vol Brazilian 20,B3SA3,3.79,110.0,2.41,31.5,32.5
-Inverse Vol Brazilian 20,LEVE3,3.47,89.7,1.79,34.4,21.5
+Inverse Vol Brazilian 20,B3SA3,3.8,110.0,2.41,31.5,32.5
+Inverse Vol Brazilian 20,LEVE3,3.48,89.7,1.79,34.4,21.5
 Inverse Vol Brazilian 20,BBSE3,3.2,138.1,1.94,37.4,24.9
-Inverse Vol Brazilian 20,BPAC5,2.92,122.3,1.68,40.8,38.6
+Inverse Vol Brazilian 20,BPAC5,2.93,122.3,1.68,40.8,38.6
 Inverse Vol Brazilian 20,BRSR5,2.83,76.8,1.96,42.3,22.2
 Inverse Vol Brazilian 20,ELET3,2.82,292.7,2.07,42.3,32.6
 Inverse Vol Brazilian 20,CPFE3,2.6,242.2,3.08,46.0,44.5
-Inverse Vol Brazilian 20,MGLU3,2.55,35.7,2.08,46.7,67.0
+Inverse Vol Brazilian 20,MGLU3,2.56,35.7,2.08,46.7,67.0
 Inverse Vol Brazilian 20,ELET6,2.3,303.6,1.82,51.8,37.4
 Inverse Vol Brazilian 20,BPAC3,1.73,163.9,2.09,69.2,81.8
 Inverse Vol International 20,ELP,25.45,45.3,1.61,13.6,9.8
@@ -2888,45 +2888,45 @@ Inverse Vol International 20,AMZN,1.26,477.3,1.94,274.8,100.0
 Inverse Vol International 20,MA,1.03,723.0,2.01,334.5,100.0
 Inverse Vol International 20,JPM,0.97,657.1,2.1,355.5,100.0
 Inverse Vol International 20,TSLA,0.9,439.4,1.78,382.2,100.0
-Kelly All 20,AMZN,7.13,477.3,1.94,274.8,100.0
-Kelly All 20,BPAC3,7.13,163.9,2.09,69.2,81.8
-Kelly All 20,BPAN4,7.13,52.3,1.55,21.9,16.8
-Kelly All 20,BRSR5,7.13,76.8,1.96,42.3,22.2
-Kelly All 20,CRM,7.13,559.5,2.1,273.9,100.0
-Kelly All 20,ELP,7.13,45.3,1.61,13.6,9.8
-Kelly All 20,GGBR3,7.13,151.7,3.27,29.7,28.9
-Kelly All 20,AEP,6.43,268.7,2.15,65.3,46.7
-Kelly All 20,CPLE6,6.14,51.8,1.87,16.0,11.2
-Kelly All 20,EBR,5.98,50.8,2.5,13.9,10.1
-Kelly All 20,DUK,5.33,145.8,1.75,121.7,82.5
-Kelly All 20,GOAU3,5.11,32.2,1.59,16.2,17.8
-Kelly All 20,BRAP4,5.01,98.1,2.1,28.2,26.2
-Kelly All 20,GOOG,4.92,813.2,2.13,131.9,81.2
-Kelly All 20,CPFE3,3.79,242.2,3.08,46.0,44.5
-Kelly All 20,BRAP3,2.07,63.6,2.01,21.6,22.5
-Kelly All 20,ELET3,2.01,292.7,2.07,42.3,32.6
-Kelly All 20,CMIG4,1.91,24.6,1.14,17.1,25.3
+Kelly All 20,AMZN,7.1,477.3,1.94,274.8,100.0
+Kelly All 20,BPAC3,7.1,163.9,2.09,69.2,81.8
+Kelly All 20,BPAN4,7.1,52.3,1.55,21.9,16.8
+Kelly All 20,BRSR5,7.1,76.8,1.96,42.3,22.2
+Kelly All 20,CRM,7.1,559.5,2.1,273.9,100.0
+Kelly All 20,ELP,7.1,45.3,1.61,13.6,9.8
+Kelly All 20,GGBR3,7.1,151.7,3.27,29.7,28.9
+Kelly All 20,AEP,6.4,268.7,2.15,65.3,46.7
+Kelly All 20,CPLE6,6.12,51.8,1.87,16.0,11.2
+Kelly All 20,EBR,5.96,50.8,2.5,13.9,10.1
+Kelly All 20,GOAU3,5.51,35.3,1.71,16.3,17.8
+Kelly All 20,DUK,5.31,145.8,1.75,121.7,82.5
+Kelly All 20,BRAP4,4.99,98.1,2.1,28.2,26.2
+Kelly All 20,GOOG,4.9,813.2,2.13,131.9,81.2
+Kelly All 20,CPFE3,3.77,242.2,3.08,46.0,44.5
+Kelly All 20,BRAP3,2.06,63.6,2.01,21.6,22.5
+Kelly All 20,ELET3,2.0,292.7,2.07,42.3,32.6
+Kelly All 20,CMIG4,1.9,24.6,1.14,17.1,25.3
 Kelly All 20,B3SA3,0.74,110.0,2.41,31.5,32.5
 Kelly All 20,BPAC5,0.63,122.3,1.68,40.8,38.6
-Kelly Brazilian 20,BPAC3,8.34,163.9,2.09,69.2,81.8
-Kelly Brazilian 20,BPAN4,8.34,52.3,1.55,21.9,16.8
-Kelly Brazilian 20,BRSR5,8.34,76.8,1.96,42.3,22.2
-Kelly Brazilian 20,GGBR3,8.34,151.7,3.27,29.7,28.9
-Kelly Brazilian 20,LEVE3,8.34,89.7,1.79,34.4,21.5
-Kelly Brazilian 20,CPLE6,7.19,51.8,1.87,16.0,11.2
-Kelly Brazilian 20,MGLU3,7.02,35.7,2.08,46.7,67.0
-Kelly Brazilian 20,GOAU3,5.98,32.2,1.59,16.2,17.8
-Kelly Brazilian 20,BRAP4,5.86,98.1,2.1,28.2,26.2
-Kelly Brazilian 20,WEGE3,5.54,246.6,2.36,51.0,43.2
-Kelly Brazilian 20,VALE3,5.42,440.0,3.2,50.0,40.7
-Kelly Brazilian 20,USIM3,4.57,58.3,2.48,20.2,33.5
-Kelly Brazilian 20,CPFE3,4.43,242.2,3.08,46.0,44.5
-Kelly Brazilian 20,TASA4,3.66,23.5,1.84,16.8,17.6
-Kelly Brazilian 20,BRAP3,2.42,63.6,2.01,21.6,22.5
-Kelly Brazilian 20,ELET3,2.35,292.7,2.07,42.3,32.6
-Kelly Brazilian 20,CMIG4,2.24,24.6,1.14,17.1,25.3
+Kelly Brazilian 20,BPAC3,8.3,163.9,2.09,69.2,81.8
+Kelly Brazilian 20,BPAN4,8.3,52.3,1.55,21.9,16.8
+Kelly Brazilian 20,BRSR5,8.3,76.8,1.96,42.3,22.2
+Kelly Brazilian 20,GGBR3,8.3,151.7,3.27,29.7,28.9
+Kelly Brazilian 20,LEVE3,8.3,89.7,1.79,34.4,21.5
+Kelly Brazilian 20,CPLE6,7.15,51.8,1.87,16.0,11.2
+Kelly Brazilian 20,MGLU3,6.99,35.7,2.08,46.7,67.0
+Kelly Brazilian 20,GOAU3,6.44,35.3,1.71,16.3,17.8
+Kelly Brazilian 20,BRAP4,5.84,98.1,2.1,28.2,26.2
+Kelly Brazilian 20,WEGE3,5.51,246.6,2.36,51.0,43.2
+Kelly Brazilian 20,VALE3,5.39,440.0,3.2,50.0,40.7
+Kelly Brazilian 20,USIM3,4.55,58.3,2.48,20.2,33.5
+Kelly Brazilian 20,CPFE3,4.41,242.2,3.08,46.0,44.5
+Kelly Brazilian 20,TASA4,3.65,23.5,1.84,16.8,17.6
+Kelly Brazilian 20,BRAP3,2.41,63.6,2.01,21.6,22.5
+Kelly Brazilian 20,ELET3,2.34,292.7,2.07,42.3,32.6
+Kelly Brazilian 20,CMIG4,2.23,24.6,1.14,17.1,25.3
 Kelly Brazilian 20,B3SA3,0.87,110.0,2.41,31.5,32.5
-Kelly Brazilian 20,BPAC5,0.74,122.3,1.68,40.8,38.6
+Kelly Brazilian 20,BPAC5,0.73,122.3,1.68,40.8,38.6
 Kelly International 20,AMZN,8.04,477.3,1.94,274.8,100.0
 Kelly International 20,CRM,8.04,559.5,2.1,273.9,100.0
 Kelly International 20,ELP,8.04,45.3,1.61,13.6,9.8
