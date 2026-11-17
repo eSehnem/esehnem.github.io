@@ -652,9 +652,9 @@ Risk Parity International,JNJ,2.76,112.9,1.71,64.5,65.7
 Max Sharpe All,BPAC5,12.85,33.2,1.02,29.1,46.6
 Max Sharpe All,ALUP3,11.17,16.0,1.49,16.0,27.1
 Max Sharpe All,AAPL,9.33,963.2,3.8,98.9,95.6
-Max Sharpe All,BABA,9.33,65.2,1.32,126.3,97.4
 Max Sharpe All,ADBE,9.33,268.4,2.21,171.2,100.0
 Max Sharpe All,AMD,9.33,833.3,3.1,115.4,95.0
+Max Sharpe All,BABA,9.33,65.2,1.32,126.3,97.4
 Max Sharpe All,BPAC11,8.98,23.5,0.93,58.4,78.3
 Max Sharpe All,BRAP3,6.94,2.9,1.68,13.6,39.9
 Max Sharpe All,BAC,5.71,43.3,1.59,24.3,62.0
@@ -672,9 +672,9 @@ Max Sharpe Brazilian,CMIG3,7.87,37.9,2.63,13.3,20.7
 Max Sharpe Brazilian,CSMG3,6.7,52.3,2.43,55.7,69.4
 Max Sharpe Brazilian,CPLE3,4.27,3.4,0.38,12.5,27.9
 Max Sharpe Brazilian,CPFE3,2.53,10.3,0.78,38.7,61.6
+Max Sharpe Brazilian,BRAP4,0.67,-9.4,-0.42,22.7,51.2
 Max Sharpe Brazilian,BPAC3,0.67,-22.0,-0.18,35.4,57.1
 Max Sharpe Brazilian,BBDC3,0.67,-15.1,-0.19,18.2,48.1
-Max Sharpe Brazilian,BRAP4,0.67,-9.4,-0.42,22.7,51.2
 Max Sharpe International,DUK,10.28,139.5,1.88,72.6,91.5
 Max Sharpe International,AAPL,9.33,963.2,3.8,98.9,95.6
 Max Sharpe International,ADBE,9.33,268.4,2.21,171.2,100.0
@@ -710,8 +710,8 @@ Min Variance All,TXN,3.14,-44.0,1.28,168.8,100.0
 Min Variance All,AMAT,2.98,-99.9,-1.74,130.8,100.0
 Min Variance All,EQIX,0.5,-100.0,-2.86,181.5,100.0
 Min Variance All,EOG,0.5,-99.4,-0.27,134.8,99.9
-Min Variance Brazilian,SANB11,12.5,94.3,2.94,26.5,43.8
 Min Variance Brazilian,EQTL3,12.5,53.3,2.03,42.4,72.9
+Min Variance Brazilian,SANB11,12.5,94.3,2.94,26.5,43.8
 Min Variance Brazilian,ITUB3,11.84,29.5,1.04,27.3,47.8
 Min Variance Brazilian,BPAC5,9.64,33.2,1.02,29.1,46.6
 Min Variance Brazilian,BPAC11,8.98,23.5,0.93,58.4,78.3
@@ -726,8 +726,8 @@ Min Variance Brazilian,WEGE3,2.23,14.0,0.7,32.4,48.2
 Min Variance Brazilian,SBSP3,2.11,7.6,0.55,39.4,63.8
 Min Variance Brazilian,PSSA3,1.0,13.6,0.7,34.5,65.0
 Min Variance Brazilian,BPAC3,0.5,-22.0,-0.18,35.4,57.1
-Min Variance Brazilian,BRAP4,0.5,-9.4,-0.42,22.7,51.2
 Min Variance Brazilian,ENEV3,0.5,7.9,0.59,23.9,40.9
+Min Variance Brazilian,BRAP4,0.5,-9.4,-0.42,22.7,51.2
 Min Variance International,CRM,6.42,41.2,1.46,122.8,100.0
 Min Variance International,ADBE,6.32,268.4,2.21,171.2,100.0
 Min Variance International,WM,6.31,45.3,1.46,132.3,100.0
@@ -841,12 +841,12 @@ Mega Diversified Brazilian,CSMG3,4.02,52.3,2.43,55.7,69.4
 Mega Diversified Brazilian,MGLU3,3.21,25.0,1.05,25.7,50.0
 Mega Diversified Brazilian,WEGE3,2.23,14.0,0.7,32.4,48.2
 Mega Diversified Brazilian,PSSA3,1.0,13.6,0.7,34.5,65.0
-Mega Diversified Brazilian,CPLE3,0.5,3.4,0.38,12.5,27.9
-Mega Diversified Brazilian,SBSP3,0.5,7.6,0.55,39.4,63.8
-Mega Diversified Brazilian,BPAC3,0.5,-22.0,-0.18,35.4,57.1
 Mega Diversified Brazilian,BBDC3,0.5,-15.1,-0.19,18.2,48.1
+Mega Diversified Brazilian,CPLE3,0.5,3.4,0.38,12.5,27.9
 Mega Diversified Brazilian,BRAP4,0.5,-9.4,-0.42,22.7,51.2
 Mega Diversified Brazilian,TASA3,0.5,5.5,0.74,18.1,42.2
+Mega Diversified Brazilian,BPAC3,0.5,-22.0,-0.18,35.4,57.1
+Mega Diversified Brazilian,SBSP3,0.5,7.6,0.55,39.4,63.8
 Mega Diversified Brazilian,ENEV3,0.5,7.9,0.59,23.9,40.9
 Mega Diversified Brazilian,CPFE3,0.5,10.3,0.78,38.7,61.6
 Mega Diversified International,CRM,5.31,41.2,1.46,122.8,100.0
@@ -1259,8 +1259,8 @@ Mean Reversion International 5,COST,20.0,-56.4,1.13,90.7,98.6
 Mean Reversion International 5,TXN,20.0,-44.0,1.28,168.8,100.0
 Mean Reversion International 5,COP,20.0,-73.8,0.52,128.0,99.9
 Mean Reversion International 5,EOG,20.0,-99.4,-0.27,134.8,99.9
-Quality All 5,AAPL,20.0,963.2,3.8,98.9,95.6
 Quality All 5,TAEE4,20.0,20.6,3.54,7.6,17.9
+Quality All 5,AAPL,20.0,963.2,3.8,98.9,95.6
 Quality All 5,SCCO,20.0,746.4,3.44,114.7,97.7
 Quality All 5,PINE4,20.0,60.6,3.22,26.2,55.2
 Quality All 5,AMD,20.0,833.3,3.1,115.4,95.0
@@ -1356,8 +1356,8 @@ Risk Parity International 5,PYPL,20.0,160.9,2.38,37.5,40.2
 Max Sharpe All 5,AAPL,20.0,963.2,3.8,98.9,95.6
 Max Sharpe All 5,ADBE,20.0,268.4,2.21,171.2,100.0
 Max Sharpe All 5,AMAT,20.0,-99.9,-1.74,130.8,100.0
-Max Sharpe All 5,ABEV,20.0,15.6,0.67,7.0,10.1
 Max Sharpe All 5,ALUP3,20.0,16.0,1.49,16.0,27.1
+Max Sharpe All 5,ABEV,20.0,15.6,0.67,7.0,10.1
 Max Sharpe Brazilian 5,BPAC5,38.55,33.2,1.02,29.1,46.6
 Max Sharpe Brazilian 5,BBDC3,23.67,-15.1,-0.19,18.2,48.1
 Max Sharpe Brazilian 5,BPAC3,17.41,-22.0,-0.18,35.4,57.1
@@ -1973,10 +1973,10 @@ Barbell All 10,HCA,12.92,362.7,1.08,99.9,92.7
 Barbell All 10,CMIG3,11.49,37.9,2.63,13.3,20.7
 Barbell All 10,GGBR4,8.83,40.6,1.73,21.7,33.3
 Barbell All 10,AMD,7.24,833.3,3.1,115.4,95.0
+Barbell All 10,SANB11,7.24,94.3,2.94,26.5,43.8
 Barbell All 10,AAPL,7.24,963.2,3.8,98.9,95.6
 Barbell All 10,SCCO,7.24,746.4,3.44,114.7,97.7
 Barbell All 10,TTWO,7.24,268.4,2.47,145.6,100.0
-Barbell All 10,SANB11,7.24,94.3,2.94,26.5,43.8
 Barbell Brazilian 10,CMIG3,23.24,37.9,2.63,13.3,20.7
 Barbell Brazilian 10,MILS3,23.24,35.1,2.18,9.2,6.7
 Barbell Brazilian 10,GGBR4,20.46,40.6,1.73,21.7,33.3
@@ -2619,10 +2619,10 @@ Max Sharpe All 20,ALUP3,9.71,16.0,1.49,16.0,27.1
 Max Sharpe All 20,BPAC5,9.64,33.2,1.02,29.1,46.6
 Max Sharpe All 20,BPAC11,8.98,23.5,0.93,58.4,78.3
 Max Sharpe All 20,CMIG3,7.87,37.9,2.63,13.3,20.7
-Max Sharpe All 20,CME,7.0,-100.0,0.11,260.3,100.0
 Max Sharpe All 20,BABA,7.0,65.2,1.32,126.3,97.4
-Max Sharpe All 20,ADBE,7.0,268.4,2.21,171.2,100.0
 Max Sharpe All 20,AAPL,7.0,963.2,3.8,98.9,95.6
+Max Sharpe All 20,ADBE,7.0,268.4,2.21,171.2,100.0
+Max Sharpe All 20,CME,7.0,-100.0,0.11,260.3,100.0
 Max Sharpe All 20,AMD,7.0,833.3,3.1,115.4,95.0
 Max Sharpe All 20,BAC,5.71,43.3,1.59,24.3,62.0
 Max Sharpe All 20,CMG,5.35,54.4,1.3,52.4,74.5
@@ -2630,10 +2630,10 @@ Max Sharpe All 20,ABEV,4.59,15.6,0.67,7.0,10.1
 Max Sharpe All 20,CIG,3.95,3.4,1.65,2.6,6.1
 Max Sharpe All 20,BRAP3,3.74,2.9,1.68,13.6,39.9
 Max Sharpe All 20,BSBR,1.17,-2.3,-0.59,6.3,14.2
-Max Sharpe All 20,AMAT,0.5,-99.9,-1.74,130.8,100.0
-Max Sharpe All 20,BRAP4,0.5,-9.4,-0.42,22.7,51.2
-Max Sharpe All 20,BBDC3,0.5,-15.1,-0.19,18.2,48.1
 Max Sharpe All 20,BPAC3,0.5,-22.0,-0.18,35.4,57.1
+Max Sharpe All 20,BBDC3,0.5,-15.1,-0.19,18.2,48.1
+Max Sharpe All 20,BRAP4,0.5,-9.4,-0.42,22.7,51.2
+Max Sharpe All 20,AMAT,0.5,-99.9,-1.74,130.8,100.0
 Max Sharpe Brazilian 20,EQTL3,12.5,53.3,2.03,42.4,72.9
 Max Sharpe Brazilian 20,GGBR4,11.69,40.6,1.73,21.7,33.3
 Max Sharpe Brazilian 20,ALUP3,11.4,16.0,1.49,16.0,27.1
@@ -2647,9 +2647,9 @@ Max Sharpe Brazilian 20,CPLE3,4.27,3.4,0.38,12.5,27.9
 Max Sharpe Brazilian 20,BRAP3,2.63,2.9,1.68,13.6,39.9
 Max Sharpe Brazilian 20,GOAU4,2.61,12.7,1.06,9.8,14.5
 Max Sharpe Brazilian 20,CPFE3,2.53,10.3,0.78,38.7,61.6
+Max Sharpe Brazilian 20,BBDC3,0.5,-15.1,-0.19,18.2,48.1
 Max Sharpe Brazilian 20,BPAC3,0.5,-22.0,-0.18,35.4,57.1
 Max Sharpe Brazilian 20,BRAP4,0.5,-9.4,-0.42,22.7,51.2
-Max Sharpe Brazilian 20,BBDC3,0.5,-15.1,-0.19,18.2,48.1
 Max Sharpe International 20,DUK,7.71,139.5,1.88,72.6,91.5
 Max Sharpe International 20,BSBR,7.44,-2.3,-0.59,6.3,14.2
 Max Sharpe International 20,CIG,7.19,3.4,1.65,2.6,6.1
@@ -2689,8 +2689,8 @@ Min Variance All 20,TXN,3.14,-44.0,1.28,168.8,100.0
 Min Variance All 20,AMAT,2.98,-99.9,-1.74,130.8,100.0
 Min Variance All 20,EQIX,0.5,-100.0,-2.86,181.5,100.0
 Min Variance All 20,EOG,0.5,-99.4,-0.27,134.8,99.9
-Min Variance Brazilian 20,SANB11,12.5,94.3,2.94,26.5,43.8
 Min Variance Brazilian 20,EQTL3,12.5,53.3,2.03,42.4,72.9
+Min Variance Brazilian 20,SANB11,12.5,94.3,2.94,26.5,43.8
 Min Variance Brazilian 20,ITUB3,11.84,29.5,1.04,27.3,47.8
 Min Variance Brazilian 20,BPAC5,9.64,33.2,1.02,29.1,46.6
 Min Variance Brazilian 20,BPAC11,8.98,23.5,0.93,58.4,78.3
@@ -2705,8 +2705,8 @@ Min Variance Brazilian 20,WEGE3,2.23,14.0,0.7,32.4,48.2
 Min Variance Brazilian 20,SBSP3,2.11,7.6,0.55,39.4,63.8
 Min Variance Brazilian 20,PSSA3,1.0,13.6,0.7,34.5,65.0
 Min Variance Brazilian 20,BPAC3,0.5,-22.0,-0.18,35.4,57.1
-Min Variance Brazilian 20,BRAP4,0.5,-9.4,-0.42,22.7,51.2
 Min Variance Brazilian 20,ENEV3,0.5,7.9,0.59,23.9,40.9
+Min Variance Brazilian 20,BRAP4,0.5,-9.4,-0.42,22.7,51.2
 Min Variance International 20,CRM,6.42,41.2,1.46,122.8,100.0
 Min Variance International 20,ADBE,6.32,268.4,2.21,171.2,100.0
 Min Variance International 20,WM,6.31,45.3,1.46,132.3,100.0
@@ -2822,8 +2822,8 @@ Mega Diversified All 20,TXN,3.27,-44.0,1.28,168.8,100.0
 Mega Diversified All 20,AMAT,3.12,-99.9,-1.74,130.8,100.0
 Mega Diversified All 20,EOG,0.53,-99.4,-0.27,134.8,99.9
 Mega Diversified All 20,EQIX,0.5,-100.0,-2.86,181.5,100.0
-Mega Diversified Brazilian 20,ITUB3,12.5,29.5,1.04,27.3,47.8
 Mega Diversified Brazilian 20,EQTL3,12.5,53.3,2.03,42.4,72.9
+Mega Diversified Brazilian 20,ITUB3,12.5,29.5,1.04,27.3,47.8
 Mega Diversified Brazilian 20,BPAC5,9.64,33.2,1.02,29.1,46.6
 Mega Diversified Brazilian 20,BPAC11,8.98,23.5,0.93,58.4,78.3
 Mega Diversified Brazilian 20,PINE4,8.31,60.6,3.22,26.2,55.2
@@ -2837,8 +2837,8 @@ Mega Diversified Brazilian 20,CPFE3,2.53,10.3,0.78,38.7,61.6
 Mega Diversified Brazilian 20,WEGE3,2.23,14.0,0.7,32.4,48.2
 Mega Diversified Brazilian 20,PSSA3,1.0,13.6,0.7,34.5,65.0
 Mega Diversified Brazilian 20,BBDC3,0.5,-15.1,-0.19,18.2,48.1
-Mega Diversified Brazilian 20,BPAC3,0.5,-22.0,-0.18,35.4,57.1
 Mega Diversified Brazilian 20,BRAP4,0.5,-9.4,-0.42,22.7,51.2
+Mega Diversified Brazilian 20,BPAC3,0.5,-22.0,-0.18,35.4,57.1
 Mega Diversified Brazilian 20,ENEV3,0.5,7.9,0.59,23.9,40.9
 Mega Diversified International 20,CRM,6.6,41.2,1.46,122.8,100.0
 Mega Diversified International 20,ADBE,6.5,268.4,2.21,171.2,100.0
