@@ -647,8 +647,8 @@ Max Sharpe Brazilian,BPAC3,8.71,-8.9,0.12,62.9,93.4
 Max Sharpe Brazilian,EQTL3,8.24,30.6,1.29,42.0,72.6
 Max Sharpe Brazilian,ALUP3,8.19,38.0,2.1,16.3,27.9
 Max Sharpe Brazilian,KLBN3,2.29,6.9,2.73,2.5,7.3
-Max Sharpe Brazilian,GGBR4,0.67,-12.2,-0.33,23.8,36.2
 Max Sharpe Brazilian,GOAU4,0.67,-1.1,0.03,10.1,14.7
+Max Sharpe Brazilian,GGBR4,0.67,-12.2,-0.33,23.8,36.2
 Max Sharpe International,OXY,10.71,111.3,1.95,69.7,93.7
 Max Sharpe International,WM,9.33,343.0,3.01,96.2,98.7
 Max Sharpe International,IDXX,9.33,488.7,2.7,168.8,100.0
@@ -683,25 +683,23 @@ Min Variance All,VRTX,1.06,-77.9,0.63,146.5,99.7
 Min Variance All,TXN,0.5,-72.5,0.51,142.1,100.0
 Min Variance All,CAT,0.5,-87.9,-0.34,133.0,99.0
 Min Variance All,MRK,0.5,-99.8,-1.08,62.9,65.7
-Min Variance Brazilian,VBBR3,12.5,96.6,3.86,26.7,61.4
-Min Variance Brazilian,CSMG3,10.64,88.2,2.57,52.6,68.3
-Min Variance Brazilian,LEVE3,10.47,45.9,2.08,29.2,54.4
-Min Variance Brazilian,SIMH3,9.99,62.6,2.12,28.0,59.2
-Min Variance Brazilian,SANB11,9.86,71.0,2.08,28.4,46.3
-Min Variance Brazilian,MGLU3,9.75,86.3,3.15,26.2,50.5
-Min Variance Brazilian,WEGE3,9.53,47.6,1.23,34.9,50.5
-Min Variance Brazilian,ENGI11,8.83,290.5,3.5,49.5,74.0
-Min Variance Brazilian,PETR3,6.18,143.3,3.31,43.1,65.3
-Min Variance Brazilian,ITUB4,4.05,66.0,1.49,32.4,58.3
-Min Variance Brazilian,SBSP3,3.69,54.3,2.19,39.0,63.5
-Min Variance Brazilian,VALE3,0.5,22.0,1.07,141.0,100.0
-Min Variance Brazilian,BPAC3,0.5,-8.9,0.12,62.9,93.4
-Min Variance Brazilian,EQTL3,0.5,30.6,1.29,42.0,72.6
-Min Variance Brazilian,CPFE3,0.5,4.9,0.68,33.9,57.0
-Min Variance Brazilian,PINE4,0.5,34.6,1.66,28.5,58.4
-Min Variance Brazilian,GGBR4,0.5,-12.2,-0.33,23.8,36.2
-Min Variance Brazilian,RAIL3,0.5,41.1,2.66,17.9,37.0
-Min Variance Brazilian,ALUP3,0.5,38.0,2.1,16.3,27.9
+Min Variance Brazilian,VBBR3,12.63,96.6,3.86,26.7,61.4
+Min Variance Brazilian,CSMG3,10.75,88.2,2.57,52.6,68.3
+Min Variance Brazilian,LEVE3,10.58,45.9,2.08,29.2,54.4
+Min Variance Brazilian,SIMH3,10.09,62.6,2.12,28.0,59.2
+Min Variance Brazilian,SANB11,9.96,71.0,2.08,28.4,46.3
+Min Variance Brazilian,MGLU3,9.85,86.3,3.15,26.2,50.5
+Min Variance Brazilian,WEGE3,9.63,47.6,1.23,34.9,50.5
+Min Variance Brazilian,ENGI11,8.91,290.5,3.5,49.5,74.0
+Min Variance Brazilian,PETR3,6.24,143.3,3.31,43.1,65.3
+Min Variance Brazilian,ITUB4,4.1,66.0,1.49,32.4,58.3
+Min Variance Brazilian,SBSP3,3.73,54.3,2.19,39.0,63.5
+Min Variance Brazilian,GGBR4,0.51,-12.2,-0.33,23.8,36.2
+Min Variance Brazilian,BPAC3,0.51,-8.9,0.12,62.9,93.4
+Min Variance Brazilian,CPFE3,0.51,4.9,0.68,33.9,57.0
+Min Variance Brazilian,ALUP3,0.51,38.0,2.1,16.3,27.9
+Min Variance Brazilian,PINE4,0.51,34.6,1.66,28.5,58.4
+Min Variance Brazilian,VALE3,0.51,22.0,1.07,141.0,100.0
 Min Variance International,OXY,8.04,111.3,1.95,69.7,93.7
 Min Variance International,SCHW,7.27,92.8,2.09,48.7,74.2
 Min Variance International,ICE,7.19,1269.9,1.7,54.5,57.6
@@ -766,9 +764,9 @@ Concentrated All,IDXX,20.0,488.7,2.7,168.8,100.0
 Concentrated All,ENGI11,20.0,290.5,3.5,49.5,74.0
 Concentrated All,WM,20.0,343.0,3.01,96.2,98.7
 Concentrated All,PETR4,20.0,194.8,3.93,34.6,65.0
-Concentrated Brazilian,VBBR3,20.0,96.6,3.86,26.7,61.4
 Concentrated Brazilian,ENGI11,20.0,290.5,3.5,49.5,74.0
 Concentrated Brazilian,PETR4,20.0,194.8,3.93,34.6,65.0
+Concentrated Brazilian,VBBR3,20.0,96.6,3.86,26.7,61.4
 Concentrated International,ICE,20.0,1269.9,1.7,54.5,57.6
 Concentrated International,IDXX,20.0,488.7,2.7,168.8,100.0
 Concentrated International,WM,20.0,343.0,3.01,96.2,98.7
@@ -778,51 +776,49 @@ Mega Diversified All,ENGI11,7.48,290.5,3.5,49.5,74.0
 Mega Diversified All,OXY,6.16,111.3,1.95,69.7,93.7
 Mega Diversified All,SCHW,5.78,92.8,2.09,48.7,74.2
 Mega Diversified All,CSMG3,5.63,88.2,2.57,52.6,68.3
-Mega Diversified All,IDXX,5.6,488.7,2.7,168.8,100.0
-Mega Diversified All,SCCO,5.6,356.9,2.43,158.1,100.0
-Mega Diversified All,CRM,5.6,182.1,1.97,124.4,100.0
-Mega Diversified All,UNH,5.6,226.1,2.19,98.3,95.0
-Mega Diversified All,WM,5.6,343.0,3.01,96.2,98.7
-Mega Diversified All,PM,5.6,212.2,2.2,97.9,72.9
-Mega Diversified All,DIS,5.6,234.9,3.32,87.1,89.7
 Mega Diversified All,COP,5.6,209.9,2.68,97.6,93.1
+Mega Diversified All,DIS,5.6,234.9,3.32,87.1,89.7
+Mega Diversified All,PM,5.6,212.2,2.2,97.9,72.9
+Mega Diversified All,WM,5.6,343.0,3.01,96.2,98.7
+Mega Diversified All,SCCO,5.6,356.9,2.43,158.1,100.0
+Mega Diversified All,UNH,5.6,226.1,2.19,98.3,95.0
+Mega Diversified All,CRM,5.6,182.1,1.97,124.4,100.0
+Mega Diversified All,IDXX,5.6,488.7,2.7,168.8,100.0
 Mega Diversified All,ICE,4.89,1269.9,1.7,54.5,57.6
 Mega Diversified All,CPFE3,4.69,4.9,0.68,33.9,57.0
 Mega Diversified All,VALE3,4.62,22.0,1.07,141.0,100.0
 Mega Diversified All,BPAC3,3.98,-8.9,0.12,62.9,93.4
+Mega Diversified All,HSBC,2.8,-59.6,0.29,81.4,99.5
 Mega Diversified All,SLB,2.8,38.9,1.08,140.0,100.0
 Mega Diversified All,ASML,2.8,25.0,1.19,161.0,100.0
-Mega Diversified All,HSBC,2.8,-59.6,0.29,81.4,99.5
 Mega Diversified All,VRTX,1.06,-77.9,0.63,146.5,99.7
-Mega Diversified All,CMG,0.5,-94.7,-1.16,44.0,67.9
-Mega Diversified All,MS,0.5,-94.6,0.33,130.4,100.0
 Mega Diversified All,TXN,0.5,-72.5,0.51,142.1,100.0
 Mega Diversified All,CAT,0.5,-87.9,-0.34,133.0,99.0
 Mega Diversified All,MRK,0.5,-99.8,-1.08,62.9,65.7
-Mega Diversified Brazilian,VBBR3,12.5,96.6,3.86,26.7,61.4
-Mega Diversified Brazilian,LEVE3,12.5,45.9,2.08,29.2,54.4
-Mega Diversified Brazilian,MGLU3,9.75,86.3,3.15,26.2,50.5
-Mega Diversified Brazilian,WEGE3,9.53,47.6,1.23,34.9,50.5
-Mega Diversified Brazilian,ENGI11,8.83,290.5,3.5,49.5,74.0
-Mega Diversified Brazilian,CSMG3,8.51,88.2,2.57,52.6,68.3
-Mega Diversified Brazilian,SIMH3,7.99,62.6,2.12,28.0,59.2
-Mega Diversified Brazilian,SANB11,7.89,71.0,2.08,28.4,46.3
-Mega Diversified Brazilian,RAIL3,5.59,41.1,2.66,17.9,37.0
-Mega Diversified Brazilian,ITUB4,4.05,66.0,1.49,32.4,58.3
-Mega Diversified Brazilian,SBSP3,3.69,54.3,2.19,39.0,63.5
-Mega Diversified Brazilian,PETR4,2.66,194.8,3.93,34.6,65.0
-Mega Diversified Brazilian,PINE4,0.5,34.6,1.66,28.5,58.4
-Mega Diversified Brazilian,BPAC3,0.5,-8.9,0.12,62.9,93.4
-Mega Diversified Brazilian,GOAU4,0.5,-1.1,0.03,10.1,14.7
-Mega Diversified Brazilian,ALUP3,0.5,38.0,2.1,16.3,27.9
-Mega Diversified Brazilian,EQTL3,0.5,30.6,1.29,42.0,72.6
-Mega Diversified Brazilian,GGBR4,0.5,-12.2,-0.33,23.8,36.2
-Mega Diversified Brazilian,SAPR3,0.5,11.8,3.23,13.2,34.4
-Mega Diversified Brazilian,TAEE4,0.5,62.7,2.21,10.9,14.6
-Mega Diversified Brazilian,CSAN3,0.5,9.5,0.95,11.9,28.6
-Mega Diversified Brazilian,BRKM6,0.5,7.1,1.5,14.9,45.6
-Mega Diversified Brazilian,VALE3,0.5,22.0,1.07,141.0,100.0
-Mega Diversified Brazilian,CPFE3,0.5,4.9,0.68,33.9,57.0
+Mega Diversified All,MS,0.5,-94.6,0.33,130.4,100.0
+Mega Diversified All,CMG,0.5,-94.7,-1.16,44.0,67.9
+Mega Diversified Brazilian,LEVE3,12.63,45.9,2.08,29.2,54.4
+Mega Diversified Brazilian,VBBR3,12.63,96.6,3.86,26.7,61.4
+Mega Diversified Brazilian,MGLU3,9.85,86.3,3.15,26.2,50.5
+Mega Diversified Brazilian,WEGE3,9.63,47.6,1.23,34.9,50.5
+Mega Diversified Brazilian,ENGI11,8.91,290.5,3.5,49.5,74.0
+Mega Diversified Brazilian,CSMG3,8.6,88.2,2.57,52.6,68.3
+Mega Diversified Brazilian,SIMH3,8.07,62.6,2.12,28.0,59.2
+Mega Diversified Brazilian,SANB11,7.97,71.0,2.08,28.4,46.3
+Mega Diversified Brazilian,RAIL3,5.65,41.1,2.66,17.9,37.0
+Mega Diversified Brazilian,ITUB4,4.1,66.0,1.49,32.4,58.3
+Mega Diversified Brazilian,SBSP3,3.73,54.3,2.19,39.0,63.5
+Mega Diversified Brazilian,PETR4,2.69,194.8,3.93,34.6,65.0
+Mega Diversified Brazilian,GGBR4,0.51,-12.2,-0.33,23.8,36.2
+Mega Diversified Brazilian,CPFE3,0.51,4.9,0.68,33.9,57.0
+Mega Diversified Brazilian,PINE4,0.51,34.6,1.66,28.5,58.4
+Mega Diversified Brazilian,CSAN3,0.51,9.5,0.95,11.9,28.6
+Mega Diversified Brazilian,BRKM6,0.51,7.1,1.5,14.9,45.6
+Mega Diversified Brazilian,SAPR3,0.51,11.8,3.23,13.2,34.4
+Mega Diversified Brazilian,GOAU4,0.51,-1.1,0.03,10.1,14.7
+Mega Diversified Brazilian,BPAC3,0.51,-8.9,0.12,62.9,93.4
+Mega Diversified Brazilian,TAEE4,0.51,62.7,2.21,10.9,14.6
+Mega Diversified Brazilian,VALE3,0.51,22.0,1.07,141.0,100.0
 Mega Diversified International,CSX,7.53,118.2,2.96,27.1,42.4
 Mega Diversified International,SCHW,7.27,92.8,2.09,48.7,74.2
 Mega Diversified International,OXY,6.99,111.3,1.95,69.7,93.7
@@ -1071,8 +1067,8 @@ Max Diversification International 3,CMG,33.33,-94.7,-1.16,44.0,67.9
 Concentrated All 3,ICE,33.33,1269.9,1.7,54.5,57.6
 Concentrated All 3,IDXX,33.33,488.7,2.7,168.8,100.0
 Concentrated All 3,ENGI11,33.33,290.5,3.5,49.5,74.0
-Concentrated Brazilian 3,PETR4,33.33,194.8,3.93,34.6,65.0
 Concentrated Brazilian 3,ENGI11,33.33,290.5,3.5,49.5,74.0
+Concentrated Brazilian 3,PETR4,33.33,194.8,3.93,34.6,65.0
 Concentrated International 3,ICE,33.33,1269.9,1.7,54.5,57.6
 Concentrated International 3,IDXX,33.33,488.7,2.7,168.8,100.0
 Concentrated International 3,WM,33.33,343.0,3.01,96.2,98.7
@@ -1356,9 +1352,9 @@ Concentrated All 5,IDXX,20.0,488.7,2.7,168.8,100.0
 Concentrated All 5,ENGI11,20.0,290.5,3.5,49.5,74.0
 Concentrated All 5,WM,20.0,343.0,3.01,96.2,98.7
 Concentrated All 5,PETR4,20.0,194.8,3.93,34.6,65.0
-Concentrated Brazilian 5,VBBR3,20.0,96.6,3.86,26.7,61.4
 Concentrated Brazilian 5,ENGI11,20.0,290.5,3.5,49.5,74.0
 Concentrated Brazilian 5,PETR4,20.0,194.8,3.93,34.6,65.0
+Concentrated Brazilian 5,VBBR3,20.0,96.6,3.86,26.7,61.4
 Concentrated International 5,ICE,20.0,1269.9,1.7,54.5,57.6
 Concentrated International 5,IDXX,20.0,488.7,2.7,168.8,100.0
 Concentrated International 5,WM,20.0,343.0,3.01,96.2,98.7
@@ -1811,20 +1807,20 @@ Max Diversification International 10,COP,9.85,209.9,2.68,97.6,93.1
 Max Diversification International 10,CRM,7.3,182.1,1.97,124.4,100.0
 Max Diversification International 10,CAT,3.17,-87.9,-0.34,133.0,99.0
 Max Diversification International 10,CMG,2.84,-94.7,-1.16,44.0,67.9
-Concentrated All 10,ICE,12.5,1269.9,1.7,54.5,57.6
 Concentrated All 10,IDXX,12.5,488.7,2.7,168.8,100.0
 Concentrated All 10,ENGI11,12.5,290.5,3.5,49.5,74.0
 Concentrated All 10,WM,12.5,343.0,3.01,96.2,98.7
-Concentrated All 10,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated All 10,DIS,12.5,234.9,3.32,87.1,89.7
 Concentrated All 10,SCCO,12.5,356.9,2.43,158.1,100.0
+Concentrated All 10,ICE,12.5,1269.9,1.7,54.5,57.6
+Concentrated All 10,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated All 10,PG,12.5,271.9,2.53,59.1,49.9
 Concentrated Brazilian 10,ENGI11,12.5,290.5,3.5,49.5,74.0
-Concentrated Brazilian 10,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated Brazilian 10,VBBR3,12.5,96.6,3.86,26.7,61.4
 Concentrated Brazilian 10,MGLU3,12.5,86.3,3.15,26.2,50.5
 Concentrated Brazilian 10,CSMG3,12.5,88.2,2.57,52.6,68.3
 Concentrated Brazilian 10,RAIL3,12.5,41.1,2.66,17.9,37.0
+Concentrated Brazilian 10,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated International 10,IDXX,12.5,488.7,2.7,168.8,100.0
 Concentrated International 10,WM,12.5,343.0,3.01,96.2,98.7
 Concentrated International 10,DIS,12.5,234.9,3.32,87.1,89.7
@@ -2503,25 +2499,23 @@ Min Variance All 20,VRTX,1.06,-77.9,0.63,146.5,99.7
 Min Variance All 20,TXN,0.5,-72.5,0.51,142.1,100.0
 Min Variance All 20,CAT,0.5,-87.9,-0.34,133.0,99.0
 Min Variance All 20,MRK,0.5,-99.8,-1.08,62.9,65.7
-Min Variance Brazilian 20,VBBR3,12.5,96.6,3.86,26.7,61.4
-Min Variance Brazilian 20,CSMG3,10.64,88.2,2.57,52.6,68.3
-Min Variance Brazilian 20,LEVE3,10.47,45.9,2.08,29.2,54.4
-Min Variance Brazilian 20,SIMH3,9.99,62.6,2.12,28.0,59.2
-Min Variance Brazilian 20,SANB11,9.86,71.0,2.08,28.4,46.3
-Min Variance Brazilian 20,MGLU3,9.75,86.3,3.15,26.2,50.5
-Min Variance Brazilian 20,WEGE3,9.53,47.6,1.23,34.9,50.5
-Min Variance Brazilian 20,ENGI11,8.83,290.5,3.5,49.5,74.0
-Min Variance Brazilian 20,PETR3,6.18,143.3,3.31,43.1,65.3
-Min Variance Brazilian 20,ITUB4,4.05,66.0,1.49,32.4,58.3
-Min Variance Brazilian 20,SBSP3,3.69,54.3,2.19,39.0,63.5
-Min Variance Brazilian 20,VALE3,0.5,22.0,1.07,141.0,100.0
-Min Variance Brazilian 20,BPAC3,0.5,-8.9,0.12,62.9,93.4
-Min Variance Brazilian 20,EQTL3,0.5,30.6,1.29,42.0,72.6
-Min Variance Brazilian 20,CPFE3,0.5,4.9,0.68,33.9,57.0
-Min Variance Brazilian 20,PINE4,0.5,34.6,1.66,28.5,58.4
-Min Variance Brazilian 20,GGBR4,0.5,-12.2,-0.33,23.8,36.2
-Min Variance Brazilian 20,RAIL3,0.5,41.1,2.66,17.9,37.0
-Min Variance Brazilian 20,ALUP3,0.5,38.0,2.1,16.3,27.9
+Min Variance Brazilian 20,VBBR3,12.63,96.6,3.86,26.7,61.4
+Min Variance Brazilian 20,CSMG3,10.75,88.2,2.57,52.6,68.3
+Min Variance Brazilian 20,LEVE3,10.58,45.9,2.08,29.2,54.4
+Min Variance Brazilian 20,SIMH3,10.09,62.6,2.12,28.0,59.2
+Min Variance Brazilian 20,SANB11,9.96,71.0,2.08,28.4,46.3
+Min Variance Brazilian 20,MGLU3,9.85,86.3,3.15,26.2,50.5
+Min Variance Brazilian 20,WEGE3,9.63,47.6,1.23,34.9,50.5
+Min Variance Brazilian 20,ENGI11,8.91,290.5,3.5,49.5,74.0
+Min Variance Brazilian 20,PETR3,6.24,143.3,3.31,43.1,65.3
+Min Variance Brazilian 20,ITUB4,4.1,66.0,1.49,32.4,58.3
+Min Variance Brazilian 20,SBSP3,3.73,54.3,2.19,39.0,63.5
+Min Variance Brazilian 20,GGBR4,0.51,-12.2,-0.33,23.8,36.2
+Min Variance Brazilian 20,BPAC3,0.51,-8.9,0.12,62.9,93.4
+Min Variance Brazilian 20,CPFE3,0.51,4.9,0.68,33.9,57.0
+Min Variance Brazilian 20,ALUP3,0.51,38.0,2.1,16.3,27.9
+Min Variance Brazilian 20,PINE4,0.51,34.6,1.66,28.5,58.4
+Min Variance Brazilian 20,VALE3,0.51,22.0,1.07,141.0,100.0
 Min Variance International 20,OXY,8.04,111.3,1.95,69.7,93.7
 Min Variance International 20,SCHW,7.27,92.8,2.09,48.7,74.2
 Min Variance International 20,ICE,7.19,1269.9,1.7,54.5,57.6
@@ -2593,20 +2587,20 @@ Max Diversification International 20,OXY,2.29,111.3,1.95,69.7,93.7
 Max Diversification International 20,CRM,2.25,182.1,1.97,124.4,100.0
 Max Diversification International 20,IDXX,2.04,488.7,2.7,168.8,100.0
 Max Diversification International 20,CSX,1.87,118.2,2.96,27.1,42.4
-Concentrated All 20,ICE,12.5,1269.9,1.7,54.5,57.6
 Concentrated All 20,IDXX,12.5,488.7,2.7,168.8,100.0
 Concentrated All 20,ENGI11,12.5,290.5,3.5,49.5,74.0
 Concentrated All 20,WM,12.5,343.0,3.01,96.2,98.7
-Concentrated All 20,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated All 20,DIS,12.5,234.9,3.32,87.1,89.7
 Concentrated All 20,SCCO,12.5,356.9,2.43,158.1,100.0
+Concentrated All 20,ICE,12.5,1269.9,1.7,54.5,57.6
+Concentrated All 20,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated All 20,PG,12.5,271.9,2.53,59.1,49.9
 Concentrated Brazilian 20,ENGI11,12.5,290.5,3.5,49.5,74.0
-Concentrated Brazilian 20,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated Brazilian 20,VBBR3,12.5,96.6,3.86,26.7,61.4
 Concentrated Brazilian 20,MGLU3,12.5,86.3,3.15,26.2,50.5
 Concentrated Brazilian 20,CSMG3,12.5,88.2,2.57,52.6,68.3
 Concentrated Brazilian 20,RAIL3,12.5,41.1,2.66,17.9,37.0
+Concentrated Brazilian 20,PETR4,12.5,194.8,3.93,34.6,65.0
 Concentrated International 20,IDXX,12.5,488.7,2.7,168.8,100.0
 Concentrated International 20,WM,12.5,343.0,3.01,96.2,98.7
 Concentrated International 20,DIS,12.5,234.9,3.32,87.1,89.7
@@ -2635,8 +2629,8 @@ Mega Diversified All 20,VRTX,1.06,-77.9,0.63,146.5,99.7
 Mega Diversified All 20,MRK,0.5,-99.8,-1.08,62.9,65.7
 Mega Diversified All 20,CAT,0.5,-87.9,-0.34,133.0,99.0
 Mega Diversified All 20,TXN,0.5,-72.5,0.51,142.1,100.0
-Mega Diversified Brazilian 20,VBBR3,12.5,96.6,3.86,26.7,61.4
 Mega Diversified Brazilian 20,LEVE3,12.5,45.9,2.08,29.2,54.4
+Mega Diversified Brazilian 20,VBBR3,12.5,96.6,3.86,26.7,61.4
 Mega Diversified Brazilian 20,CSMG3,10.64,88.2,2.57,52.6,68.3
 Mega Diversified Brazilian 20,SIMH3,9.99,62.6,2.12,28.0,59.2
 Mega Diversified Brazilian 20,SANB11,9.86,71.0,2.08,28.4,46.3
@@ -2647,13 +2641,13 @@ Mega Diversified Brazilian 20,ITUB4,4.05,66.0,1.49,32.4,58.3
 Mega Diversified Brazilian 20,SBSP3,3.69,54.3,2.19,39.0,63.5
 Mega Diversified Brazilian 20,PETR4,2.66,194.8,3.93,34.6,65.0
 Mega Diversified Brazilian 20,RAIL3,1.99,41.1,2.66,17.9,37.0
-Mega Diversified Brazilian 20,VALE3,0.5,22.0,1.07,141.0,100.0
+Mega Diversified Brazilian 20,GGBR4,0.5,-12.2,-0.33,23.8,36.2
 Mega Diversified Brazilian 20,BPAC3,0.5,-8.9,0.12,62.9,93.4
 Mega Diversified Brazilian 20,CPFE3,0.5,4.9,0.68,33.9,57.0
-Mega Diversified Brazilian 20,EQTL3,0.5,30.6,1.29,42.0,72.6
 Mega Diversified Brazilian 20,PINE4,0.5,34.6,1.66,28.5,58.4
-Mega Diversified Brazilian 20,GGBR4,0.5,-12.2,-0.33,23.8,36.2
 Mega Diversified Brazilian 20,ALUP3,0.5,38.0,2.1,16.3,27.9
+Mega Diversified Brazilian 20,VALE3,0.5,22.0,1.07,141.0,100.0
+Mega Diversified Brazilian 20,EQTL3,0.5,30.6,1.29,42.0,72.6
 Mega Diversified International 20,OXY,8.04,111.3,1.95,69.7,93.7
 Mega Diversified International 20,SCHW,7.27,92.8,2.09,48.7,74.2
 Mega Diversified International 20,ICE,7.19,1269.9,1.7,54.5,57.6
